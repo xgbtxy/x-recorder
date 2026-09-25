@@ -31,3 +31,4 @@
 
 - 已入库 TG：`records/vpn-proxy/aws-midrelay-jichangtj-airport-tg.md`（t.me/jichangtj/1203）曾写「同源 X 本轮未核到」——本条拟补 X 交叉，**不同平台出处，非双记同一链接**。
 - 裁定：独立成条（平台出处不同）；TG 条已回填本 X 链接。
+- 机制向交叉：`divid-lu-aws-midrelay-behavior-analysis.md`（https://x.com/divid_lu49394/status/2098490860354871669）

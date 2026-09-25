@@ -67,6 +67,7 @@
 | 比特冲刺 DASHBIT · SpeedCentre（TG） | vpn-proxy | 已核 | https://t.me/speedcentre/14115 |
 | Free Proxy Airport 自动测速（X） | vpn-proxy | 已核 | https://x.com/tyiiopple/status/2100729531850227787 |
 | AWS 海外中转异常观察（X·jichangtj） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098410173245337604 |
+| AWS 中转「测速正常、带载超时」机制分析（X） | vpn-proxy | 已核 | https://x.com/divid_lu49394/status/2098490860354871669 |
 | @jichangtj 2026 评测/测速索引（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2076920947072975302 |
 | Clash「经典回归」辨伪（jichangtj→Fndroid） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098964330473836682 |
 | [低价] 86中转停服大陆 IP（TG） | other | 已核 | https://t.me/api86channel/12 |
