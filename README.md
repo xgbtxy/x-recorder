@@ -17,7 +17,8 @@
 - [`records/security-tools/`](./records/security-tools/) — 网络安全 / 逆向 / 攻防工具
 - [`records/vpn-proxy/`](./records/vpn-proxy/) — VPN / 代理 / 网络访问相关（优先：网速向「机场/订阅」公开测速与评测；开源客户端仍收；不写绕过教程）
 - [`records/ai-resources/`](./records/ai-resources/) — 模型、Agent、提示、数据集、AI 工具
-- [`records/other/`](./records/other/) — 暂不好归类但有价值的
+- [`records/other/`](./records/other/) — 暂不好归类但有价值的（含低价卡网/优惠渠道线索，标题可标 `[低价]`）
+- 低价线草稿目录：[`drafts/deals/`](./drafts/deals/)
 
 新条目用 [`templates/record.md`](./templates/record.md)。
 
