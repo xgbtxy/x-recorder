@@ -98,6 +98,10 @@
 | GitHub Copilot Agent Skills | ai-resources | 已核 | https://x.com/github/status/2003229314112770052 |
 | ChatGPT MCP Tools | ai-resources | 已核 | https://x.com/OpenAIDevs/status/1965807401745207708 |
 | Replit Agent MCP | ai-resources | 已核 | https://x.com/Replit/status/1998085186513473803 |
+| Figma MCP（use_figma + Skills） | ai-resources | 已核 | https://x.com/figma/status/2036434766661296602 |
+| Prisma MCP | ai-resources | 已核 | https://x.com/prisma/status/1905590716480585815 |
+| Scenario GameDev OS Skills | ai-resources | 已核 | https://x.com/Scenario_gg/status/2103460573895659982 |
+| Cua Driver MCP + Skill | ai-resources | 已核 | https://x.com/trycua/status/2103498682532253734 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
