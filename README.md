@@ -129,6 +129,11 @@
 | Archify Skills | ai-resources | 已核 | https://x.com/midudev/status/2094425974406320207 |
 | Impeccable Skills | ai-resources | 已核 | https://x.com/ivanleomk/status/2041371674248147047 |
 | ECC（Everything Claude Code） | ai-resources | 已核 | https://x.com/nicos_ai/status/2060766377670013188 |
+| vercel-labs/agent-skills | ai-resources | 已核 | https://x.com/rauchg/status/2011179888976544134 |
+| anthropics/skills | ai-resources | 已核 | https://x.com/alexalbert__/status/1978877498411880550 |
+| Taste Skill | ai-resources | 已核 | https://x.com/LexnLin/status/2100842256630534283 |
+| ui-ux-pro-max | ai-resources | 已核 | https://x.com/Voxyz_ai/status/2071928115052335364 |
+| Caveman Skills | ai-resources | 已核 | https://x.com/tetumemo/status/2045102005908332881 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
