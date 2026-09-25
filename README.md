@@ -2,7 +2,7 @@
 
 从 X（Twitter）推文里摘有价值的关键点，做成可检索的记录库。
 
-**硬规则：每一条记录必须有可点开的 X 来源链接。没有链接的不入库。**
+**硬规则：每一条记录必须有可点开的出处链接（优先 X status；已批 TG 频道可用消息链接并标明平台）。没有可核对出处的不入库。**
 
 和 `project-collect` 的分工：
 
@@ -21,6 +21,8 @@
 - 低价线草稿目录：[`drafts/deals/`](./drafts/deals/)
 
 新条目用 [`templates/record.md`](./templates/record.md)。
+
+运维与审推纪律见 [`docs/OPS.md`](./docs/OPS.md)（草稿目录、专员边界、审计清单、建小弟标准）。
 
 ## 索引
 
