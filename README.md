@@ -360,6 +360,8 @@
 | [低价·bot·价目] @parsgptbot تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/parsgptbot |
 | [低价·bot·价目] @taynikstore_bot 站内 API 多品价目（风险观察） | other/em-shop | 已核 | https://t.me/taynikstore_bot |
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
+| [低价·bot·价目] @ZykoLand_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/ZykoLand_bot |
+| [低价·bot·价目] @Premium_Shop_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Premium_Shop_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
