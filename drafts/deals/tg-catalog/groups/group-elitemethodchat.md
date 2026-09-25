@@ -3,7 +3,8 @@
 - 状态：候选
 - 记录日期：2026-09-26
 - **平台**：Telegram
-- **群用户名 / 链接**：https://t.me/elitemethodchat
+- **群用户名（必填）**：`@elitemethodchat`
+- **群链接**：https://t.me/elitemethodchat
 - **访问**：**需登录**（公开 `t.me/s/elitemethodchat` 为 join gate，无帖体）
 - **采集方式**：阿言 Telegram Web 只读（2026-09-26）；聊天列表显示名疑似「EM Chat Group」
 - **发现出处**：阿言点名 + Saved Messages 存链；群内 msgid **采集中**
