@@ -449,6 +449,9 @@
 | [低价·群] @mguishu FEI AI Plus卡网（风险观察） | other/tg-catalog | 已核 | https://t.me/mguishu |
 | [低价·群] @CHATGPTaigongshi OpenAI中文社区（风险观察） | other/tg-catalog | 已核 | https://t.me/CHATGPTaigongshi |
 | [低价·群] @duoqudaochengpin 靠谱AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/duoqudaochengpin |
+| [低价·群] @gpt_kedaya 小菲猪后援会（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_kedaya |
+| [低价·群] @a6apicom A6api Token交易所（风险观察） | other/tg-catalog | 已核 | https://t.me/a6apicom |
+| [低价·群] @DaFeiverls ChatGPT plus账号群（风险观察） | other/tg-catalog | 已核 | https://t.me/DaFeiverls |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
