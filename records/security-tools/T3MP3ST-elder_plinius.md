@@ -1,6 +1,6 @@
 # T3MP3ST：把现有 Coding Agent 接成授权红队 harness
 
-- 状态：候选
+- 状态：已核（仓库可打开；X 页需浏览器复核）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/elder_plinius/status/2073579120135664102
@@ -21,7 +21,7 @@
 ## 价值判断
 
 - 为什么值得记：公开「Agent + 进攻安全编排」入口，和库内 ASC / reverse-skill 同属 AI×安全工具线，可跟进 harness / MCP / 基准复现方法。
-- 风险 / 待核实：基准数字与「swarm 已可用」叙事需以 README 状态表 + `verify-claims` 为准；部分算子/领域在文档中仍标 experimental / roadmap；仅记公开入口，不收录利用步骤。
+- 风险 / 待核实：仓库抽查约 6.2k★（以仓库页为准）；基准数字与「swarm 已可用」叙事需以 README + `verify-claims` 为准；仅记公开入口，不收录利用步骤。授权使用声明需遵守。
 
 ## 原文摘要（可选）
 
