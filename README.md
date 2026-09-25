@@ -130,6 +130,8 @@
 | [低价·bot] @VouchersShopBot 闪购（风险观察） | other | 已核 | https://t.me/VouchersShopBot |
 | [低价·bot] @Prime_Gadget_Store_bot（风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
+| [低价·bot] @TrustedShopingbot Claude Gift（风险观察） | other | 已核 | https://t.me/TrustedShopingbot |
+| [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
