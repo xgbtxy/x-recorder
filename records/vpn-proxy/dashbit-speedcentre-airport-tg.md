@@ -1,6 +1,6 @@
 # [机场测速] 比特冲刺 DASHBIT · SpeedCentre（广西移动 / 低倍率直连+中转）
 
-- 状态：候选
+- 状态：已核（官网可开；SpeedCentre 结构测速帖；测试≠推荐）
 - 分类：vpn-proxy
 - 记录日期：2026-09-25
 - **平台**：Telegram
