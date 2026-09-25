@@ -12,7 +12,7 @@
 ## 要点
 
 - 公开自称双向联系机器人（relay）；**非**多品美元价目店，**不**交叉 em-shop。
-- 同运营线索：`@tokenfreed`（主交流群）、`@hackerstrin`（通知频道）、站外 nerver.cc 导航；另见公益向群 `@nerverai`（本批未立档）。
+- 同运营线索：`@tokenfreed`（主交流群）、`@hackerstrin`（通知频道）、站外 nerver.cc 导航；另见公益向群 `@nerverai`（已立群档 `group-nerverai.md`）。
 - 是否群内延伸 bot：管理侧公开挂名；群简介本身未直接写 bot 名。
 
 ## 价值判断

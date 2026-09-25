@@ -20,7 +20,7 @@
 ## 要点
 
 - 群定位：鲸鲨 / Nerver 生态主交流群；简介以通知频道 + 官方导航 + 卡网 + 中转站为主。
-- 与其他群关系：通知频道 `@hackerstrin`（纯频道不立群档）；同站另见公益向交流群 `@nerverai`（约 433 members，本批名额满未另立档，可下批）；频道 `@nervercc`。
+- 与其他群关系：通知频道 `@hackerstrin`（纯频道不立群档）；同站另见公益向交流群 `@nerverai`（已另立群档 `group-nerverai.md`）；频道 `@nervercc`。
 - 如何发现：A 批跳过表；简介与 hackerstrin 公开窗可互证。
 
 ## 风险 / 待核实（强制）

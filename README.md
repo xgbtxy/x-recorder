@@ -396,6 +396,11 @@
 | [低价·群] @aiagent8080 代充同行交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiagent8080 |
 | [低价·bot] @laogou_support_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_support_bot |
 | [低价·bot] @oascfbot 发卡网客服（风险观察） | other/tg-catalog | 已核 | https://t.me/oascfbot |
+| [低价·群] @Aiquanzi 美区iOS质保小群（风险观察） | other/tg-catalog | 已核 | https://t.me/Aiquanzi |
+| [低价·群] @nerverai Nerver公益交流（风险观察） | other/tg-catalog | 已核 | https://t.me/nerverai |
+| [低价·群] @chatgptplusdeal Buy&Sell Worldwide（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusdeal |
+| [低价·群] @chineseChatGpt 中文体验群（风险观察） | other/tg-catalog | 已核 | https://t.me/chineseChatGpt |
+| [低价·bot] @Super_ChatGptBot 群内体验（风险观察） | other/tg-catalog | 已核 | https://t.me/Super_ChatGptBot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
