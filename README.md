@@ -78,6 +78,11 @@
 | ElevenLabs MCP | ai-resources | 已核 | https://x.com/ElevenLabs/status/1909300782673101265 |
 | browse.sh Browserbase Skills | ai-resources | 已核 | https://x.com/browserbase/status/2056404332824944970 |
 | Cline SDK | ai-resources | 已核 | https://x.com/cline/status/2054580767779700775 |
+| NVIDIA-Verified Agent Skills | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2087887993025843391 |
+| Crush 终端 Coding Agent | ai-resources | 已核 | https://x.com/charmcli/status/1985374223783621051 |
+| Goose AAIF 本机 Agent | ai-resources | 已核 | https://x.com/goose_oss/status/2062310564660224145 |
+| Notion MCP | ai-resources | 已核 | https://x.com/NotionHQ/status/2095923091134206448 |
+| Linear MCP Inbox | ai-resources | 已核 | https://x.com/linear/status/2102431323889775037 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
