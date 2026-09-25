@@ -1,0 +1,117 @@
+META|dialogs_total|41
+META|FOUND|鲸鲨源头交流群-主|id|-1003945610150
+META|FOUND|Claude 资源/技术|id|-1003830420390
+META|FOUND|gemini 交流群|id|-1003728745211
+META|FOUND|BUYING & SELLING WORLDWIDE|id|-1002672365667
+META|FOUND|EM Chat Group|id|-1003595350954
+META|MISSING|VIP Methods
+META|SCAN_START|鲸鲨源头交流群-主
+GROUP|鲸鲨源头交流群-主|MSG|171165|BOT|@hackerstri_bot|SNIP|nerver 连接的 lobehub 账户怎么登客户端啊 @hackerstri|LINKHINT|t.me/tokenfreed/171165
+META|BOTS_UNIQUE|鲸鲨源头交流群-主|1|hackerstri_bot
+META|SCAN_END|鲸鲨源头交流群-主
+META|SCAN_START|Claude 资源/技术
+META|NO_BOTS|Claude 资源/技术|window|120
+META|SCAN_END|Claude 资源/技术
+META|SCAN_START|gemini 交流群
+META|NO_BOTS|gemini 交流群|window|120
+META|SCAN_END|gemini 交流群
+META|SCAN_START|BUYING & SELLING WORLDWIDE
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218661|BOT|@ExcaliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218661
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218661|BOT|@aliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218661
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218660|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218660
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218659|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗ •|LINKHINT|t.me/chatgptplusbuysell/1218659
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218658|BOT|@Qamify_bot|SNIP|Yes — Gemini AI Pro 18 Month is $0.58-$0|LINKHINT|t.me/chatgptplusbuysell/1218658
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218658|BOT|@amify_bot|SNIP|Yes — Gemini AI Pro 18 Month is $0.58-$0|LINKHINT|t.me/chatgptplusbuysell/1218658
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218657|BOT|@ZinoShopbot|SNIP|🌟 Gemini AI Pro + 5TB 18M 🚀 🔥 Best Marke|LINKHINT|t.me/chatgptplusbuysell/1218657
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218657|BOT|@hopbot|SNIP|🌟 Gemini AI Pro + 5TB 18M 🚀 🔥 Best Marke|LINKHINT|t.me/chatgptplusbuysell/1218657
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218652|BOT|@Gemini_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218652
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218652|BOT|@ni_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218652
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218651|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218651
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218647|BOT|@PagluGeminiChecker_bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218647
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218647|BOT|@Paglu_Shop_Bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218647
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218647|BOT|@niChecker_bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218647
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218645|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218645
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218645|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218645
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218642|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218642
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218642|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218642
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218641|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗️ |LINKHINT|t.me/chatgptplusbuysell/1218641
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218640|BOT|@NyStoreOfficialBot|SNIP|✨ Gemini AI + 5TB 18M👑 🎉Best Price Guara|LINKHINT|t.me/chatgptplusbuysell/1218640
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218639|BOT|@manBot|SNIP|🤖CHATGPT PLUS(APPLE PAY)4.5$ ▶️GEMINI 18|LINKHINT|t.me/chatgptplusbuysell/1218639
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218639|BOT|@storeBatmanBot|SNIP|🤖CHATGPT PLUS(APPLE PAY)4.5$ ▶️GEMINI 18|LINKHINT|t.me/chatgptplusbuysell/1218639
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218638|BOT|@AiSubShop_bot|SNIP|🔥✨Selling Gemini 18M Link✨🔥 🛍Bulk at a v|LINKHINT|t.me/chatgptplusbuysell/1218638
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218638|BOT|@ubShop_bot|SNIP|🔥✨Selling Gemini 18M Link✨🔥 🛍Bulk at a v|LINKHINT|t.me/chatgptplusbuysell/1218638
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218635|BOT|@Prime_Gadget_Store_bot|SNIP|🚀 ChatGPT Plus — Available Now! 💳 Price:|LINKHINT|t.me/chatgptplusbuysell/1218635
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218635|BOT|@e_Gadget_Store_bot|SNIP|🚀 ChatGPT Plus — Available Now! 💳 Price:|LINKHINT|t.me/chatgptplusbuysell/1218635
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218633|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218633
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218633|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218633
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218632|BOT|@TrustedShopingbot|SNIP|🤶 Claude Pro Gift Link Available On Bot |LINKHINT|t.me/chatgptplusbuysell/1218632
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218632|BOT|@ustedShopingbot|SNIP|🤶 Claude Pro Gift Link Available On Bot |LINKHINT|t.me/chatgptplusbuysell/1218632
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218630|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218630
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218626|BOT|@Gemini_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218626
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218626|BOT|@ni_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218626
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218625|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218625
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218625|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218625
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218622|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218622
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218617|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218617
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218617|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218617
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218616|BOT|@ExcaliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218616
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218616|BOT|@aliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218616
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218615|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗ •|LINKHINT|t.me/chatgptplusbuysell/1218615
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218612|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218612
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218612|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218612
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218608|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218608
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218608|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218608
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218605|BOT|@lhiestore_bot|SNIP|🛍 READY STOCK 💬 CHATGPT PLUS PRIVATE 1M |LINKHINT|t.me/chatgptplusbuysell/1218605
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218604|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218604
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218601|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218601
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218601|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218601
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218599|BOT|@Gemini_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218599
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218599|BOT|@ni_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218599
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218598|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗ •|LINKHINT|t.me/chatgptplusbuysell/1218598
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218597|BOT|@TrustedShopingbot|SNIP|🤶 Claude Pro Gift Link Available On Bot |LINKHINT|t.me/chatgptplusbuysell/1218597
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218597|BOT|@ustedShopingbot|SNIP|🤶 Claude Pro Gift Link Available On Bot |LINKHINT|t.me/chatgptplusbuysell/1218597
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218596|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218596
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218596|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218596
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218592|BOT|@AiSubShop_bot|SNIP|💎Current Price💎 🤖 CHATGPT ✔️ChatGPT Plus|LINKHINT|t.me/chatgptplusbuysell/1218592
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218591|BOT|@ZinoShopbot|SNIP|🌟 Gemini AI Pro + 5TB 18M 🚀 🔥 Best Marke|LINKHINT|t.me/chatgptplusbuysell/1218591
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218591|BOT|@hopbot|SNIP|🌟 Gemini AI Pro + 5TB 18M 🚀 🔥 Best Marke|LINKHINT|t.me/chatgptplusbuysell/1218591
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218588|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218588
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218586|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218586
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218586|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218586
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218583|BOT|@NyStoreOfficialBot|SNIP|✨ Gemini AI + 5TB 18M👑 🎉Best Price Guara|LINKHINT|t.me/chatgptplusbuysell/1218583
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218580|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218580
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218580|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218580
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218575|BOT|@PagluGeminiChecker_bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218575
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218575|BOT|@Paglu_Shop_Bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218575
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218575|BOT|@niChecker_bot|SNIP|╭━━ 💎 EXCLUSIVE OFFERS ━━╮ 🎁 Gemini 18 M|LINKHINT|t.me/chatgptplusbuysell/1218575
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218574|BOT|@toolswala_bot|SNIP|🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 🔹🔹LIVE PRODUCTS🔹🔹 ━━━━━━━━━━|LINKHINT|t.me/chatgptplusbuysell/1218574
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218573|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗ •|LINKHINT|t.me/chatgptplusbuysell/1218573
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218571|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218571
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218569|BOT|@ExcaliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218569
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218569|BOT|@aliburTechBot|SNIP|🦉 DUOLINGO 12M SUPER : $0.40 🎵 APPLE MUS|LINKHINT|t.me/chatgptplusbuysell/1218569
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218568|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218568
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218568|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218568
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218567|BOT|@Gemini_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218567
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218567|BOT|@ni_shop_robot|SNIP|🔥 GEMINI PRO FLASH SALE 🔥 🚀 Gemini Pro —|LINKHINT|t.me/chatgptplusbuysell/1218567
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218566|BOT|@mangoshopglobal_bot|SNIP|❤️API CODEX 10M Token: 0.4$ ❤️API CODEX |LINKHINT|t.me/chatgptplusbuysell/1218566
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218566|BOT|@oshopglobal_bot|SNIP|❤️API CODEX 10M Token: 0.4$ ❤️API CODEX |LINKHINT|t.me/chatgptplusbuysell/1218566
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218562|BOT|@AithSubscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218562
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218562|BOT|@bscriptions_bot|SNIP|🌟Aith subscriptions 😎 📦 Product: Adobe E|LINKHINT|t.me/chatgptplusbuysell/1218562
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218560|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218560
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218558|BOT|@WarzoneShopBot|SNIP|🤖 Gemini AI Pro 18m ⭐️ Special Offers❗ •|LINKHINT|t.me/chatgptplusbuysell/1218558
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218552|BOT|@NyStoreOfficialBot|SNIP|✨ Gemini AI + 5TB 18M👑 🎉Best Price Guara|LINKHINT|t.me/chatgptplusbuysell/1218552
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218549|BOT|@VaultXNetBot|SNIP|📌VaultXStore — A store for digital goods|LINKHINT|t.me/chatgptplusbuysell/1218549
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218549|BOT|@VaultXStorebot|SNIP|📌VaultXStore — A store for digital goods|LINKHINT|t.me/chatgptplusbuysell/1218549
+GROUP|BUYING & SELLING WORLDWIDE|MSG|1218546|BOT|@VouchersShopBot|SNIP|~ Flash Sale For Reseller's 🥳 🟢 Super Du|LINKHINT|t.me/chatgptplusbuysell/1218546
+META|BOTS_UNIQUE|BUYING & SELLING WORLDWIDE|30|aisubshop_bot,aithsubscriptions_bot,aliburtechbot,amify_bot,bscriptions_bot,e_gadget_store_bot,excaliburtechbot,gemini_shop_robot,hopbot,lhiestore_bot,manbot,mangoshopglobal_bot,ni_shop_robot,nichecker_bot,nystoreofficialbot,oshopglobal_bot,paglu_shop_bot,paglugeminichecker_bot,prime_gadget_store_bot,qamify_bot,storebatmanbot,toolswala_bot,trustedshopingbot,ubshop_bot,ustedshopingbot,vaultxnetbot,vaultxstorebot,vouchersshopbot,warzoneshopbot,zinoshopbot
+META|SCAN_END|BUYING & SELLING WORLDWIDE
+META|SCAN_START|EM Chat Group
+GROUP|EM Chat Group|MSG|291993|BOT|@EliteMethodsStoreBot|SNIP|👋 Welcome to Elite Methods Community! 🔥 |LINKHINT|t.me/elitemethodchat/291993
+GROUP|EM Chat Group|MSG|291993|BOT|@scammersdeathbot|SNIP|👋 Welcome to Elite Methods Community! 🔥 |LINKHINT|t.me/elitemethodchat/291993
+GROUP|EM Chat Group|MSG|291919|BOT|@EliteMethodsStoreBot|SNIP|Gemini 18 Months Links 💵 Price $0.6 Buy |LINKHINT|t.me/elitemethodchat/291919
+GROUP|EM Chat Group|MSG|291874|BOT|@scammersdeathbot|SNIP|✅ EM ESCROW — IDENTITY VERIFIED IN GROUP|LINKHINT|t.me/elitemethodchat/291874
+GROUP|EM Chat Group|MSG|291872|BOT|@scammersdeathbot|SNIP|✅ EM ESCROW — IDENTITY VERIFIED IN GROUP|LINKHINT|t.me/elitemethodchat/291872
+META|BOTS_UNIQUE|EM Chat Group|2|elitemethodsstorebot,scammersdeathbot
+META|SCAN_END|EM Chat Group
+META|SKIP_SCAN|VIP Methods|not_joined
+META|DONE|lines|93

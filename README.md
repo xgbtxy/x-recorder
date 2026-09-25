@@ -116,6 +116,9 @@
 | [低价·bot] @BuyYourPremiumBot（观察） | other | 已核 | https://t.me/BuyYourPremiumBot |
 | [低价·bot] @faka 会员群发卡（观察） | other | 已核 | https://t.me/faka |
 | [低价·bot] @gptnocard_bot Plus 升级（观察） | other | 已核 | https://t.me/gptnocard_bot |
+| [低价·bot] @WarzoneShopBot（观察） | other | 已核 | https://t.me/WarzoneShopBot |
+| [低价·bot] @Gemini_shop_robot（观察） | other | 已核 | https://t.me/Gemini_shop_robot |
+| [低价·bot] @AiSubShop_bot（观察） | other | 已核 | https://t.me/AiSubShop_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
