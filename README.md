@@ -30,6 +30,12 @@
 | reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
 | ToCode · Agent 逆向导出源码 | ai-resources（兼 security-tools） | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
 | T3MP3ST · Agent 红队 harness | security-tools（兼 ai-resources） | 已核 | https://x.com/elder_plinius/status/2073579120135664102 |
+| Maigret 0.6.6（TG） | security-tools | 已核 | https://t.me/offensiveosint/193 |
+| Awesome-LLM4Cybersecurity（TG） | ai-resources | 已核 | https://t.me/tsecrecord/1557 |
+| sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
+
+
+> 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
 
 ## 跟盯清单
 
