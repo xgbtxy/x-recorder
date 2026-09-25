@@ -1,0 +1,44 @@
+# x-recorder · X 推文记录师
+
+从 X（Twitter）推文里摘有价值的关键点，做成可检索的记录库。
+
+**硬规则：每一条记录必须有可点开的 X 来源链接。没有链接的不入库。**
+
+和 `project-collect` 的分工：
+
+| | x-recorder | project-collect |
+|--|------------|-----------------|
+| 粒度 | 一条推文 / 一条线索 | 一个项目条目 |
+| 必填 | X 链接 | 仓库或项目页 |
+| 内容 | VPN、网安工具、AI 资源等「发现」 | 经整理的项目短档 |
+
+## 分类目录
+
+- [`records/security-tools/`](./records/security-tools/) — 网络安全 / 逆向 / 攻防工具
+- [`records/vpn-proxy/`](./records/vpn-proxy/) — VPN / 代理 / 网络访问相关
+- [`records/ai-resources/`](./records/ai-resources/) — 模型、Agent、提示、数据集、AI 工具
+- [`records/other/`](./records/other/) — 暂不好归类但有价值的
+
+新条目用 [`templates/record.md`](./templates/record.md)。
+
+## 索引
+
+| 标题 | 分类 | 状态 | 来源 X |
+|------|------|------|--------|
+| ASC 实战叙事（作者自述 root） | security-tools | 已核（主张未全证） | https://x.com/MGAldys4/status/2100144298029449331 |
+| reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
+| ToCo · Agent 逆向导出源码 | security-tools / ai-resources | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
+
+## 工作方式（给人 / 给助手）
+
+1. 在 X 搜关键词或跟账号，打开具体帖子。
+2. 判断是否有价值（可复用工具、可跟进资源、可验证方法）。
+3. 复制帖子链接 → 按模板新建 `records/<分类>/<短名>.md`。
+4. 更新本 README 索引表。
+5. 夸大、未证实的声称写进「风险 / 待核实」，不删帖源。
+
+## 不收什么
+
+- 无 X 链接的二手转述
+- 纯营销无实质入口
+- 违法操作教程式细节（只记公开工具名与官方入口）
