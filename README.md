@@ -113,6 +113,9 @@
 | [低价] TGStat 目录统计（观察） | other | 已核 | https://tgstat.com/ |
 | [低价·bot] @FKfc8888bot 发卡（观察） | other | 已核 | https://t.me/FKfc8888bot |
 | [低价·bot] @niu444_bot 号铺（观察） | other | 已核 | https://t.me/niu444_bot |
+| [低价·bot] @BuyYourPremiumBot（观察） | other | 已核 | https://t.me/BuyYourPremiumBot |
+| [低价·bot] @faka 会员群发卡（观察） | other | 已核 | https://t.me/faka |
+| [低价·bot] @gptnocard_bot Plus 升级（观察） | other | 已核 | https://t.me/gptnocard_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
