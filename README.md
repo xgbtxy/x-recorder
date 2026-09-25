@@ -263,6 +263,11 @@
 | CUDA Rust | ai-resources | 已核 | https://x.com/NVIDIAHPCDev/status/2100261772355907936 |
 | Transformers GGUF/Metal | ai-resources | 已核 | https://x.com/ggerganov/status/2102382619845410978 |
 | PageIndex | ai-resources | 已核 | https://x.com/simplifyinAI/status/2080468063548543454 |
+| Ming-Image-0.1-Design | ai-resources | 已核 | https://x.com/TheInclusionAI/status/2102631831120097486 |
+| BrowserSkill | ai-resources | 已核 | https://x.com/TencentAI_News/status/2100143086429217278 |
+| CubeSandbox | ai-resources | 已核 | https://x.com/TencentAI_News/status/2099445261185765528 |
+| Claude biomolecular uplifts | ai-resources | 已核 | https://x.com/AnthropicAI/status/2100701581109072332 |
+| ZCode | ai-resources | 已核 | https://x.com/zRdianjiao/status/2101837445927141736 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
