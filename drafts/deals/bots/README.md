@@ -18,3 +18,8 @@
 - 已核样例（records/other/）：`bot-lowpriceking-pricehunter.md`、`bot-pikabao-card-recharge.md`、`bot-afaka-card-shop.md`
 
 模板：`TEMPLATE.md`
+
+## 子目录：em-shop（2026-09-26）
+
+阿言点名：类似 [`elitemethodchat`](https://t.me/elitemethodchat) 的**带公开商品价目**的订阅店铺 bot，单独放 [`em-shop/`](./em-shop/)。入库路径 `records/other/em-shop/`，索引前缀 `[低价·bot·价目]`。
+
