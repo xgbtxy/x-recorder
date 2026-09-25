@@ -66,6 +66,9 @@
 | [低价] 86中转停服大陆 IP（TG） | other | 已核 | https://t.me/api86channel/12 |
 | [低价] 86中转 GPT 号池风控×sub2api（TG） | other | 已核 | https://t.me/api86channel/25 |
 | [低价] AIPricedb 比价监控入口（TG） | other | 已核 | https://t.me/aipricedb |
+| [低价] 86中转日抛 PLUS 号池失效（TG） | other | 已核 | https://t.me/api86channel/7 |
+| [低价] 86中转 Codex 号池崩溃（TG） | other | 已核 | https://t.me/api86channel/10 |
+| [低价] 86中转 Claude Max 分组维护（TG） | other | 已核 | https://t.me/api86channel/21 |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
