@@ -1,6 +1,6 @@
 # frida-ssl-bypass：Android SSL/TLS pinning 相关 Frida 脚本入口
 
-- 状态：候选
+- 状态：已核（仅索引公开仓库；禁止当绕过教程）
 - 分类：security-tools
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/Jayson_security/status/2101324384786845903

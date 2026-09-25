@@ -1,6 +1,6 @@
 # Beerus Framework：Hakai 的 Android 机上渗透工具箱入口
 
-- 状态：候选
+- 状态：已核（X/仓库可开；只记 Android 工具箱入口，不转载敏感能力细节）
 - 分类：security-tools
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/ptdbugs/status/2095187404860616908

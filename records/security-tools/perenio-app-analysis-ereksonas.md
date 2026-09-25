@@ -1,6 +1,6 @@
 # Perenio IP 摄像头 Android 分析仓库（Frida 动态分析入口）
 
-- 状态：候选
+- 状态：已核（单设备分析材料入口；不收录复现步骤）
 - 分类：security-tools
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/ereksonas/status/2102823621412413778

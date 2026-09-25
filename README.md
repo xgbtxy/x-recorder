@@ -33,6 +33,9 @@
 | BurpNinja | security-tools | 已核 | https://x.com/altafpasha_h/status/2093771074391732639 |
 | Claude+MCP×JADX/IDA 案例 | security-tools | 已核 | https://x.com/taidh_/status/2072863860625989984 |
 | apktool-mcp-server | security-tools | 已核 | https://x.com/zinja_coder/status/1923636620420350411 |
+| Beerus Framework（Android） | security-tools | 已核 | https://x.com/ptdbugs/status/2095187404860616908 |
+| frida-ssl-bypass | security-tools | 已核 | https://x.com/Jayson_security/status/2101324384786845903 |
+| Perenio App Analysis | security-tools | 已核 | https://x.com/ereksonas/status/2102823621412413778 |
 | ASC 实战叙事（作者自述 root） | security-tools | 已核（主张未全证） | https://x.com/MGAldys4/status/2100144298029449331 |
 | reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
 | ToCode · Agent 逆向导出源码 | ai-resources（兼 security-tools） | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
