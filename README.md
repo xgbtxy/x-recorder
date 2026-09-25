@@ -213,6 +213,10 @@
 | LTX-2.5 | ai-resources | 已核 | https://x.com/ltx_io/status/2087255203489755243 |
 | DolphinBench | ai-resources | 已核 | https://x.com/mem0ai/status/2102438126941876590 |
 | AWS Agent Toolkit Skills | ai-resources | 已核 | https://x.com/awscloud/status/2070568410887414167 |
+| jina-embeddings-v5-omni | ai-resources | 已核 | https://x.com/JinaAI_/status/2054226262047301933 |
+| Nemotron 3.5 Lightning | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2087162151995629926 |
+| jina-ocr-v1 | ai-resources | 已核 | https://x.com/JinaAI_/status/2100617174985638364 |
+| jina-reranker-v3.5 | ai-resources | 已核 | https://x.com/JinaAI_/status/2084288559435903485 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
