@@ -331,6 +331,9 @@
 | [低价·bot] @redotpay_bot 加密支付（风险观察） | other | 已核 | https://t.me/redotpay_bot |
 | [低价·bot] @kise1223chatbot 86客服（风险观察） | other | 已核 | https://t.me/kise1223chatbot |
 | [低价·bot] @toolswala_bot LIVE PRODUCTS（风险观察） | other | 已核 | https://t.me/toolswala_bot |
+| [低价·bot·价目] @crassus_market_bot 订阅价目（风险观察） | other/em-shop | 已核 | https://t.me/crassus_market_bot |
+| [低价·bot·价目] @AIVerseXBot 多品促销价（风险观察） | other/em-shop | 已核 | https://t.me/AIVerseXBot |
+| [低价·bot·价目] @Pixora_Tunisie_bot 成交播报价（风险观察） | other/em-shop | 已核 | https://t.me/Pixora_Tunisie_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
