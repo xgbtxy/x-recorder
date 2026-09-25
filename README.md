@@ -367,6 +367,8 @@
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
 | [低价·群] @Geminivip1 公益Plus交流（风险观察） | other/tg-catalog | 已核 | https://t.me/Geminivip1 |
 | [低价·bot] @SSkyGPTbot 公益升级（风险观察） | other/tg-catalog | 已核 | https://t.me/SSkyGPTbot |
+| [低价·bot·价目] @JeroAccountsBot EM群价目（风险观察） | other/em-shop | 已核 | https://t.me/JeroAccountsBot |
+| [低价·群] @elitemethodchat EM Chat（风险观察） | other/tg-catalog | 已核 | https://t.me/elitemethodchat |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
