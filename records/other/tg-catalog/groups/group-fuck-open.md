@@ -19,7 +19,7 @@
 ## 要点
 
 - 群定位：自称 **OpenAI 技术交流**（开发/运营/创作者互助、规则与风控、低成本 GPT PLUS 实操）；公开窗同时挂货源搜索站。
-- 与其他群关系：**勿**与 `@chineseChatGpt`（体验 bot 群）/`@gpt_user`（另一 ChatGPT AI 讨论群）/`@TGAI_Group` 混同；亦非单店档口（如 `@achuanqunzu`）。
+- 与其他群关系：**勿**与 `@chineseChatGpt`（体验 bot 群）/`@gpt_user`（已另立群档 `group-gpt-user.md`）/`@TGAI_Group` 混同；亦非单店档口（如 `@achuanqunzu`）。
 - 如何发现：跳过池优先核；公开 og 互证。
 
 ## 风险 / 待核实（强制）

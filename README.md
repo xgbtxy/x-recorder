@@ -416,6 +416,10 @@
 | [低价·群] @yylcard YYL卡网交流（风险观察） | other/tg-catalog | 已核 | https://t.me/yylcard |
 | [低价·bot] @XiXiAiAutobot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/XiXiAiAutobot |
 | [低价·bot] @PixelAuto_Xixi_Bot 自助提交（风险观察） | other/tg-catalog | 已核 | https://t.me/PixelAuto_Xixi_Bot |
+| [低价·群] @jianai996 JIAN AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/jianai996 |
+| [低价·群] @claudepromax666 Claude Pro源头（风险观察） | other/tg-catalog | 已核 | https://t.me/claudepromax666 |
+| [低价·群] @GeminiJL Gemini交流·游戏向消歧（风险观察） | other/tg-catalog | 已核 | https://t.me/GeminiJL |
+| [低价·群] @gpt_user ChatGPT机器人讨论（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_user |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 

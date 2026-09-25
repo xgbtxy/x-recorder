@@ -21,7 +21,7 @@
 ## 要点
 
 - 群定位：中文 **ChatGPT 群内机器人体验**交流；禁广告/刷频/色情；挂教学频道。
-- 与其他群关系：**勿**与 `@TGAI_Group`（TGAI 官方中文大群）/`@gpt_user`（另一 ChatGPT AI 机器人讨论群）/`@gpt_nocard`（公益升级）混同。
+- 与其他群关系：**勿**与 `@TGAI_Group`（TGAI 官方中文大群）/`@gpt_user`（已另立群档 `group-gpt-user.md`）/`@gpt_nocard`（公益升级）混同。
 - 如何发现：公开 Web 检索可核 @；简介三角：体验 bot ↔ 教学频道 ↔ 本群。
 
 ## 风险 / 待核实（强制）
