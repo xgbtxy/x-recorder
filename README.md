@@ -152,6 +152,11 @@
 | GitLab MCP 19.4 | ai-resources | 已核 | https://x.com/gitlab/status/2101008794184528304 |
 | Auth0 MCP | ai-resources | 已核 | https://x.com/auth0/status/2103127841114038462 |
 | Webflow MCP | ai-resources | 已核 | https://x.com/webflow/status/2102109983433470157 |
+| PlanetScale MCP | ai-resources | 已核 | https://x.com/PlanetScale/status/2027074286394167793 |
+| Twilio MCP + Skills | ai-resources | 已核 | https://x.com/twilio/status/2052466530751766749 |
+| Fastly MCP | ai-resources | 已核 | https://x.com/fastly/status/1952460057641095332 |
+| Dropbox Dash MCP | ai-resources | 已核 | https://x.com/Dropbox/status/1981393384460910606 |
+| Box MCP | ai-resources | 已核 | https://x.com/Box/status/2092286094427787588 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
