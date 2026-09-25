@@ -1,0 +1,43 @@
+# EM Chat Group / Elite Methods — sanitized bot scan extract
+# Date: 2026-09-25 (Asia/Shanghai)
+# Sources:
+#   A) Prior Telethon readonly window in _scan-raw-2026-09-25.txt (EM Chat Group)
+#   B) VIP fuzzy sibling window in _scan-vip-fuzzy-2026-09-25.txt (VIP 💎 Methods) — cross-cite only
+# Public preview: https://t.me/elitemethodchat and https://t.me/s/elitemethodchat = join gate only (no public post body)
+# Policy: no session/api_hash/token; no join; no VIP forward; observation drafts only
+
+META|FOUND|EM Chat Group|username|elitemethodchat|id|-1003595350954
+META|PUBLIC_PREVIEW|t.me/elitemethodchat|members~9135|online~1453|title|EM Chat Group|join_gate_no_posts
+META|RELATED_PUBLIC|@EliteMethodsStoreBot|display|EM Store|bio|A place of trust for honest and sincere people.
+META|RELATED_PUBLIC|@scammersdeathbot|display|EM Escrow System|bio|Safe escrow service Owner: @elitemethodceo Report Scammers: @nomorescammersbot
+META|RELATED_PUBLIC|@elitemethodceo|display|Help Lover|bio|EM Escrow Service ! Secure and trusted ! ... @scammersdeathbot
+META|RELATED_PUBLIC|@nomorescammersbot|display|Expose Scammer|bio|Purpose of this group is to search and report a scammer...
+
+# --- EM Chat Group (primary) ---
+META|SCAN_START|EM Chat Group
+GROUP|EM Chat Group|MSG|291993|BOT|@EliteMethodsStoreBot|SNIP|Welcome to Elite Methods Community|LINKHINT|t.me/elitemethodchat/291993
+GROUP|EM Chat Group|MSG|291993|BOT|@scammersdeathbot|SNIP|Welcome to Elite Methods Community|LINKHINT|t.me/elitemethodchat/291993
+GROUP|EM Chat Group|MSG|291919|BOT|@EliteMethodsStoreBot|SNIP|Gemini 18 Months Links Price $0.6 Buy|LINKHINT|t.me/elitemethodchat/291919
+GROUP|EM Chat Group|MSG|291874|BOT|@scammersdeathbot|SNIP|EM ESCROW — IDENTITY VERIFIED IN GROUP|LINKHINT|t.me/elitemethodchat/291874
+GROUP|EM Chat Group|MSG|291872|BOT|@scammersdeathbot|SNIP|EM ESCROW — IDENTITY VERIFIED IN GROUP|LINKHINT|t.me/elitemethodchat/291872
+META|BOTS_UNIQUE|EM Chat Group|2|EliteMethodsStoreBot,scammersdeathbot
+META|SCAN_END|EM Chat Group
+
+# --- VIP 💎 Methods (auxiliary cross-cite; private c/ link) ---
+GROUP|VIP Methods|MSG|2049|BOT|@EliteMethodsStoreBot|SNIP|Restocked Gemini 18 Months Link|LINKHINT|t.me/c/3285160598/2049
+GROUP|VIP Methods|MSG|1954|BOT|@EliteMethodsStoreBot|SNIP|Claude Standard Seat Available on Bot|LINKHINT|t.me/c/3285160598/1954
+GROUP|VIP Methods|MSG|1933|BOT|@EliteMethodsStoreBot|SNIP|Referral Program Updated|LINKHINT|t.me/c/3285160598/1933
+GROUP|VIP Methods|MSG|1928|BOT|@EliteMethodsStoreBot|SNIP|Chatgpt Business Official Invite|LINKHINT|t.me/c/3285160598/1928
+GROUP|VIP Methods|MSG|2037|BOT|@scammersdeathbot|SNIP|EM ESCROW — MANDATORY GROUP VERIFICATION|LINKHINT|t.me/c/3285160598/2037
+GROUP|VIP Methods|MSG|2013|BOT|@scammersdeathbot|SNIP|credits @elitemethodceo building @scammersdeathbot|LINKHINT|t.me/c/3285160598/2013
+GROUP|VIP Methods|MSG|2003|BOT|@scammersdeathbot|SNIP|EM Escrow System Auto Escrow Bot credits @Mukund2|LINKHINT|t.me/c/3285160598/2003
+GROUP|VIP Methods|MSG|2031|BOT|@Scammerdeathsbot|SNIP|VERIFIED SCAM REPORT #19|LINKHINT|t.me/c/3285160598/2031
+GROUP|VIP Methods|MSG|1943|BOT|@giant_ultra_bot|SNIP|Don't buy from that bot... scammers|LINKHINT|t.me/c/3285160598/1943|NOISE
+
+META|SKIP_INGESTED|WarzoneShopBot,Gemini_shop_robot,AiSubShop_bot,BuyYourPremiumBot,faka,gptnocard_bot,lowpriceking_bot,pikabaobot,afaka_bot
+META|MERGE|Scammerdeathsbot->scammersdeathbot|same_ecosystem_scam_report_variant
+META|NOISE|giant_ultra_bot|scam_warning_target_not_EM_extension
+META|CANDIDATE_DRAFT|EliteMethodsStoreBot|scammersdeathbot
+META|OPTIONAL_THIRD|nomorescammersbot|discovered_via_scammersdeathbot_public_bio_not_EM_msg_window
+
+META|DEEPEN_ATTEMPT|2026-09-25T23:57+08|Telethon reconnect via /root/tg_user|RESULT|not_authorized|FALLBACK|reuse_G_batch_EM_window

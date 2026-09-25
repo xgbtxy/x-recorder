@@ -1,0 +1,23 @@
+META|authorized|yes
+META|dialogs_total|41
+META|MATCH|VIP 💎 Methods|id|3285160598|kind|channel|uname|
+META|SCAN_START|VIP 💎 Methods
+GROUP|VIP 💎 Methods|MSG|2049|BOT|@EliteMethodsStoreBot|SNIP|📦 Restocked! 💝 Product: Gemini 18 Months Link ✅ Available: 189 items 💵 Price: $0|LINKHINT|t.me/c/3285160598/2049
+GROUP|VIP 💎 Methods|MSG|2037|BOT|@scammersdeathbot|SNIP|🛡️ EM ESCROW — MANDATORY GROUP VERIFICATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🎯 PURPO|LINKHINT|t.me/c/3285160598/2037
+GROUP|VIP 💎 Methods|MSG|2031|BOT|@Scammerdeathsbot|SNIP|📚 VERIFIED SCAM REPORT #19 ━━━━━━━━━━━━━━━━━━━━━ ✅ Status: Administrator Approve|LINKHINT|t.me/c/3285160598/2031
+GROUP|VIP 💎 Methods|MSG|2013|BOT|@scammersdeathbot|SNIP|All thanks and appreciation to @elitemethodceo for building this bot @scammersde|LINKHINT|t.me/c/3285160598/2013
+GROUP|VIP 💎 Methods|MSG|2003|BOT|@scammersdeathbot|SNIP|🔥 EM Escrow System Auto Escrow Bot Link🔽 @scammersdeathbot ➡️Credits to @Mukund2|LINKHINT|t.me/c/3285160598/2003
+GROUP|VIP 💎 Methods|MSG|1954|BOT|@EliteMethodsStoreBot|SNIP|Claud Standard Seat Available on Bot 🙀 Buy Limited seats left 😱 @EliteMethodsSto|LINKHINT|t.me/c/3285160598/1954
+GROUP|VIP 💎 Methods|MSG|1943|BOT|@giant_ultra_bot|SNIP|Don't buy from that bot as their support members are scammers. They are selling |LINKHINT|t.me/c/3285160598/1943
+GROUP|VIP 💎 Methods|MSG|1933|BOT|@EliteMethodsStoreBot|SNIP|🎁 Referral Program Updated Invite your friends and earn real cash rewards! 💵 @El|LINKHINT|t.me/c/3285160598/1933
+GROUP|VIP 💎 Methods|MSG|1928|BOT|@EliteMethodsStoreBot|SNIP|Chatgpt Business Official Invite Full Duration 30 days Available: $16 Warranty: |LINKHINT|t.me/c/3285160598/1928
+META|WINDOW|VIP 💎 Methods|scanned|150
+META|BOTS_UNIQUE|VIP 💎 Methods|4|EliteMethodsStoreBot,Scammerdeathsbot,giant_ultra_bot,scammersdeathbot
+META|SKIP_RECORDED|-
+META|NEW_CANDIDATES_RAW|4
+META|EM_NAME_ONLY|EliteMethodsStoreBot,scammersdeathbot,Scammerdeathsbot
+META|NOISE_OR_WARN|giant_ultra_bot|context=scam_warning_do_not_buy|msgid=1943
+META|DRAFTABLE|0
+META|SCAN_END|VIP 💎 Methods
+META|DONE|readonly
+META|REMOTE_SCRIPT|/tmp/scan_vip_fuzzy.py|deleted
