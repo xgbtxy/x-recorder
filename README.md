@@ -258,6 +258,11 @@
 | Gemini 3.8 Flash TTS | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2102781530867126505 |
 | GPT-6 Sol / Luna | ai-resources | 已核 | https://x.com/OpenAIDevs/status/2102461432684282061 |
 | WorldCrafter | ai-resources | 已核 | https://x.com/TencentAI_News/status/2102678781605691676 |
+| Pipette | ai-resources | 已核 | https://x.com/liquidai/status/2091906366428598284 |
+| visual-pr Skill | ai-resources | 已核 | https://x.com/dexhorthy/status/2100558413314859118 |
+| CUDA Rust | ai-resources | 已核 | https://x.com/NVIDIAHPCDev/status/2100261772355907936 |
+| Transformers GGUF/Metal | ai-resources | 已核 | https://x.com/ggerganov/status/2102382619845410978 |
+| PageIndex | ai-resources | 已核 | https://x.com/simplifyinAI/status/2080468063548543454 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
