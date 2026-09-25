@@ -1,7 +1,7 @@
 # [低价·高风险] @pikabaobot：皮卡宝自助开卡/充值公开 bot
 
-- 状态：待审计
-- 分类：other（建议）
+- 状态：已核（开卡/充值 bot 高风险观察；非使用推荐）
+- 分类：other
 - 记录日期：2026-09-25
 - **平台**：Telegram Bot
 - **来源 TG（必填，可核对）**：https://t.me/pikabaobot

@@ -40,3 +40,10 @@
 1. ✅ ≥3 号铺（去重 mrnf 新开 3：TG堂 / Dapally / telegramhao；mrnf 补单文件）
 2. ✅ 2 土豆聚合/目录：2dou.org/telegram、tgmulu.com
 3. ✅ 3 低价公开 bot：lowpriceking / pikabao / afaka_bot
+
+## D 批审结（2026-09-25）
+
+- ✅ 通过入库（风险观察）：TG堂 / Dapally / telegramhao / 2dou TG 目录 / tgmulu / lowpriceking / pikabao / afaka
+- ❌ mrnf 补单驳回（已有 `tg-account-shop-mrnf-tg.md`）
+- ❌ `tudou-ai-2dou-aggregate` 并入 telegram-dir，勿双记
+- 口径不变：非购买推荐；强制风险项；目录站不批量搬频道列表

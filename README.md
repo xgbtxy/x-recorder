@@ -90,6 +90,14 @@
 | [低价] 86中转模型关停与 Claude 死号（TG） | other | 已核 | https://t.me/api86channel/8 |
 | [低价] 86中转称 Codex 官方故障（TG） | other | 已核 | https://t.me/api86channel/22 |
 | [低价] TG 号铺 mrnf / @TG_MRNF（风险观察） | other | 已核 | https://tg.mrnf.de/ |
+| [低价] TG堂号铺 shop.tgtown.com（风险观察） | other | 已核 | https://shop.tgtown.com/ |
+| [低价] Dapally TG 号铺（风险观察） | other | 已核 | https://www.dapally.com/ |
+| [低价] telegramhao 号铺（风险观察） | other | 已核 | https://telegramhao.com/ |
+| [低价] 土豆 AI 聚合 TG 目录 2dou（观察） | other | 已核 | https://2dou.org/telegram |
+| [低价] TG目录网 tgmulu（观察） | other | 已核 | https://www.tgmulu.com/ |
+| [低价] @lowpriceking_bot 比价（观察） | other | 已核 | https://t.me/lowpriceking_bot |
+| [低价] @pikabaobot 开卡充值（高风险观察） | other | 已核 | https://t.me/pikabaobot |
+| [低价] @afaka_bot 发卡（高风险观察） | other | 已核 | https://t.me/afaka_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
