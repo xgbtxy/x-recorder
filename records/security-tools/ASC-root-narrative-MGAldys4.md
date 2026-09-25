@@ -21,7 +21,7 @@
 ## 价值判断
 
 - 为什么值得记：ASC 作者侧实战叙事，热度高，适合跟进「Agent + 移动安全」用法。
-- 参见：`reverse-skill-bigaiguy.md`、`../ai-resources/ToCode-buzz3r.md`；同作者介绍帖待网安评估是否单独立档 https://x.com/MGAldys4/status/2098541143474749913
+- 参见：`reverse-skill-bigaiguy.md`、`../ai-resources/ToCode-buzz3r.md`；同作者介绍帖已单立：`ASC-intro-MGAldys4.md`（https://x.com/MGAldys4/status/2098541143474749913）
 - 风险 / 待核实：root 是否由 ASC 造成、是否正好 50+、以及引用帖里 RCE / BlackHat 说法——截图未给出漏洞细节或录用凭证。
 
 ## 原文摘要（可选）

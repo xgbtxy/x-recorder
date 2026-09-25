@@ -25,6 +25,7 @@
 
 | 标题 | 分类 | 状态 | 来源 X |
 |------|------|------|--------|
+| ASC 介绍帖（Agent 反编译 / Arsenal 叙事） | security-tools | 已核（主张未全证） | https://x.com/MGAldys4/status/2098541143474749913 |
 | ASC 实战叙事（作者自述 root） | security-tools | 已核（主张未全证） | https://x.com/MGAldys4/status/2100144298029449331 |
 | reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
 | ToCode · Agent 逆向导出源码 | ai-resources（兼 security-tools） | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
