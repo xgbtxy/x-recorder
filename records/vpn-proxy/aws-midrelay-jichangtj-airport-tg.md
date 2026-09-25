@@ -31,4 +31,4 @@
 
 ## 与 X 条目的关系（可选）
 
-同源 X：本轮未核到可点开的对应 status 链接；频道候选表曾注有 twitter.com/jichangtj 可后续交叉，有确切帖再补。
+同源 X：https://x.com/jichangtj/status/2098410173245337604（已单立 `jichangtj-aws-midrelay-anomaly-x.md`）。
