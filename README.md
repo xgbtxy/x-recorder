@@ -268,6 +268,11 @@
 | CubeSandbox | ai-resources | 已核 | https://x.com/TencentAI_News/status/2099445261185765528 |
 | Claude biomolecular uplifts | ai-resources | 已核 | https://x.com/AnthropicAI/status/2100701581109072332 |
 | ZCode | ai-resources | 已核 | https://x.com/zRdianjiao/status/2101837445927141736 |
+| Mercury 2.5 | ai-resources | 已核 | https://x.com/_inception_ai/status/2097365772289151417 |
+| Ling-3.0-flash-Fin | ai-resources | 已核 | https://x.com/AntLingAGI/status/2093022087069958492 |
+| Step Code | ai-resources | 已核 | https://x.com/StepFun_ai/status/2102433493410345273 |
+| Step 5 Preview | ai-resources | 已核 | https://x.com/StepFun_ai/status/2101510462685003786 |
+| onPanda | ai-resources | 已核 | https://x.com/StepFun_ai/status/2102454115473510643 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
@@ -352,6 +357,7 @@
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
 | [低价·bot·价目] @Substor_bot 卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Substor_bot |
 | [低价·bot·价目] @SubscriptionDotCheap_bot 站内目录（风险观察） | other/em-shop | 已核 | https://t.me/SubscriptionDotCheap_bot |
+| [低价·bot·价目] @parsgptbot تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/parsgptbot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 

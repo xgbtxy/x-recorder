@@ -31,6 +31,7 @@
 | `drafts/deals/` | 小弟·低价资源 | records/other（标题可标 `[低价]`）或 ai-resources |
 | `drafts/deals/bots/` | 小弟·低价资源为主；小弟·TG 发现可写此处或转交 | records/other（`[低价·bot]`）；可查询 bot 目录 |
 | `drafts/deals/bots/em-shop/` | 同上；**价目店铺专项**（类 elitemethodchat） | records/other/em-shop/（`[低价·bot·价目]`）；尽量记公开商品表 |
+| `drafts/deals/tg-catalog/` | 老大登录只读采集；低价/TG 协写 | records/other/tg-catalog/（`[低价·群]` + 群内 bot）；**需登录群**与 bot 对照表 |
 | `drafts/audit/` | 老大内部审计备忘 | 不入库 |
 
 文件名：`短名-来源标识.md`（例：`JADX-AI-MCP-zinja_coder.md`）。
