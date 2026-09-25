@@ -162,6 +162,10 @@
 | Slack MCP | ai-resources | 已核 | https://x.com/SlackHQ/status/2024948072212505008 |
 | Firebase MCP | ai-resources | 已核 | https://x.com/Firebase/status/1975939244863390099 |
 | Databricks Genie One MCP | ai-resources | 已核 | https://x.com/databricks/status/2102454273376202780 |
+| Qwen3-Coder + Qwen Code CLI | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/1947766835023335516 |
+| Qwen3-Omni（全模态开源） | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/1970181599133344172 |
+| gpt-oss 120B/20B（开源权重） | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/1952887733803991070 |
+| Kimi K2 Thinking（开源权重） | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/1986541785511043536 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
