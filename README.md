@@ -83,6 +83,11 @@
 | Goose AAIF 本机 Agent | ai-resources | 已核 | https://x.com/goose_oss/status/2062310564660224145 |
 | Notion MCP | ai-resources | 已核 | https://x.com/NotionHQ/status/2095923091134206448 |
 | Linear MCP Inbox | ai-resources | 已核 | https://x.com/linear/status/2102431323889775037 |
+| X Hosted MCP | ai-resources | 已核 | https://x.com/XDevelopers/status/2071752389183647758 |
+| Supabase Agent Skills | ai-resources | 已核 | https://x.com/supabase/status/2014375032261156943 |
+| Graphify Skill/MCP | ai-resources | 已核 | https://x.com/safishamsii/status/2102396664577192252 |
+| Jules Tools CLI | ai-resources | 已核 | https://x.com/julesagent/status/1973812188977508755 |
+| GitHub Remote MCP GA | ai-resources | 已核 | https://x.com/GHchangelog/status/1963634192010379338 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
