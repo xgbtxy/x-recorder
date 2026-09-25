@@ -189,6 +189,10 @@
 | Prisma Skills | ai-resources | 已核 | https://x.com/prisma/status/2028772644322242899 |
 | Azure Skills | ai-resources | 已核 | https://x.com/Azure/status/2052856062840074294 |
 | GameDevBench | ai-resources | 已核 | https://x.com/iamwaynechi/status/2022357146478764127 |
+| NeoMME（多模态编码器） | ai-resources | 已核 | https://x.com/hcompany_ai/status/2098040121547182154 |
+| DeepSWE | ai-resources | 已核 | https://x.com/serenaa_ge/status/2059308218564890875 |
+| Obsidian Skills | ai-resources | 已核 | https://x.com/kepano/status/2008578873903206895 |
+| SkillsBench 1.1 | ai-resources | 已核 | https://x.com/xdotli/status/2067006779255619912 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
