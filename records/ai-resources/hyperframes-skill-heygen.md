@@ -1,6 +1,6 @@
 # HyperFrames：可 `npx skills add` 的 HTML→MP4 开源 Skill
 
-- 状态：候选
+- 状态：已核（落地链抽查可开；宣传数字以原文/文档为准）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/HeyGen/status/2044827454460871072

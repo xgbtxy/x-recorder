@@ -32,6 +32,11 @@
 | T3MP3ST · Agent 红队 harness | security-tools（兼 ai-resources） | 已核 | https://x.com/elder_plinius/status/2073579120135664102 |
 | Maigret 0.6.6（TG） | security-tools | 已核 | https://t.me/offensiveosint/193 |
 | Awesome-LLM4Cybersecurity（TG） | ai-resources | 已核 | https://t.me/tsecrecord/1557 |
+| NLA on open models：Anthropic × Neuronped | ai-resources | 已核 | https://x.com/AnthropicAI/status/2052435460220211397 |
+| skills CLI：跨 Agent 安装 Skill 包（类 npm） | ai-resources | 已核 | https://x.com/rauchg/status/2012345679721771474 |
+| Cursor `/orchestrate`：递归派生多 Agent 的官方 Sk | ai-resources | 已核 | https://x.com/cursor_ai/status/2052432778743210127 |
+| Cursor Agent Skills：SKILL.md 扩展 Agent 能力 | ai-resources | 已核 | https://x.com/cursor_ai/status/2014753596223770841 |
+| HyperFrames：可 `npx skills add` 的 HTML→MP | ai-resources | 已核 | https://x.com/HeyGen/status/2044827454460871072 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 
 

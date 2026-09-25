@@ -1,6 +1,6 @@
 # skills CLI：跨 Agent 安装 Skill 包（类 npm）
 
-- 状态：候选
+- 状态：已核（落地链抽查可开；宣传数字以原文/文档为准）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/rauchg/status/2012345679721771474

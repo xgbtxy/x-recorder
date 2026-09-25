@@ -1,6 +1,6 @@
 # NLA on open models：Anthropic × Neuronpedia 可点开试用
 
-- 状态：候选
+- 状态：已核（落地链抽查可开；宣传数字以原文/文档为准）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/AnthropicAI/status/2052435460220211397
