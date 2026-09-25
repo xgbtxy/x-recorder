@@ -68,6 +68,11 @@
 | FLUX 3 Action | ai-resources | 已核 | https://x.com/bfl_ai/status/2102816874782241174 |
 | Pruna-Qwen-Image-2.1 | ai-resources | 已核 | https://x.com/PrunaAI/status/2103152549809311816 |
 | Claude Marketplace | ai-resources | 已核 | https://x.com/claudeai/status/2102840851538080172 |
+| The Stack v3 代码预训练数据集 | ai-resources | 已核 | https://x.com/anton_lozhkov/status/2080254608639701222 |
+| Harbor Agent eval harness | ai-resources | 已核 | https://x.com/alexgshaw/status/2100296774955237438 |
+| Context7 Search 文档 grounding | ai-resources | 已核 | https://x.com/Context7AI/status/2102508908095123767 |
+| Playwright MCP / CLI | ai-resources | 已核 | https://x.com/playwrightweb/status/2101099626401067367 |
+| llama.cpp v0.5.0 | ai-resources | 已核 | https://x.com/ggml_org/status/2102864024358776969 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
