@@ -460,6 +460,11 @@
 | [低价·群] @Ai66888i JZ GPT代充（风险观察） | other/tg-catalog | 已核 | https://t.me/Ai66888i |
 | [低价·群] @beibeishoo 贝贝商店交流（风险观察） | other/tg-catalog | 已核 | https://t.me/beibeishoo |
 | [低价·群] @aiappleid claude-gpt订阅交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiappleid |
+| [低价·群] @xiaoxiaoipkyc 卡比兽Ai资源站（风险观察） | other/tg-catalog | 已核 | https://t.me/xiaoxiaoipkyc |
+| [低价·群] @aiaoteman001 AI奥特曼代充交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiaoteman001 |
+| [低价·群] @dhbdkk 代充源头交流（风险观察） | other/tg-catalog | 已核 | https://t.me/dhbdkk |
+| [低价·群] @kewang9898988 海外Grok GPT会员（风险观察） | other/tg-catalog | 已核 | https://t.me/kewang9898988 |
+| [低价·bot] @Tsiaohu_Bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/Tsiaohu_Bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
