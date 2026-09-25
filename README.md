@@ -338,6 +338,9 @@
 | [低价·bot·价目] @canvora24bot 公开价目表（风险观察） | other/em-shop | 已核 | https://t.me/canvora24bot |
 | [低价·bot·价目] @geminiprosub_bot 库存长表（风险观察） | other/em-shop | 已核 | https://t.me/geminiprosub_bot |
 | [低价·bot·价目] @Shop_Ayham_bot Gemini 标价偏弱（风险观察） | other/em-shop | 已核 | https://t.me/Shop_Ayham_bot |
+| [低价·bot·价目] @ver_pixel_bot STOCK 价目（风险观察） | other/em-shop | 已核 | https://t.me/ver_pixel_bot |
+| [低价·bot·价目] @u_pebot 卢布网页价目（风险观察） | other/em-shop | 已核 | https://t.me/u_pebot |
+| [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
