@@ -73,6 +73,11 @@
 | Context7 Search 文档 grounding | ai-resources | 已核 | https://x.com/Context7AI/status/2102508908095123767 |
 | Playwright MCP / CLI | ai-resources | 已核 | https://x.com/playwrightweb/status/2101099626401067367 |
 | llama.cpp v0.5.0 | ai-resources | 已核 | https://x.com/ggml_org/status/2102864024358776969 |
+| OpenCode 开源 Coding Agent | ai-resources | 已核 | https://x.com/opencode/status/2077148766092558570 |
+| Firecrawl MCP | ai-resources | 已核 | https://x.com/firecrawl/status/2066918976689754148 |
+| ElevenLabs MCP | ai-resources | 已核 | https://x.com/ElevenLabs/status/1909300782673101265 |
+| browse.sh Browserbase Skills | ai-resources | 已核 | https://x.com/browserbase/status/2056404332824944970 |
+| Cline SDK | ai-resources | 已核 | https://x.com/cline/status/2054580767779700775 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
