@@ -157,6 +157,11 @@
 | Fastly MCP | ai-resources | 已核 | https://x.com/fastly/status/1952460057641095332 |
 | Dropbox Dash MCP | ai-resources | 已核 | https://x.com/Dropbox/status/1981393384460910606 |
 | Box MCP | ai-resources | 已核 | https://x.com/Box/status/2092286094427787588 |
+| HubSpot MCP | ai-resources | 已核 | https://x.com/HubSpotDev/status/1919845598779396160 |
+| Shopify Dev MCP | ai-resources | 已核 | https://x.com/ShopifyDevs/status/1978855962829009211 |
+| Slack MCP | ai-resources | 已核 | https://x.com/SlackHQ/status/2024948072212505008 |
+| Firebase MCP | ai-resources | 已核 | https://x.com/Firebase/status/1975939244863390099 |
+| Databricks Genie One MCP | ai-resources | 已核 | https://x.com/databricks/status/2102454273376202780 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
