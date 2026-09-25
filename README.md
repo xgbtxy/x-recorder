@@ -226,6 +226,10 @@
 | MiniCPM5-2B | ai-resources | 已核 | https://x.com/OpenBMB/status/2096970974247956501 |
 | Atria Dawn Preview | ai-resources | 已核 | https://x.com/OpenBMB/status/2099498690092355897 |
 | HLE-Diamond | ai-resources | 已核 | https://x.com/CAIS/status/2102787839964729431 |
+| Nemotron 3 Diarization | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2102775666366435450 |
+| AuK | ai-resources | 已核 | https://x.com/TencentHunyuan/status/2097996926876795197 |
+| EvolveScaler | ai-resources | 已核 | https://x.com/TencentHunyuan/status/2099748549281939558 |
+| GameHorizon Suite | ai-resources | 已核 | https://x.com/HuggingPapers/status/2102314047878345185 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
