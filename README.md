@@ -59,6 +59,10 @@
 | Free Proxy Airport 自动测速（X） | vpn-proxy | 已核 | https://x.com/tyiiopple/status/2100729531850227787 |
 | @jichangtj 2026 评测/测速索引（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2076920947072975302 |
 | Clash「经典回归」辨伪（jichangtj→Fndroid） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098964330473836682 |
+| [低价] 86中转停服大陆 IP（TG） | other | 已核 | https://t.me/api86channel/12 |
+| [低价] 86中转 GPT 号池风控×sub2api（TG） | other | 已核 | https://t.me/api86channel/25 |
+| [低价] AIPricedb 比价监控入口（TG） | other | 已核 | https://t.me/aipricedb |
+| Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。

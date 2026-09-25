@@ -1,0 +1,26 @@
+# 【提案·待老大审计】优惠向 TG 频道/群候选（先提案，不入库）
+
+说明：仅公开可核对入口。**不要**直接写入 `watchlists/tg-channels.md`。审过再进。
+
+记录日期：2026-09-25  
+提案人：小弟·低价资源
+
+| # | 账号 | 链接 | 一句话 | 备注 |
+|---|------|------|--------|------|
+| 1 | `@aipricedb` | https://t.me/aipricedb | AI 渠道实时比价监控交流（自称禁广） | 偏情报；外链卡网多 |
+| 2 | `@api86channel` | https://t.me/api86channel | 某中转站运维通知（号池/合规/模型变更） | 商家运维口；可作风险观察 |
+| 3 | `@ai_bi_jia_notice` | https://t.me/ai_bi_jia_notice | AI 比价通知频道 | 需抽查是否沦为拉群广告 |
+| 4 | `@muskapi` | https://t.me/muskapi | MuskAPI 多模型企业级中转介绍群 | 商家向；高风险待裁定 |
+| 5 | `@Aigongying` | https://t.me/Aigongying | GPT/Claude 卡网自助充值供应频道 | **硬广向**；建议仅作反面样本或直接不跟 |
+
+## 请老大裁定
+
+- 是否跟盯 1–3（情报/运维）而剔除 4–5（商家硬广）？
+- 若跟盯商家运维频道，入库口径是否仅限「故障/停服/风控」类帖，拒绝价目硬广？
+
+
+## 老大裁定（2026-09-25）
+
+- 进 watchlist：1–3（`@aipricedb` `@api86channel` `@ai_bi_jia_notice`）
+- 不进：4–5（`@muskapi` `@Aigongying`）
+- 运维频道入库口径：仅故障/停服/风控类观察帖，拒价目硬广
