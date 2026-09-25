@@ -391,6 +391,11 @@
 | [低价·群] @gpt_nocard 公益升级交流（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_nocard |
 | [低价·bot] @nerverbot_bot 双向联系（风险观察） | other/tg-catalog | 已核 | https://t.me/nerverbot_bot |
 | [低价·bot] @gptnocard_bot 目录指针（风险观察） | other/tg-catalog | 已核 | https://t.me/gptnocard_bot |
+| [低价·群] @laogou_org 老狗Ai加油站（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_org |
+| [低价·群] @oasisaigc Oasis公益交流（风险观察） | other/tg-catalog | 已核 | https://t.me/oasisaigc |
+| [低价·群] @aiagent8080 代充同行交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiagent8080 |
+| [低价·bot] @laogou_support_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_support_bot |
+| [低价·bot] @oascfbot 发卡网客服（风险观察） | other/tg-catalog | 已核 | https://t.me/oascfbot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
