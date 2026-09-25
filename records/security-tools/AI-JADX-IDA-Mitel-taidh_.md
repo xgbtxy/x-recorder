@@ -1,6 +1,6 @@
 # 案例：Claude + MCP 搭配 JADX / IDA 做补丁与根因分析
 
-- 状态：候选
+- 状态：已核（write-up 可打开；仅作 Agent+JADX/IDA 工作流案例索引，不收录 PoC）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/taidh_/status/2072863860625989984

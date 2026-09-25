@@ -1,6 +1,6 @@
 # JADX-AI-MCP：给 JADX 接 MCP，让 Agent 读实时反编译上下文
 
-- 状态：候选
+- 状态：已核（仓库可打开，约 2.8k★）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/zinja_coder/status/2085396884273914160

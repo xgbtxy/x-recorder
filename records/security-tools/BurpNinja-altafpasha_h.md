@@ -1,6 +1,6 @@
 # BurpNinja：ADB + Burp + Frida 的 Android 安全工具箱（含 Agent Skill）
 
-- 状态：候选
+- 状态：已核（仓库可打开；星数低约 3★，成熟度待观察）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/altafpasha_h/status/2093771074391732639
