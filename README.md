@@ -170,6 +170,10 @@
 | Ollama × MLX（Apple Silicon） | ai-resources | 已核 | https://x.com/ollama/status/2038835449012351197 |
 | vLLM v0.28.0 | ai-resources | 已核 | https://x.com/vllm_project/status/2092789782464315594 |
 | EXO 1.0（本地集群） | ai-resources | 已核 | https://x.com/exolabs/status/2001817749744476256 |
+| SGLang v0.5.15 | ai-resources | 已核 | https://x.com/sgl_project/status/2075721488456654861 |
+| LMDeploy v0.10.0 | ai-resources | 已核 | https://x.com/intern_lm/status/1965752368190070887 |
+| LFM2.5-2.6B（端侧开源） | ai-resources | 已核 | https://x.com/liquidai/status/2084640701669613906 |
+| GLM-5.3（开源权重） | ai-resources | 已核 | https://x.com/Zai_org/status/2093354097122455713 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
