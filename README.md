@@ -473,6 +473,13 @@
 | [低价·群] @claude1316 Claude openai核销（风险观察） | other/tg-catalog | 已核 | https://t.me/claude1316 |
 | [低价·群] @openai138 Open ai企业交流（风险观察） | other/tg-catalog | 已核 | https://t.me/openai138 |
 | [低价·群] @gptzg 69 gpt渠道源头（风险观察） | other/tg-catalog | 已核 | https://t.me/gptzg |
+| [低价·群] @ddh992 AI✿典当行交流群禁广（风险观察） | other/tg-catalog | 已核 | https://t.me/ddh992 |
+| [低价·群] @congmingxiayou1 聪明AI下游群（风险观察） | other/tg-catalog | 已核 | https://t.me/congmingxiayou1 |
+| [低价·群] @zhwwsnbb gemini ultra研究群（风险观察） | other/tg-catalog | 已核 | https://t.me/zhwwsnbb |
+| [低价·群] @chapchaod 超超| AI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/chapchaod |
+| [低价·bot] @zhwwsnbb_bot 双向+群管（风险观察） | other/tg-catalog | 已核 | https://t.me/zhwwsnbb_bot |
+| [低价·bot] @chaochao1bot 公益解封（风险观察） | other/tg-catalog | 已核 | https://t.me/chaochao1bot |
+| [低价·bot] @chaochaochetbot 客服中转（风险观察） | other/tg-catalog | 已核 | https://t.me/chaochaochetbot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
