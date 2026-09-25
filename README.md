@@ -321,6 +321,11 @@
 | [低价·bot] @mangoshopglobal_bot API Codex（风险观察） | other | 已核 | https://t.me/mangoshopglobal_bot |
 | [低价·bot] @lhiestore_bot ChatGPT Plus（风险观察） | other | 已核 | https://t.me/lhiestore_bot |
 | [低价·bot] @storeBatmanBot Apple Pay 话术（风险观察） | other | 已核 | https://t.me/storeBatmanBot |
+| [低价·bot] @BuyCardOffical_bot 礼品卡/eSIM（风险观察） | other | 已核 | https://t.me/BuyCardOffical_bot |
+| [低价·bot] @WantToPayBot 虚拟卡（风险观察） | other | 已核 | https://t.me/WantToPayBot |
+| [低价·bot] @redotpay_bot 加密支付（风险观察） | other | 已核 | https://t.me/redotpay_bot |
+| [低价·bot] @kise1223chatbot 86客服（风险观察） | other | 已核 | https://t.me/kise1223chatbot |
+| [低价·bot] @toolswala_bot LIVE PRODUCTS（风险观察） | other | 已核 | https://t.me/toolswala_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
