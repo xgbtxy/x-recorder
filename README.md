@@ -346,6 +346,8 @@
 | [低价·bot·价目] @ver_pixel_bot STOCK 价目（风险观察） | other/em-shop | 已核 | https://t.me/ver_pixel_bot |
 | [低价·bot·价目] @u_pebot 卢布网页价目（风险观察） | other/em-shop | 已核 | https://t.me/u_pebot |
 | [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
+| [低价·bot·价目] @Veriyferbot 多品美元价目（风险观察） | other/em-shop | 已核 | https://t.me/Veriyferbot |
+| [低价·bot·价目] @Cp669912_bot 人民币代充价目（风险观察） | other/em-shop | 已核 | https://t.me/Cp669912_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
