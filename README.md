@@ -98,6 +98,9 @@
 | [低价] @lowpriceking_bot 比价（观察） | other | 已核 | https://t.me/lowpriceking_bot |
 | [低价] @pikabaobot 开卡充值（高风险观察） | other | 已核 | https://t.me/pikabaobot |
 | [低价] @afaka_bot 发卡（高风险观察） | other | 已核 | https://t.me/afaka_bot |
+| [低价] OpenPrice AI 比价（观察） | other | 已核 | https://www.openprice.cc/ |
+| [低价] PriceAI 比价雷达（观察） | other | 已核 | https://priceai.cc/ |
+| [低价] TelegramNav 目录（观察） | other | 已核 | https://telegramnav.github.io/ |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 

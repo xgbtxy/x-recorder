@@ -30,3 +30,7 @@
 ## 原文摘要（可选）
 
 摘要：站点自称优质 Telegram 中文频道导航推荐。
+
+## 与其他条目的关系
+
+- 同形态对照：`telegramnav-directory.md`（https://telegramnav.github.io/）已单立入库。
