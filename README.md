@@ -336,6 +336,8 @@
 | [低价·bot·价目] @Pixora_Tunisie_bot 成交播报价（风险观察） | other/em-shop | 已核 | https://t.me/Pixora_Tunisie_bot |
 | [低价·bot·价目] @RichAIStoreBot 批发样例价（风险观察） | other/em-shop | 已核 | https://t.me/RichAIStoreBot |
 | [低价·bot·价目] @canvora24bot 公开价目表（风险观察） | other/em-shop | 已核 | https://t.me/canvora24bot |
+| [低价·bot·价目] @geminiprosub_bot 库存长表（风险观察） | other/em-shop | 已核 | https://t.me/geminiprosub_bot |
+| [低价·bot·价目] @Shop_Ayham_bot Gemini 标价偏弱（风险观察） | other/em-shop | 已核 | https://t.me/Shop_Ayham_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
