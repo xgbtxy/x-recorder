@@ -174,6 +174,11 @@
 | LMDeploy v0.10.0 | ai-resources | 已核 | https://x.com/intern_lm/status/1965752368190070887 |
 | LFM2.5-2.6B（端侧开源） | ai-resources | 已核 | https://x.com/liquidai/status/2084640701669613906 |
 | GLM-5.3（开源权重） | ai-resources | 已核 | https://x.com/Zai_org/status/2093354097122455713 |
+| K2 Horizon（IFM 六模型族） | ai-resources | 已核 | https://x.com/IFM_AI/status/2095497035806113861 |
+| Command A+（Cohere 开源） | ai-resources | 已核 | https://x.com/cohere/status/2057120818551734589 |
+| Intern-S2-Preview | ai-resources | 已核 | https://x.com/intern_lm/status/2055146106799976798 |
+| Elastic Agent Skills | ai-resources | 已核 | https://x.com/elastic/status/2052040690796777781 |
+| BFCL V4 Agentic | ai-resources | 已核 | https://x.com/shishirpatil_/status/1946020561626546176 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
