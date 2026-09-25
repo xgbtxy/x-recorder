@@ -433,6 +433,13 @@
 | [低价·群] @gminiaixclaude Ai价格保证实惠（风险观察） | other/tg-catalog | 已核 | https://t.me/gminiaixclaude |
 | [低价·群] @gptsplus 源头渠道群（风险观察） | other/tg-catalog | 已核 | https://t.me/gptsplus |
 | [低价·群] @chatgpt003 AI星球中文资源群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgpt003 |
+| [低价·群] @awscdn888 AWS-AI大模型交流（风险观察） | other/tg-catalog | 已核 | https://t.me/awscdn888 |
+| [低价·群] @apidiyidazhan 章鱼哥流量联盟（风险观察） | other/tg-catalog | 已核 | https://t.me/apidiyidazhan |
+| [低价·bot] @apizhushou_bot API联盟助手（风险观察） | other/tg-catalog | 已核 | https://t.me/apizhushou_bot |
+| [低价·群] @poqunai 破圈AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/poqunai |
+| [低价·bot] @poquanAIbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/poquanAIbot |
+| [低价·群] @xenterai 峰哥ai交流（风险观察） | other/tg-catalog | 已核 | https://t.me/xenterai |
+| [低价·bot] @Xentreai_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/Xentreai_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
