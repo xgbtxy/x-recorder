@@ -148,6 +148,10 @@
 | Salesforce DX MCP | ai-resources | 已核 | https://x.com/SalesforceDevs/status/1937587282619331071 |
 | PayPal Remote MCP | ai-resources | 已核 | https://x.com/paypaldev/status/1925212212618252419 |
 | MCPMark（MCP 压力测试评测） | ai-resources | 已核 | https://x.com/qizhex1/status/1960029790305763567 |
+| Square MCP | ai-resources | 已核 | https://x.com/jack/status/1915942871792029770 |
+| GitLab MCP 19.4 | ai-resources | 已核 | https://x.com/gitlab/status/2101008794184528304 |
+| Auth0 MCP | ai-resources | 已核 | https://x.com/auth0/status/2103127841114038462 |
+| Webflow MCP | ai-resources | 已核 | https://x.com/webflow/status/2102109983433470157 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
