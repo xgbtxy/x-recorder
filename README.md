@@ -93,6 +93,11 @@
 | Hugging Face MCP | ai-resources | 已核 | https://x.com/reach_vb/status/1942247029515735263 |
 | Agent Plugins（OpenAI） | ai-resources | 已核 | https://x.com/OpenAIDevs/status/2085398373511918022 |
 | next-devtools-mcp | ai-resources | 已核 | https://x.com/gao_jude/status/1982942366727372843 |
+| mini-SWE-agent | ai-resources | 已核 | https://x.com/KLieret/status/1948375289014173791 |
+| Stripe MCP | ai-resources | 已核 | https://x.com/StripeDev/status/1892685153987592526 |
+| GitHub Copilot Agent Skills | ai-resources | 已核 | https://x.com/github/status/2003229314112770052 |
+| ChatGPT MCP Tools | ai-resources | 已核 | https://x.com/OpenAIDevs/status/1965807401745207708 |
+| Replit Agent MCP | ai-resources | 已核 | https://x.com/Replit/status/1998085186513473803 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
