@@ -134,6 +134,11 @@
 | Taste Skill | ai-resources | 已核 | https://x.com/LexnLin/status/2100842256630534283 |
 | ui-ux-pro-max | ai-resources | 已核 | https://x.com/Voxyz_ai/status/2071928115052335364 |
 | Caveman Skills | ai-resources | 已核 | https://x.com/tetumemo/status/2045102005908332881 |
+| SWE-Bench Pro V2 | ai-resources | 已核 | https://x.com/scale_AI/status/2102451007041282353 |
+| τ2/τ³-bench（Sierra） | ai-resources | 已核 | https://x.com/SierraPlatform/status/1932464265207889974 |
+| Terminal-Bench 4.0 | ai-resources | 已核 | https://x.com/terminalbench/status/2093593947654533349 |
+| Neon MCP | ai-resources | 已核 | https://x.com/neondatabase/status/2097411958152855717 |
+| MongoDB Atlas Managed MCP | ai-resources | 已核 | https://x.com/MongoDB/status/2098082804793798845 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
