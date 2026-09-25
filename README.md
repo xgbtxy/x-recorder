@@ -29,6 +29,10 @@
 | reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
 | ToCo · Agent 逆向导出源码 | security-tools / ai-resources | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
 
+## 跟盯清单
+
+- Telegram：[`watchlists/tg-channels.md`](./watchlists/tg-channels.md)（已审公开频道；不擅自发帖）
+
 ## 工作方式（给人 / 给助手）
 
 1. 在 X 搜关键词或跟账号，打开具体帖子。
