@@ -144,6 +144,10 @@
 | SWE-Serve（NVIDIA 推理服务 Agent 榜） | ai-resources | 已核 | https://x.com/JiantaoJ/status/2102885056327090418 |
 | MLPerf Training v6.1 后训练 | ai-resources | 已核 | https://x.com/MLCommons/status/2103137660885774720 |
 | MentalHealthBench（OpenAI） | ai-resources | 已核 | https://x.com/OpenAI/status/2102837574092161102 |
+| Atlassian Rovo MCP | ai-resources | 已核 | https://x.com/Atlassian/status/2031067692182941991 |
+| Salesforce DX MCP | ai-resources | 已核 | https://x.com/SalesforceDevs/status/1937587282619331071 |
+| PayPal Remote MCP | ai-resources | 已核 | https://x.com/paypaldev/status/1925212212618252419 |
+| MCPMark（MCP 压力测试评测） | ai-resources | 已核 | https://x.com/qizhex1/status/1960029790305763567 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
