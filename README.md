@@ -107,6 +107,10 @@
 | Sentry MCP Server Monitoring | ai-resources | 已核 | https://x.com/sentry/status/1970911516716306813 |
 | Claude Opus 5.5 | ai-resources | 已核 | https://x.com/claudeai/status/2102435511222890900 |
 | Perplexity Portable Computer（本地 Agent） | ai-resources | 已核 | https://x.com/perplexity_ai/status/2103161414919872628 |
+| Grafana MCP + gcx CLI | ai-resources | 已核 | https://x.com/grafana/status/2082162797366935823 |
+| New Relic AI MCP Server | ai-resources | 已核 | https://x.com/newrelic/status/1990876449075515478 |
+| PagerDuty MCP Server | ai-resources | 已核 | https://x.com/pagerduty/status/2099963502710440067 |
+| Chronosphere MCP Server（GA） | ai-resources | 已核 | https://x.com/chronosphereio/status/1988645524417790169 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
