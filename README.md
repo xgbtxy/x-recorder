@@ -379,6 +379,9 @@
 | [低价·群] @geminichatgroup 中转API交流（风险观察） | other/tg-catalog | 已核 | https://t.me/geminichatgroup |
 | [低价·群] @priceaicc PriceAI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/priceaicc |
 | [低价·bot] @gemini12pro_bot Pixel Helper（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro_bot |
+| [低价·群] @Claudejiaoliu Claude资源/技术（风险观察） | other/tg-catalog | 已核 | https://t.me/Claudejiaoliu |
+| [低价·群] @gemini3369 gemini交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini3369 |
+| [低价·bot] @hiroboticvn_bot ROBOTICVN SHOP（风险观察） | other/tg-catalog | 已核 | https://t.me/hiroboticvn_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
