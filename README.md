@@ -200,6 +200,10 @@
 | InternVL-U | ai-resources | 已核 | https://x.com/intern_lm/status/2032294588715843913 |
 | HunyuanImage 3.0 | ai-resources | 已核 | https://x.com/TencentHunyuan/status/1972137010707288459 |
 | LHTB（长程终端评测） | ai-resources | 已核 | https://x.com/rosinality/status/2076572455854825894 |
+| Qwen3.5-397B-A17B | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2023331062433153103 |
+| AliceAI-Foundation-80B | ai-resources | 已核 | https://x.com/yandexcom/status/2102050970939383810 |
+| Kimi K3 | ai-resources | 已核 | https://x.com/Kimi_Moonshot/status/2081760186235289764 |
+| dbt Agent Skills | ai-resources | 已核 | https://x.com/getdbt/status/2019501979395817790 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
