@@ -209,6 +209,10 @@
 | terraform-skill | ai-resources | 已核 | https://x.com/antonbabenko/status/2012917839745659170 |
 | AutomationBench-AA | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/2074194764510208230 |
 | AgencyBench | ai-resources | 已核 | https://x.com/rohanpaul_ai/status/2014934941226692747 |
+| LongCat-2.0 | ai-resources | 已核 | https://x.com/Meituan_LongCat/status/2071783587205308721 |
+| LTX-2.5 | ai-resources | 已核 | https://x.com/ltx_io/status/2087255203489755243 |
+| DolphinBench | ai-resources | 已核 | https://x.com/mem0ai/status/2102438126941876590 |
+| AWS Agent Toolkit Skills | ai-resources | 已核 | https://x.com/awscloud/status/2070568410887414167 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
