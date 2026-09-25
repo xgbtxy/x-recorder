@@ -49,3 +49,35 @@
 
 - 未写 `records/`；未 git push；未对 bot 发 `/start` 下单；未发群帖。
 - 需登录群未伪造帖体；bot 表来源均为公开 og/频道帖或既有 Telethon LINKHINT。
+
+## 补录 A2（小弟·TG · 同日扩面）
+
+提案人：小弟·TG  
+说明：并行专员已交 A 节 3 群并入库 `records/other/tg-catalog/`；本补录**只写 drafts**，**不**覆盖已交群档 / **不**写 records / **不** push。
+
+### 新建群档（4）
+
+| # | 文件 | 群 @ | 访问 | 群内 bot 表摘要 |
+|---|------|------|------|-----------------|
+| 1 | `groups/group-aipricedb.md` | `@aipricedb` | 公开介绍；看帖需登录 | 简介无店 bot；比价站 www.aipricedb.com |
+| 2 | `groups/group-with-ai-homes.md` | `@with_ai_homes` | 同上 | 简介无店 bot；出处 `ai_bi_jia_notice/15` |
+| 3 | `groups/group-geminichatgroup.md` | `@geminichatgroup` | 同上 | 人工 `@AWS_Namei02` + API 联盟链；无店铺 bot 公开窗 |
+| 4 | `groups/group-priceaicc.md` | `@priceaicc` | 同上 | 简介无店 bot；公告频道 `@priceaicc2`（不立频道档） |
+
+### 可选 bot 线索（1）
+
+| 文件 | Bot | 说明 |
+|------|-----|------|
+| `bots/bot-gemini12pro-pixel-helper.md` | `@gemini12pro_bot` | 公益升级 Helper；与已交 `group-gemini12pro` 互证；**非** em-shop |
+
+### 本补录跳过
+
+| 对象 | 原因 |
+|------|------|
+| `@chatgptplusbuysell` / `@gemini12pro` / `@Geminivip1` | A 节已交（部分已 records）；**不覆盖** |
+| `@elitemethodchat` | 种子 + EM 回填；不覆盖 |
+| 侧栏三提案（无公开 @） | 留协采；不动 |
+| `@fork_bot_channel` / `@api86channel` / `@gamestore86channel` / `@ai_bi_jia_notice` / `@chatgpt_008` | 频道型；优先 Group |
+| `@Aiquanzi` / `@TGAI_Group` / `@muskapi` | t.me 可开，名额满；可下批 |
+
+合规：公开预览优先；未发明 username；观察 ≠ 推荐；未发帖/试单/对 bot 交易；未 Telethon/SSH dig/session。

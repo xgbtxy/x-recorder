@@ -369,6 +369,11 @@
 | [低价·bot] @SSkyGPTbot 公益升级（风险观察） | other/tg-catalog | 已核 | https://t.me/SSkyGPTbot |
 | [低价·bot·价目] @JeroAccountsBot EM群价目（风险观察） | other/em-shop | 已核 | https://t.me/JeroAccountsBot |
 | [低价·群] @elitemethodchat EM Chat（风险观察） | other/tg-catalog | 已核 | https://t.me/elitemethodchat |
+| [低价·群] @aipricedb 比价交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aipricedb |
+| [低价·群] @with_ai_homes AI原住民交流（风险观察） | other/tg-catalog | 已核 | https://t.me/with_ai_homes |
+| [低价·群] @geminichatgroup 中转API交流（风险观察） | other/tg-catalog | 已核 | https://t.me/geminichatgroup |
+| [低价·群] @priceaicc PriceAI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/priceaicc |
+| [低价·bot] @gemini12pro_bot Pixel Helper（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
