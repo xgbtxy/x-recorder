@@ -317,6 +317,10 @@
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | [低价·bot] @TrustedShopingbot Claude Gift（风险观察） | other | 已核 | https://t.me/TrustedShopingbot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
+| [低价·bot] @VaultXStorebot 数字商品店（风险观察） | other | 已核 | https://t.me/VaultXStorebot |
+| [低价·bot] @mangoshopglobal_bot API Codex（风险观察） | other | 已核 | https://t.me/mangoshopglobal_bot |
+| [低价·bot] @lhiestore_bot ChatGPT Plus（风险观察） | other | 已核 | https://t.me/lhiestore_bot |
+| [低价·bot] @storeBatmanBot Apple Pay 话术（风险观察） | other | 已核 | https://t.me/storeBatmanBot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
