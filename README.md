@@ -125,6 +125,10 @@
 | transitions.dev Skills | ai-resources | 已核 | https://x.com/Jakubantalik/status/2077790361993236496 |
 | Gemma 4（开源） | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2039735446628925907 |
 | Muse Glimmer 30B（本地 Agent） | ai-resources | 已核 | https://x.com/AIatMeta/status/2086757844544811485 |
+| career-ops Skills | ai-resources | 已核 | https://x.com/santifer/status/2041403685696053741 |
+| Archify Skills | ai-resources | 已核 | https://x.com/midudev/status/2094425974406320207 |
+| Impeccable Skills | ai-resources | 已核 | https://x.com/ivanleomk/status/2041371674248147047 |
+| ECC（Everything Claude Code） | ai-resources | 已核 | https://x.com/nicos_ai/status/2060766377670013188 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
