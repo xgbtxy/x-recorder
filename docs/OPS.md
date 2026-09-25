@@ -29,6 +29,7 @@
 | `drafts/tg/` | 小弟·TG（频道摘录、测速批次） | 多数进 vpn-proxy / security-tools / ai-resources |
 | `drafts/ai-resources/` | 小弟·AI资源 | records/ai-resources |
 | `drafts/deals/` | 小弟·低价资源 | records/other（标题可标 `[低价]`）或 ai-resources |
+| `drafts/deals/bots/` | 小弟·低价资源为主；小弟·TG 发现可写此处或转交 | records/other（`[低价·bot]`）；可查询 bot 目录 |
 | `drafts/audit/` | 老大内部审计备忘 | 不入库 |
 
 文件名：`短名-来源标识.md`（例：`JADX-AI-MCP-zinja_coder.md`）。
@@ -58,7 +59,7 @@
 | 小弟·网安 | 逆向 / 安全工具 / Agent×逆向 | X 关键词与重点账号 |
 | 小弟·AI资源 | Skill / 模型 / Agent 工具 | 可动手入口优先 |
 | 小弟·VPN | 开源客户端；配合机场测速口径 | 少收泛 VPN 营销 |
-| 小弟·TG | 已批频道公开预览；频道候选先提案 | 不发帖；周一批量预览可 |
+| 小弟·TG | 已批频道公开预览；频道候选先提案；可协助从群发现 bot 入口写入 `drafts/deals/bots/` | 不发帖；不接 VIP 转发除非阿言点名 |
 | 小弟·综合 | 漏网线索、去重、字段补全 | 重叠则转交 |
 | 小弟·低价资源 | AI 低价 API/卡网；**重点**：TG 号铺/电报账号批发平台、土豆聚合网类目录、低价机器人 | 风险字段强制；拒盗号教程 |
 
