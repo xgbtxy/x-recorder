@@ -273,6 +273,11 @@
 | Step Code | ai-resources | 已核 | https://x.com/StepFun_ai/status/2102433493410345273 |
 | Step 5 Preview | ai-resources | 已核 | https://x.com/StepFun_ai/status/2101510462685003786 |
 | onPanda | ai-resources | 已核 | https://x.com/StepFun_ai/status/2102454115473510643 |
+| LongCat-2.5-Preview | ai-resources | 已核 | https://x.com/Meituan_LongCat/status/2103488918788411728 |
+| Kimi Browser Extension | ai-resources | 已核 | https://x.com/Kimi_Moonshot/status/2102372557190230244 |
+| State of agent skills | ai-resources | 已核 | https://x.com/vercel/status/2103541839399907424 |
+| LLaDA-Image | ai-resources | 已核 | https://x.com/TheInclusionAI/status/2095696902004293744 |
+| PanelWise | ai-resources | 已核 | https://x.com/TheInclusionAI/status/2091851247259443627 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
