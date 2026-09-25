@@ -296,6 +296,10 @@
 | Android Bench 2.0 | ai-resources | 已核 | https://x.com/AndroidDev/status/2100622197253398669 |
 | Modern Web Guidance | ai-resources | 已核 | https://x.com/ChromiumDev/status/2101020485123490045 |
 | Gemma 4 Antigravity local | ai-resources | 已核 | https://x.com/googledevs/status/2103157200139043291 |
+| Reef | ai-resources | 已核 | https://x.com/ao_qu18465/status/2094867930081337730 |
+| Strands Harness | ai-resources | 已核 | https://x.com/MarcJBrooker/status/2102095972688138283 |
+| Altar-1 | ai-resources | 已核 | https://x.com/AikidoSecurity/status/2102035136678400056 |
+| SWE-Bench Pro Verified | ai-resources | 已核 | https://x.com/HuggingPapers/status/2098142214450782282 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
