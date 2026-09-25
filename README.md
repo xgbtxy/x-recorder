@@ -89,6 +89,7 @@
 | [低价] 86中转 Claude Max 分组维护（TG） | other | 已核 | https://t.me/api86channel/21 |
 | [低价] 86中转模型关停与 Claude 死号（TG） | other | 已核 | https://t.me/api86channel/8 |
 | [低价] 86中转称 Codex 官方故障（TG） | other | 已核 | https://t.me/api86channel/22 |
+| [低价] TG 号铺 mrnf / @TG_MRNF（风险观察） | other | 已核 | https://tg.mrnf.de/ |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
