@@ -217,6 +217,11 @@
 | Nemotron 3.5 Lightning | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2087162151995629926 |
 | jina-ocr-v1 | ai-resources | 已核 | https://x.com/JinaAI_/status/2100617174985638364 |
 | jina-reranker-v3.5 | ai-resources | 已核 | https://x.com/JinaAI_/status/2084288559435903485 |
+| Granite 4.2 | ai-resources | 已核 | https://x.com/IBMResearch/status/2092304349665833410 |
+| Nemotron 3 Embed | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2077786069840318800 |
+| PP-OCRv6 | ai-resources | 已核 | https://x.com/PaddlePaddle/status/2065299834756902995 |
+| Laguna S 2.1 | ai-resources | 已核 | https://x.com/poolsideai/status/2079613777343848465 |
+| LFM2.5-VL-3B | ai-resources | 已核 | https://x.com/liquidai/status/2087539876929441983 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
