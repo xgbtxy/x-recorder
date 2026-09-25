@@ -127,6 +127,9 @@
 | [低价·bot] @EliteMethodsStoreBot EM Store（风险观察） | other | 已核 | https://t.me/EliteMethodsStoreBot |
 | [低价·bot] @scammersdeathbot EM Escrow（风险观察） | other | 已核 | https://t.me/scammersdeathbot |
 | [低价·bot] @nomorescammersbot EM 举报入口（风险观察） | other | 已核 | https://t.me/nomorescammersbot |
+| [低价·bot] @VouchersShopBot 闪购（风险观察） | other | 已核 | https://t.me/VouchersShopBot |
+| [低价·bot] @Prime_Gadget_Store_bot（风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
+| [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
