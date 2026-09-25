@@ -44,6 +44,8 @@
 | ToCode · Agent 逆向导出源码 | ai-resources（兼 security-tools） | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |
 | T3MP3ST · Agent 红队 harness | security-tools（兼 ai-resources） | 已核 | https://x.com/elder_plinius/status/2073579120135664102 |
 | Maigret 0.6.6（TG） | security-tools | 已核 | https://t.me/offensiveosint/193 |
+| Matkap（JADX MCP × 恶意 TG bot 狩猎） | security-tools | 已核 | https://x.com/0x6rss/status/2092295504533012775 |
+| kahlo-mcp（Frida MCP · Android Agent） | security-tools | 已核 | https://x.com/tom_doerr/status/2035619264120467536 |
 | Awesome-LLM4Cybersecurity（TG） | ai-resources | 已核 | https://t.me/tsecrecord/1557 |
 | NLA on open models：Anthropic × Neuronped | ai-resources | 已核 | https://x.com/AnthropicAI/status/2052435460220211397 |
 | skills CLI：跨 Agent 安装 Skill 包（类 npm） | ai-resources | 已核 | https://x.com/rauchg/status/2012345679721771474 |
