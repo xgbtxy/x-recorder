@@ -179,6 +179,11 @@
 | Intern-S2-Preview | ai-resources | 已核 | https://x.com/intern_lm/status/2055146106799976798 |
 | Elastic Agent Skills | ai-resources | 已核 | https://x.com/elastic/status/2052040690796777781 |
 | BFCL V4 Agentic | ai-resources | 已核 | https://x.com/shishirpatil_/status/1946020561626546176 |
+| North Mini Code（Cohere） | ai-resources | 已核 | https://x.com/cohere/status/2064378058329526556 |
+| Cosmos 3（Physical AI） | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2061308434629132553 |
+| Inkling-Small | ai-resources | 已核 | https://x.com/thinkymachines/status/2082885869426631032 |
+| Lark CLI Skills | ai-resources | 已核 | https://x.com/Larksuite/status/2038789640346624457 |
+| MLE-bench | ai-resources | 已核 | https://x.com/OpenAI/status/1844429536353714427 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
