@@ -193,6 +193,9 @@
 | DeepSWE | ai-resources | 已核 | https://x.com/serenaa_ge/status/2059308218564890875 |
 | Obsidian Skills | ai-resources | 已核 | https://x.com/kepano/status/2008578873903206895 |
 | SkillsBench 1.1 | ai-resources | 已核 | https://x.com/xdotli/status/2067006779255619912 |
+| WeMM-Embedding | ai-resources | 已核 | https://x.com/TencentAI_News/status/2095873481917505558 |
+| Toolathlon | ai-resources | 已核 | https://x.com/junxian_he/status/1983834164727312391 |
+| Stitch Skills | ai-resources | 已核 | https://x.com/stitchbygoogle/status/2034332847893574080 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
