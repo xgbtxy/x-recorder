@@ -406,6 +406,12 @@
 | [低价·群] @nodecard1 nodecard交流（风险观察） | other/tg-catalog | 已核 | https://t.me/nodecard1 |
 | [低价·群] @fuck_open OpenAI技术交流（风险观察） | other/tg-catalog | 已核 | https://t.me/fuck_open |
 | [低价·bot] @achuanshuangxiangbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/achuanshuangxiangbot |
+| [低价·群] @lyxazycn XiXi订阅交流（风险观察） | other/tg-catalog | 已核 | https://t.me/lyxazycn |
+| [低价·群] @openhuge_ai OpenHuge中转（风险观察） | other/tg-catalog | 已核 | https://t.me/openhuge_ai |
+| [低价·群] @wishtoapp 码愿Sub2API（风险观察） | other/tg-catalog | 已核 | https://t.me/wishtoapp |
+| [低价·群] @yylcard YYL卡网交流（风险观察） | other/tg-catalog | 已核 | https://t.me/yylcard |
+| [低价·bot] @XiXiAiAutobot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/XiXiAiAutobot |
+| [低价·bot] @PixelAuto_Xixi_Bot 自助提交（风险观察） | other/tg-catalog | 已核 | https://t.me/PixelAuto_Xixi_Bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
