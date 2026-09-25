@@ -184,6 +184,11 @@
 | Inkling-Small | ai-resources | 已核 | https://x.com/thinkymachines/status/2082885869426631032 |
 | Lark CLI Skills | ai-resources | 已核 | https://x.com/Larksuite/status/2038789640346624457 |
 | MLE-bench | ai-resources | 已核 | https://x.com/OpenAI/status/1844429536353714427 |
+| MiMo-V2.6（小米开源） | ai-resources | 已核 | https://x.com/XiaomiMiMo/status/2102138582324625780 |
+| Olmo 3（Ai2 全开源） | ai-resources | 已核 | https://x.com/allen_ai/status/1991507983881379896 |
+| Prisma Skills | ai-resources | 已核 | https://x.com/prisma/status/2028772644322242899 |
+| Azure Skills | ai-resources | 已核 | https://x.com/Azure/status/2052856062840074294 |
+| GameDevBench | ai-resources | 已核 | https://x.com/iamwaynechi/status/2022357146478764127 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
