@@ -494,6 +494,19 @@
 | [低价·群] @realquickmarket AI技术交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/realquickmarket |
 | [低价·群] @bin_api BinAPI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/bin_api |
 | [低价·bot] @Binkoo_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/Binkoo_bot |
+| [低价·群] @yoyoai123 yoyoai企业圈（风险观察） | other/tg-catalog | 已核 | https://t.me/yoyoai123 |
+| [低价·群] @nlai001 奶龙ai（风险观察） | other/tg-catalog | 已核 | https://t.me/nlai001 |
+| [低价·群] @bysjlq 半页酥 Chat（风险观察） | other/tg-catalog | 已核 | https://t.me/bysjlq |
+| [低价·群] @ghatgptclaude GLOBAL CLAUDE团体（风险观察） | other/tg-catalog | 已核 | https://t.me/ghatgptclaude |
+| [低价·群] @grokaifenjue ai公益羊毛聚集地（风险观察） | other/tg-catalog | 已核 | https://t.me/grokaifenjue |
+| [低价·群] @talkai_z 源头搬运工（风险观察） | other/tg-catalog | 已核 | https://t.me/talkai_z |
+| [低价·群] @lizi1001 励子Ai源头批发群（风险观察） | other/tg-catalog | 已核 | https://t.me/lizi1001 |
+| [低价·群] @superspider8 SuperSpider低价GPT Pro（风险观察） | other/tg-catalog | 已核 | https://t.me/superspider8 |
+| [低价·群] @chiyu090555 chiyu gpt ai（风险观察） | other/tg-catalog | 已核 | https://t.me/chiyu090555 |
+| [低价·群] @ai6266 AI67 杂货铺（风险观察） | other/tg-catalog | 已核 | https://t.me/ai6266 |
+| [低价·bot] @guofuluban_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/guofuluban_bot |
+| [低价·bot] @lowpriceking_bot 比价目录指针（见 other 主档） | other/tg-catalog | 已核 | https://t.me/lowpriceking_bot |
+| [低价·bot] @chatgpt_claude4_bot 体验/缝合（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgpt_claude4_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
