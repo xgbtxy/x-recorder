@@ -75,6 +75,10 @@
 | Free Proxy Airport 自动测速（X） | vpn-proxy | 已核 | https://x.com/tyiiopple/status/2100729531850227787 |
 | AWS 海外中转异常观察（X·jichangtj） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098410173245337604 |
 | AWS 中转「测速正常、带载超时」机制分析（X） | vpn-proxy | 已核 | https://x.com/divid_lu49394/status/2098490860354871669 |
+| 安徽校园网海外中转异常 + 证书风险（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2099301546723013039 |
+| AnyTLS：IPv4 秒墙、IPv6 正常（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2057736251818840249 |
+| 闽苏浙 TLS/SNI 与 AnyTLS 阻断观察（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2082487380078960822 |
+| 移动蜂窝 TCP 超时 vs Hy2/IPv6（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2047663760660373788 |
 | @jichangtj 2026 评测/测速索引（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2076920947072975302 |
 | Clash「经典回归」辨伪（jichangtj→Fndroid） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098964330473836682 |
 | [低价] 86中转停服大陆 IP（TG） | other | 已核 | https://t.me/api86channel/12 |
