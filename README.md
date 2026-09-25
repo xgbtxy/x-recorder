@@ -53,6 +53,9 @@
 | 七喜机场 · 海豚快速评测（TG） | vpn-proxy | 已核 | https://t.me/haitun_channel/2469 |
 | AWS 海外中转异常观察（TG） | vpn-proxy | 已核 | https://t.me/jichangtj/1203 |
 | 比特冲刺 DASHBIT · SpeedCentre（TG） | vpn-proxy | 已核 | https://t.me/speedcentre/14115 |
+| Free Proxy Airport 自动测速（X） | vpn-proxy | 已核 | https://x.com/tyiiopple/status/2100729531850227787 |
+| @jichangtj 2026 评测/测速索引（X） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2076920947072975302 |
+| Clash「经典回归」辨伪（jichangtj→Fndroid） | vpn-proxy | 已核 | https://x.com/jichangtj/status/2098964330473836682 |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
