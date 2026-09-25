@@ -116,6 +116,10 @@
 | OpenHands Agent Canvas | ai-resources | 已核 | https://x.com/OpenHandsDev/status/2095598358853284115 |
 | Pi coding agent（Earendil） | ai-resources | 已核 | https://x.com/badlogicgames/status/2100248057413558600 |
 | Hermes Agent（Nous） | ai-resources | 已核 | https://x.com/NousResearch/status/2068056504125563317 |
+| Remotion Skills 2.0 | ai-resources | 已核 | https://x.com/Remotion/status/2089295038932996194 |
+| mattpocock/skills v1.3（cooking） | ai-resources | 已核 | https://x.com/mattpocockuk/status/2103038241578397823 |
+| Qwen-Image-2.1（基座） | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2101659302792679789 |
+| DeepSeek-V4 Preview（开源） | ai-resources | 已核 | https://x.com/deepseek_ai/status/2047516922263285776 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
