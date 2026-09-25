@@ -111,6 +111,11 @@
 | New Relic AI MCP Server | ai-resources | 已核 | https://x.com/newrelic/status/1990876449075515478 |
 | PagerDuty MCP Server | ai-resources | 已核 | https://x.com/pagerduty/status/2099963502710440067 |
 | Chronosphere MCP Server（GA） | ai-resources | 已核 | https://x.com/chronosphereio/status/1988645524417790169 |
+| Zed Delta（公测） | ai-resources | 已核 | https://x.com/zeddotdev/status/2100223348563194123 |
+| JetBrains Air | ai-resources | 已核 | https://x.com/kskrygan/status/2102349426857578994 |
+| OpenHands Agent Canvas | ai-resources | 已核 | https://x.com/OpenHandsDev/status/2095598358853284115 |
+| Pi coding agent（Earendil） | ai-resources | 已核 | https://x.com/badlogicgames/status/2100248057413558600 |
+| Hermes Agent（Nous） | ai-resources | 已核 | https://x.com/NousResearch/status/2068056504125563317 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
