@@ -489,6 +489,11 @@
 | [低价·群] @ainenglianggpt ai能量小店（风险观察） | other/tg-catalog | 已核 | https://t.me/ainenglianggpt |
 | [低价·群] @dingdingpu 丁丁AI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/dingdingpu |
 | [低价·bot] @KAOLAAIBOT 额度福利官（风险观察） | other/tg-catalog | 已核 | https://t.me/KAOLAAIBOT |
+| [低价·群] @jiafeimaoai 加菲猫千层饼Ai资源（风险观察） | other/tg-catalog | 已核 | https://t.me/jiafeimaoai |
+| [低价·群] @token014 怪兽Ai交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/token014 |
+| [低价·群] @realquickmarket AI技术交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/realquickmarket |
+| [低价·群] @bin_api BinAPI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/bin_api |
+| [低价·bot] @Binkoo_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/Binkoo_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
