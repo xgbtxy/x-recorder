@@ -88,6 +88,11 @@
 | Graphify Skill/MCP | ai-resources | 已核 | https://x.com/safishamsii/status/2102396664577192252 |
 | Jules Tools CLI | ai-resources | 已核 | https://x.com/julesagent/status/1973812188977508755 |
 | GitHub Remote MCP GA | ai-resources | 已核 | https://x.com/GHchangelog/status/1963634192010379338 |
+| Chrome DevTools MCP | ai-resources | 已核 | https://x.com/ChromiumDev/status/1970505063064825994 |
+| Vercel MCP | ai-resources | 已核 | https://x.com/vercel_dev/status/1954190678596157824 |
+| Hugging Face MCP | ai-resources | 已核 | https://x.com/reach_vb/status/1942247029515735263 |
+| Agent Plugins（OpenAI） | ai-resources | 已核 | https://x.com/OpenAIDevs/status/2085398373511918022 |
+| next-devtools-mcp | ai-resources | 已核 | https://x.com/gao_jude/status/1982942366727372843 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
