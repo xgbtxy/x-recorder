@@ -480,6 +480,11 @@
 | [低价·bot] @zhwwsnbb_bot 双向+群管（风险观察） | other/tg-catalog | 已核 | https://t.me/zhwwsnbb_bot |
 | [低价·bot] @chaochao1bot 公益解封（风险观察） | other/tg-catalog | 已核 | https://t.me/chaochao1bot |
 | [低价·bot] @chaochaochetbot 客服中转（风险观察） | other/tg-catalog | 已核 | https://t.me/chaochaochetbot |
+| [低价·群] @hdc5nme9 低价靠谱ai交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/hdc5nme9 |
+| [低价·群] @appkaola ChatGpt货源共享（风险观察） | other/tg-catalog | 已核 | https://t.me/appkaola |
+| [低价·群] @ainenglianggpt ai能量小店（风险观察） | other/tg-catalog | 已核 | https://t.me/ainenglianggpt |
+| [低价·群] @dingdingpu 丁丁AI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/dingdingpu |
+| [低价·bot] @KAOLAAIBOT 额度福利官（风险观察） | other/tg-catalog | 已核 | https://t.me/KAOLAAIBOT |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
