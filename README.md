@@ -282,6 +282,11 @@
 | Muse Code Windows | ai-resources | 已核 | https://x.com/MetaforDevs/status/2100268678583566691 |
 | TensorRT Model Connect | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2089750360869233059 |
 | Ling-3.0-tiny | ai-resources | 已核 | https://x.com/AntLingAGI/status/2085432364189335884 |
+| AlphaGenome Atlas | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2097325048109384166 |
+| WeatherNext 3 | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2095528012791902536 |
+| RecreationWorld | ai-resources | 已核 | https://x.com/HuggingPapers/status/2102068609396736180 |
+| Code2Skill | ai-resources | 已核 | https://x.com/HuggingPapers/status/2102008836865352067 |
+| Qwen-Drive-1.0 | ai-resources | 已核 | https://x.com/HuggingPapers/status/2095062917485887878 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
