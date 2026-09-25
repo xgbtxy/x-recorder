@@ -287,6 +287,11 @@
 | RecreationWorld | ai-resources | 已核 | https://x.com/HuggingPapers/status/2102068609396736180 |
 | Code2Skill | ai-resources | 已核 | https://x.com/HuggingPapers/status/2102008836865352067 |
 | Qwen-Drive-1.0 | ai-resources | 已核 | https://x.com/HuggingPapers/status/2095062917485887878 |
+| ant apply | ai-resources | 已核 | https://x.com/ClaudeDevs/status/2095651107645145538 |
+| claude plugin eval | ai-resources | 已核 | https://x.com/ClaudeDevs/status/2098500999656923145 |
+| Editable Visual Design | ai-resources | 已核 | https://x.com/HuggingPapers/status/2096511906731405369 |
+| OpenWAM | ai-resources | 已核 | https://x.com/HuggingPapers/status/2097843545851691103 |
+| Gen-HumanEgo | ai-resources | 已核 | https://x.com/AdinaYakup/status/2103027919069266307 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
