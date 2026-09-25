@@ -196,6 +196,10 @@
 | WeMM-Embedding | ai-resources | 已核 | https://x.com/TencentAI_News/status/2095873481917505558 |
 | Toolathlon | ai-resources | 已核 | https://x.com/junxian_he/status/1983834164727312391 |
 | Stitch Skills | ai-resources | 已核 | https://x.com/stitchbygoogle/status/2034332847893574080 |
+| Qwen3-VL-Embedding | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2009264754917863924 |
+| InternVL-U | ai-resources | 已核 | https://x.com/intern_lm/status/2032294588715843913 |
+| HunyuanImage 3.0 | ai-resources | 已核 | https://x.com/TencentHunyuan/status/1972137010707288459 |
+| LHTB（长程终端评测） | ai-resources | 已核 | https://x.com/rosinality/status/2076572455854825894 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
