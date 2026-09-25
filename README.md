@@ -440,6 +440,10 @@
 | [低价·bot] @poquanAIbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/poquanAIbot |
 | [低价·群] @xenterai 峰哥ai交流（风险观察） | other/tg-catalog | 已核 | https://t.me/xenterai |
 | [低价·bot] @Xentreai_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/Xentreai_bot |
+| [低价·群] @ainh666 AI交流群低价GPTGemini（风险观察） | other/tg-catalog | 已核 | https://t.me/ainh666 |
+| [低价·群] @mguishu FEI AI Plus卡网（风险观察） | other/tg-catalog | 已核 | https://t.me/mguishu |
+| [低价·群] @CHATGPTaigongshi OpenAI中文社区（风险观察） | other/tg-catalog | 已核 | https://t.me/CHATGPTaigongshi |
+| [低价·群] @duoqudaochengpin 靠谱AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/duoqudaochengpin |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
