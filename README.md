@@ -255,6 +255,9 @@
 | Ling-3.0-flash-VL | ai-resources | 已核 | https://x.com/AntLingAGI/status/2095935971556782372 |
 | DeepSeek-V4.1-Flash | ai-resources | 已核 | https://x.com/deepseek_ai/status/2097930608790167907 |
 | Hy4 preview | ai-resources | 已核 | https://x.com/TencentAI_News/status/2093232936434954659 |
+| Gemini 3.8 Flash TTS | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2102781530867126505 |
+| GPT-6 Sol / Luna | ai-resources | 已核 | https://x.com/OpenAIDevs/status/2102461432684282061 |
+| WorldCrafter | ai-resources | 已核 | https://x.com/TencentAI_News/status/2102678781605691676 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
