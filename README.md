@@ -222,6 +222,10 @@
 | PP-OCRv6 | ai-resources | 已核 | https://x.com/PaddlePaddle/status/2065299834756902995 |
 | Laguna S 2.1 | ai-resources | 已核 | https://x.com/poolsideai/status/2079613777343848465 |
 | LFM2.5-VL-3B | ai-resources | 已核 | https://x.com/liquidai/status/2087539876929441983 |
+| North Small Translate | ai-resources | 已核 | https://x.com/cohere/status/2098081558087270736 |
+| MiniCPM5-2B | ai-resources | 已核 | https://x.com/OpenBMB/status/2096970974247956501 |
+| Atria Dawn Preview | ai-resources | 已核 | https://x.com/OpenBMB/status/2099498690092355897 |
+| HLE-Diamond | ai-resources | 已核 | https://x.com/CAIS/status/2102787839964729431 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
