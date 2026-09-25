@@ -204,6 +204,11 @@
 | AliceAI-Foundation-80B | ai-resources | 已核 | https://x.com/yandexcom/status/2102050970939383810 |
 | Kimi K3 | ai-resources | 已核 | https://x.com/Kimi_Moonshot/status/2081760186235289764 |
 | dbt Agent Skills | ai-resources | 已核 | https://x.com/getdbt/status/2019501979395817790 |
+| Nex-N2.5 | ai-resources | 已核 | https://x.com/NexEcosystem/status/2097341149405151287 |
+| MiniMax-M3 | ai-resources | 已核 | https://x.com/MiniMax_AI/status/2065436935188058208 |
+| terraform-skill | ai-resources | 已核 | https://x.com/antonbabenko/status/2012917839745659170 |
+| AutomationBench-AA | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/2074194764510208230 |
+| AgencyBench | ai-resources | 已核 | https://x.com/rohanpaul_ai/status/2014934941226692747 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
