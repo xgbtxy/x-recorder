@@ -420,6 +420,10 @@
 | [低价·群] @claudepromax666 Claude Pro源头（风险观察） | other/tg-catalog | 已核 | https://t.me/claudepromax666 |
 | [低价·群] @GeminiJL Gemini交流·游戏向消歧（风险观察） | other/tg-catalog | 已核 | https://t.me/GeminiJL |
 | [低价·群] @gpt_user ChatGPT机器人讨论（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_user |
+| [低价·群] @rlaudeai Rlaude AI（风险观察） | other/tg-catalog | 已核 | https://t.me/rlaudeai |
+| [低价·群] @geminisadasd ai供销社/卡网（风险观察） | other/tg-catalog | 已核 | https://t.me/geminisadasd |
+| [低价·群] @maoli9112 牟利ai（风险观察） | other/tg-catalog | 已核 | https://t.me/maoli9112 |
+| [低价·群] @quanziai 中国ai圈（风险观察） | other/tg-catalog | 已核 | https://t.me/quanziai |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
