@@ -1,6 +1,6 @@
 # renef-skills：Android ARM64 动态插桩 Agent Skill（renef.io）
 
-- 状态：候选
+- 状态：已核（仅索引；renef 平台可信度待观察）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/Dinosn/status/2070800787542864054

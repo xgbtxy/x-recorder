@@ -36,6 +36,9 @@
 | Beerus Framework（Android） | security-tools | 已核 | https://x.com/ptdbugs/status/2095187404860616908 |
 | frida-ssl-bypass | security-tools | 已核 | https://x.com/Jayson_security/status/2101324384786845903 |
 | Perenio App Analysis | security-tools | 已核 | https://x.com/ereksonas/status/2102823621412413778 |
+| Android-Pentesting-Skill | security-tools | 已核 | https://x.com/Dinosn/status/2051858764312023244 |
+| android-reverse-engineering-skill | security-tools | 已核 | https://x.com/Dinosn/status/2030635793442558363 |
+| renef-skills | security-tools | 已核 | https://x.com/Dinosn/status/2070800787542864054 |
 | ASC 实战叙事（作者自述 root） | security-tools | 已核（主张未全证） | https://x.com/MGAldys4/status/2100144298029449331 |
 | reverse-skill 推荐 | security-tools / ai-resources | 已核 | https://x.com/bigaiguy/status/2102329454173602054 |
 | ToCode · Agent 逆向导出源码 | ai-resources（兼 security-tools） | 已核 | https://x.com/buzz3r_/status/2063486884806832200 |

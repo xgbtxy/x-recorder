@@ -1,6 +1,6 @@
 # android-reverse-engineering-skill：APK 反编译与 API 抽取的 Claude Skill
 
-- 状态：候选
+- 状态：已核（与 reverse-skill 不同仓库）
 - 分类：security-tools（兼 ai-resources）
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/Dinosn/status/2030635793442558363
