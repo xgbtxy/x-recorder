@@ -38,6 +38,11 @@
 | Cursor Agent Skills：SKILL.md 扩展 Agent 能力 | ai-resources | 已核 | https://x.com/cursor_ai/status/2014753596223770841 |
 | HyperFrames：可 `npx skills add` 的 HTML→MP | ai-resources | 已核 | https://x.com/HeyGen/status/2044827454460871072 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
+| Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
+| Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
+| Clash Verge Rev：Tauri 桌面代理 GUI（GitHub 热榜转发） | vpn-proxy | 已核 | https://x.com/kodemarket01/status/2062195599626101043 |
+| AmneziaVPN 5.0.3：开源 VPN 客户端版本更新 | vpn-proxy | 已核 | https://x.com/AmneziaVPN/status/2102447556433186967 |
+| 3m-ui：Mihomo 服务端 Web 管理面板 | vpn-proxy | 已核 | https://x.com/Flowers_hurt/status/2102965119017976096 |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
