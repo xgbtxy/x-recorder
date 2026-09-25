@@ -245,6 +245,11 @@
 | Decision Index 0.1 | ai-resources | 已核 | https://x.com/multimodalart/status/2102296665331999098 |
 | E-Commerce Bench | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2095476249556853100 |
 | MiniMax H3 | ai-resources | 已核 | https://x.com/MiniMax_AI/status/2099381310733328784 |
+| Cultivar | ai-resources | 已核 | https://x.com/pinecone/status/2101325527457968417 |
+| Jev | ai-resources | 已核 | https://x.com/typesafeai/status/2101786156572823624 |
+| READY | ai-resources | 已核 | https://x.com/fdesouza/status/2095455647923937310 |
+| ROK-FORTRESS | ai-resources | 已核 | https://x.com/scale_AI/status/2100982540152815644 |
+| Agora-2 | ai-resources | 已核 | https://x.com/odysseyml/status/2103146841378586820 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
