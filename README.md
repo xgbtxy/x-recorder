@@ -139,6 +139,11 @@
 | Terminal-Bench 4.0 | ai-resources | 已核 | https://x.com/terminalbench/status/2093593947654533349 |
 | Neon MCP | ai-resources | 已核 | https://x.com/neondatabase/status/2097411958152855717 |
 | MongoDB Atlas Managed MCP | ai-resources | 已核 | https://x.com/MongoDB/status/2098082804793798845 |
+| Airtable MCP | ai-resources | 已核 | https://x.com/airtable/status/2103483184931369312 |
+| VQ-bench（向量量化评测） | ai-resources | 已核 | https://x.com/pinecone/status/2102416782971769178 |
+| SWE-Serve（NVIDIA 推理服务 Agent 榜） | ai-resources | 已核 | https://x.com/JiantaoJ/status/2102885056327090418 |
+| MLPerf Training v6.1 后训练 | ai-resources | 已核 | https://x.com/MLCommons/status/2103137660885774720 |
+| MentalHealthBench（OpenAI） | ai-resources | 已核 | https://x.com/OpenAI/status/2102837574092161102 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
