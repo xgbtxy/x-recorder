@@ -401,6 +401,11 @@
 | [低价·群] @chatgptplusdeal Buy&Sell Worldwide（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusdeal |
 | [低价·群] @chineseChatGpt 中文体验群（风险观察） | other/tg-catalog | 已核 | https://t.me/chineseChatGpt |
 | [低价·bot] @Super_ChatGptBot 群内体验（风险观察） | other/tg-catalog | 已核 | https://t.me/Super_ChatGptBot |
+| [低价·群] @achuanqunzu 阿川AI代开档口（风险观察） | other/tg-catalog | 已核 | https://t.me/achuanqunzu |
+| [低价·群] @lcardpay LCardPay交流（风险观察） | other/tg-catalog | 已核 | https://t.me/lcardpay |
+| [低价·群] @nodecard1 nodecard交流（风险观察） | other/tg-catalog | 已核 | https://t.me/nodecard1 |
+| [低价·群] @fuck_open OpenAI技术交流（风险观察） | other/tg-catalog | 已核 | https://t.me/fuck_open |
+| [低价·bot] @achuanshuangxiangbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/achuanshuangxiangbot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
