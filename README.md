@@ -235,6 +235,11 @@
 | NASA-IBM Lunar Foundation Model | ai-resources | 已核 | https://x.com/IBMNews/status/2098018859840082162 |
 | Salesforce Connect adapter skill | ai-resources | 已核 | https://x.com/SalesforceDevs/status/2102080476957614405 |
 | Dynamo AIPerf | ai-resources | 已核 | https://x.com/NVIDIAAI/status/2101077927408623623 |
+| MiniMax Code CLI | ai-resources | 已核 | https://x.com/MiniMax_AI/status/2100930515058753830 |
+| Qwen Intelligence | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2102727405198876753 |
+| LFM2.5-VL-3B-DSpark | ai-resources | 已核 | https://x.com/liquidai/status/2103131179100819783 |
+| shadcn/lint | ai-resources | 已核 | https://x.com/shadcn/status/2099534231114314145 |
+| Azure Container Apps Sandboxes | ai-resources | 已核 | https://x.com/Azure/status/2103514866770215048 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
