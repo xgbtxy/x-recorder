@@ -63,6 +63,11 @@
 | datasette-mcp | ai-resources | 已核 | https://x.com/simonw/status/2102916558712705427 |
 | funes 本地 Agent 记忆 | ai-resources | 已核 | https://x.com/lancedb/status/2102079650839306613 |
 | Claude Code 支持 AGENTS.md | ai-resources | 已核 | https://x.com/trq212/status/2101009392611278961 |
+| SmolDataEnvs RL 数据集 | ai-resources | 已核 | https://x.com/adithya_s_k/status/2103181855214432556 |
+| LensVLM-9B（Apple） | ai-resources | 已核 | https://x.com/victormustar/status/2102824162511503669 |
+| FLUX 3 Action | ai-resources | 已核 | https://x.com/bfl_ai/status/2102816874782241174 |
+| Pruna-Qwen-Image-2.1 | ai-resources | 已核 | https://x.com/PrunaAI/status/2103152549809311816 |
+| Claude Marketplace | ai-resources | 已核 | https://x.com/claudeai/status/2102840851538080172 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
