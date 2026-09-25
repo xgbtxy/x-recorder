@@ -7,9 +7,9 @@
 - **客服号（本截图发言者）**：@JeroAccountsSupport
 - **入口**：https://t.me/JeroAccountsBot ；客服 https://t.me/JeroAccountsSupport
 - **发现群**：https://t.me/elitemethodchat（公开预览为 join gate、无帖体；截图 VIP Member 话术同型，精确发言群仍无法仅凭公开预览定案）
-- **发现出处（必填）**：阿言提供公开聊天截图（2026-09-26 ≈06:12 CST）；截图文案含 `@JeroAccountsSupport` / Check Bio / All Private Accounts。**公开预览未检出；仍待补** msgid（已查 `t.me/s/elitemethodchat`、网页搜 `JeroAccountsSupport`/`JeroAccountsBot`/`elitemethodchat`、EM 扫描 `_scan-em-2026-09-25.txt`——扫描窗未见 Jero，公开预览无帖体可核）
+- **发现出处（必填）**：阿言提供公开聊天截图（2026-09-26 ≈06:12 CST）；截图文案含 `@JeroAccountsSupport` / Check Bio / All Private Accounts。**公开预览/当前会话未命中，仍依赖用户截图**；msgid 仍待补（已查：`t.me/s/elitemethodchat` join gate 无帖体；网页搜无消息链；`_scan-em-2026-09-25.txt` 窗无 Jero；陈陈→SSH `43.173.78.6` Telethon 只读重连 `/root/tg_user` → **`not_authorized`**，未做 2FA/登录，未向 bot/客服发消息）
 - 建议分类：deals / em-shop
-- 提案人：小弟·低价资源（回填）；原候选由老大据阿言截图立
+- 提案人：小弟·TG（SSH 只读未授权复核）/ 小弟·低价资源（公开预览回填）；原候选由老大据阿言截图立
 
 ## 公开商品价目（尽量填）
 
@@ -36,7 +36,7 @@
 - **风险 / 待核实（强制）**：
   - **买卖/VIP 群硬广**；价目远低于官方，虚假额度/共享席位/盗号池高度可疑。
   - **客服仿冒**：Support 号可被镜像；付款与交付未核。
-  - **出处 msgid 公开预览未检出；仍待补**；群精确归属待核实。
+  - **出处 msgid 公开预览/当前会话未命中，仍依赖用户截图**；群精确归属待核实。
   - **观察 ≠ 推荐购买**；未向 bot 发交易消息、未试单。
 
 ## 原文摘要（可选）
