@@ -106,6 +106,13 @@
 | [低价] OpenPrice AI 比价（观察） | other | 已核 | https://www.openprice.cc/ |
 | [低价] PriceAI 比价雷达（观察） | other | 已核 | https://priceai.cc/ |
 | [低价] TelegramNav 目录（观察） | other | 已核 | https://telegramnav.github.io/ |
+| [低价] DragonSIM TG 批发（风险观察） | other | 已核 | https://dragonsim.net/en/telegram-account-wholesale/ |
+| [低价] AccsMarket TG 目录（风险观察） | other | 已核 | https://www.accsmarket.com/en/catalog/telegram |
+| [低价] MixAcc TG 账号页（风险观察） | other | 已核 | https://mixacc.com/products/telegram-accounts/ |
+| [低价] tg.cool 搜索目录（观察） | other | 已核 | https://tg.cool/ |
+| [低价] TGStat 目录统计（观察） | other | 已核 | https://tgstat.com/ |
+| [低价·bot] @FKfc8888bot 发卡（观察） | other | 已核 | https://t.me/FKfc8888bot |
+| [低价·bot] @niu444_bot 号铺（观察） | other | 已核 | https://t.me/niu444_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
