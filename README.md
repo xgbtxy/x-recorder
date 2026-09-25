@@ -58,6 +58,11 @@
 | Google Workspace CLI + Agent Skills | ai-resources | 已核 | https://x.com/addyosmani/status/2029372736267805081 |
 | last30days Agent Skill | ai-resources | 已核 | https://x.com/mvanhorn/status/2092629365045559547 |
 | OpenClaw 2.0 | ai-resources | 已核 | https://x.com/openclaw/status/2094266903204434431 |
+| Omnigent meta-harness | ai-resources | 已核 | https://x.com/omnigent_ai/status/2100610102013071364 |
+| Cloudflare API MCP（Code Mode） | ai-resources | 已核 | https://x.com/Jilles/status/2094833926879560031 |
+| datasette-mcp | ai-resources | 已核 | https://x.com/simonw/status/2102916558712705427 |
+| funes 本地 Agent 记忆 | ai-resources | 已核 | https://x.com/lancedb/status/2102079650839306613 |
+| Claude Code 支持 AGENTS.md | ai-resources | 已核 | https://x.com/trq212/status/2101009392611278961 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
