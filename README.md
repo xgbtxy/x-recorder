@@ -362,6 +362,11 @@
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
 | [低价·bot·价目] @ZykoLand_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/ZykoLand_bot |
 | [低价·bot·价目] @Premium_Shop_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Premium_Shop_bot |
+
+| [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
+| [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
+| [低价·群] @Geminivip1 公益Plus交流（风险观察） | other/tg-catalog | 已核 | https://t.me/Geminivip1 |
+| [低价·bot] @SSkyGPTbot 公益升级（风险观察） | other/tg-catalog | 已核 | https://t.me/SSkyGPTbot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
