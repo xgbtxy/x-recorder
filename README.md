@@ -300,6 +300,10 @@
 | Strands Harness | ai-resources | 已核 | https://x.com/MarcJBrooker/status/2102095972688138283 |
 | Altar-1 | ai-resources | 已核 | https://x.com/AikidoSecurity/status/2102035136678400056 |
 | SWE-Bench Pro Verified | ai-resources | 已核 | https://x.com/HuggingPapers/status/2098142214450782282 |
+| TeamAI-CLI | ai-resources | 已核 | https://x.com/TencentAI_News/status/2102991196788490264 |
+| OpenCodeReview | ai-resources | 已核 | https://x.com/swarogan/status/2103614990590623929 |
+| Hermes Bot Screen | ai-resources | 已核 | https://x.com/NousResearch/status/2102873234819698877 |
+| Hy Translation App | ai-resources | 已核 | https://x.com/TencentHunyuan/status/2103020524192542766 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
