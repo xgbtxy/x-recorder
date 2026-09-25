@@ -51,6 +51,11 @@
 | Cursor Agent Skills：SKILL.md 扩展 Agent 能力 | ai-resources | 已核 | https://x.com/cursor_ai/status/2014753596223770841 |
 | HyperFrames：可 `npx skills add` 的 HTML→MP | ai-resources | 已核 | https://x.com/HeyGen/status/2044827454460871072 |
 | HTML Explainer：本地 HTML→MP4 Skill 流水线 | ai-resources | 已核 | https://x.com/QingQ77/status/2103499013391593718 |
+| Claude Code /simplify 与 /batch Skills | ai-resources | 已核 | https://x.com/bcherny/status/2027534984534544489 |
+| FineWeb 预训练数据集 | ai-resources | 已核 | https://x.com/gui_penedo/status/1781953413938557276 |
+| Google Workspace CLI + Agent Skills | ai-resources | 已核 | https://x.com/addyosmani/status/2029372736267805081 |
+| last30days Agent Skill | ai-resources | 已核 | https://x.com/mvanhorn/status/2092629365045559547 |
+| OpenClaw 2.0 | ai-resources | 已核 | https://x.com/openclaw/status/2094266903204434431 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |

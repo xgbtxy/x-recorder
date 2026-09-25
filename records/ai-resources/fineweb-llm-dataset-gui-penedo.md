@@ -1,13 +1,13 @@
 # FineWeb：大规模高质量 Web 预训练数据集（可下载）
 
-- 状态：候选
+- 状态：已核（HF 数据集可开；对比数字待核实）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/gui_penedo/status/1781953413938557276
 - 作者：@gui_penedo
 - 推文时间：2024-04-21 07:49:35 UTC（约 2024-04-21 15:49 CST）
 
-## 要点
+## 关键点
 
 - Hugging Face 预训练数据方向作者官宣 🍷 FineWeb：对 2013–2024 Common Crawl 过滤与去重后的高质量网页文本语料。
 - 帖称约 15T tokens，并称在其上训练的模型优于 RefinedWeb、C4、Dolma、The Pile、SlimPajama 等（对比数字「待核实」）。

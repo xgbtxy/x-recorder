@@ -1,13 +1,13 @@
 # OpenClaw 2.0：本地个人 AI 助手大版本（安装/浏览器/会话重做）
 
-- 状态：候选
+- 状态：已核（官号发版；星数待核实）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/openclaw/status/2094266903204434431
 - 作者：@openclaw
 - 推文时间：2026-08-31 03:31:53 UTC（约 2026-08-31 11:31 CST）
 
-## 要点
+## 关键点
 
 - OpenClaw（龙虾）官号宣布 2.0；博客说明这是项目史上最大更新：安装流程简化、浏览器端重做、支持共享云会话等。
 - 可动手入口：GitHub 仓库 `openclaw/openclaw`，文档站含 Skills 说明（`docs.openclaw.ai/tools/skills`），技能市场为 ClawHub。

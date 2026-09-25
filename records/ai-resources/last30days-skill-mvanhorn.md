@@ -1,13 +1,13 @@
 # last30days：跨平台「近 30 天舆情/人物」Agent Skill（含 Codex）
 
-- 状态：候选
+- 状态：已核（仓库可开；星数/效果待核实）
 - 分类：ai-resources
 - 记录日期：2026-09-25
 - **来源 X（必填）**：https://x.com/mvanhorn/status/2092629365045559547
 - 作者：@mvanhorn
 - 推文时间：2026-08-26 15:04:54 UTC（约 2026-08-26 23:04 CST）
 
-## 要点
+## 关键点
 
 - 作者长文《Every Grok Bot Hack I Know》中自荐并链出其开源 skill：`mvanhorn/last30days-skill`（文中亦提及星数，统一「待核实」）。
 - Skill 并行检索 Reddit / X / YouTube / HN / Polymarket / GitHub 等，按真实互动打分后汇总「近况」简报；README 提供 Claude Code 市场安装，以及 `npx skills add mvanhorn/last30days-skill`（写明适用于 Codex、Cursor、Copilot、Gemini CLI、OpenClaw 等 Agent Skills 宿主）。
