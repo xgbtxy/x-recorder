@@ -292,6 +292,10 @@
 | Editable Visual Design | ai-resources | 已核 | https://x.com/HuggingPapers/status/2096511906731405369 |
 | OpenWAM | ai-resources | 已核 | https://x.com/HuggingPapers/status/2097843545851691103 |
 | Gen-HumanEgo | ai-resources | 已核 | https://x.com/AdinaYakup/status/2103027919069266307 |
+| Google Cloud Developer Plugin | ai-resources | 已核 | https://x.com/GoogleCloudTech/status/2098121333255135371 |
+| Android Bench 2.0 | ai-resources | 已核 | https://x.com/AndroidDev/status/2100622197253398669 |
+| Modern Web Guidance | ai-resources | 已核 | https://x.com/ChromiumDev/status/2101020485123490045 |
+| Gemma 4 Antigravity local | ai-resources | 已核 | https://x.com/googledevs/status/2103157200139043291 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
