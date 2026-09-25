@@ -382,6 +382,15 @@
 | [低价·群] @Claudejiaoliu Claude资源/技术（风险观察） | other/tg-catalog | 已核 | https://t.me/Claudejiaoliu |
 | [低价·群] @gemini3369 gemini交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini3369 |
 | [低价·bot] @hiroboticvn_bot ROBOTICVN SHOP（风险观察） | other/tg-catalog | 已核 | https://t.me/hiroboticvn_bot |
+| [低价·群] @TGAI_Group ChatGPT中文交流（风险观察） | other/tg-catalog | 已核 | https://t.me/TGAI_Group |
+| [低价·群] @redman3721 红孩儿交流（风险观察） | other/tg-catalog | 已核 | https://t.me/redman3721 |
+| [低价·群] @tokenfreed 鲸鲨源头交流（风险观察） | other/tg-catalog | 已核 | https://t.me/tokenfreed |
+| [低价·群] @claudecode_cn Claude Code社区（风险观察） | other/tg-catalog | 已核 | https://t.me/claudecode_cn |
+| [低价·群] @aijlqun 代充交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aijlqun |
+| [低价·群] @claudegpt520 Ai供需交流（风险观察） | other/tg-catalog | 已核 | https://t.me/claudegpt520 |
+| [低价·群] @gpt_nocard 公益升级交流（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_nocard |
+| [低价·bot] @nerverbot_bot 双向联系（风险观察） | other/tg-catalog | 已核 | https://t.me/nerverbot_bot |
+| [低价·bot] @gptnocard_bot 目录指针（风险观察） | other/tg-catalog | 已核 | https://t.me/gptnocard_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
