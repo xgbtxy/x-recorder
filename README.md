@@ -166,6 +166,10 @@
 | Qwen3-Omni（全模态开源） | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/1970181599133344172 |
 | gpt-oss 120B/20B（开源权重） | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/1952887733803991070 |
 | Kimi K2 Thinking（开源权重） | ai-resources | 已核 | https://x.com/ArtificialAnlys/status/1986541785511043536 |
+| Mistral 3 族（开源权重） | ai-resources | 已核 | https://x.com/MistralAI/status/1995872766177018340 |
+| Ollama × MLX（Apple Silicon） | ai-resources | 已核 | https://x.com/ollama/status/2038835449012351197 |
+| vLLM v0.28.0 | ai-resources | 已核 | https://x.com/vllm_project/status/2092789782464315594 |
+| EXO 1.0（本地集群） | ai-resources | 已核 | https://x.com/exolabs/status/2001817749744476256 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
