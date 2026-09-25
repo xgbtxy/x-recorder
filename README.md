@@ -120,6 +120,11 @@
 | mattpocock/skills v1.3（cooking） | ai-resources | 已核 | https://x.com/mattpocockuk/status/2103038241578397823 |
 | Qwen-Image-2.1（基座） | ai-resources | 已核 | https://x.com/Alibaba_Qwen/status/2101659302792679789 |
 | DeepSeek-V4 Preview（开源） | ai-resources | 已核 | https://x.com/deepseek_ai/status/2047516922263285776 |
+| Marketing Skills（第三方包） | ai-resources | 已核 | https://x.com/coreyhainesco/status/2092344373908550142 |
+| Skills CLI ← Notion 源 | ai-resources | 已核 | https://x.com/vercel_dev/status/2100635727331811669 |
+| transitions.dev Skills | ai-resources | 已核 | https://x.com/Jakubantalik/status/2077790361993236496 |
+| Gemma 4（开源） | ai-resources | 已核 | https://x.com/GoogleDeepMind/status/2039735446628925907 |
+| Muse Glimmer 30B（本地 Agent） | ai-resources | 已核 | https://x.com/AIatMeta/status/2086757844544811485 |
 | sing-box 1.14.0（TG） | vpn-proxy | 已核 | https://t.me/yapnc/495 |
 | Hiddify：多平台开源代理客户端（App Store / GPLv3 宣称） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1852014812051406910 |
 | Hiddify 1.5.2：官方发版帖（含 GitHub Releases 入口） | vpn-proxy | 已核 | https://x.com/hiddify_com/status/1810758424881496232 |
