@@ -429,6 +429,10 @@
 | [低价·群] @geminisadasd ai供销社/卡网（风险观察） | other/tg-catalog | 已核 | https://t.me/geminisadasd |
 | [低价·群] @maoli9112 牟利ai（风险观察） | other/tg-catalog | 已核 | https://t.me/maoli9112 |
 | [低价·群] @quanziai 中国ai圈（风险观察） | other/tg-catalog | 已核 | https://t.me/quanziai |
+| [低价·群] @iceaihubplus ICE AI HUB公益PLUS（风险观察） | other/tg-catalog | 已核 | https://t.me/iceaihubplus |
+| [低价·群] @gminiaixclaude Ai价格保证实惠（风险观察） | other/tg-catalog | 已核 | https://t.me/gminiaixclaude |
+| [低价·群] @gptsplus 源头渠道群（风险观察） | other/tg-catalog | 已核 | https://t.me/gptsplus |
+| [低价·群] @chatgpt003 AI星球中文资源群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgpt003 |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
