@@ -507,6 +507,16 @@
 | [低价·bot] @guofuluban_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/guofuluban_bot |
 | [低价·bot] @lowpriceking_bot 比价目录指针（见 other 主档） | other/tg-catalog | 已核 | https://t.me/lowpriceking_bot |
 | [低价·bot] @chatgpt_claude4_bot 体验/缝合（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgpt_claude4_bot |
+| [低价·群] @aichengpingjiaoliu AI交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/aichengpingjiaoliu |
+| [低价·群] @nghienvoc Nghiện Vọc（风险观察） | other/tg-catalog | 已核 | https://t.me/nghienvoc |
+| [低价·群] @lpolarischat Polaris小站（风险观察） | other/tg-catalog | 已核 | https://t.me/lpolarischat |
+| [低价·群] @KinhRoBotGroup KinhRoBot讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/KinhRoBotGroup |
+| [低价·群] @qiuqiuai1919 Ai交流群·球球（风险观察） | other/tg-catalog | 已核 | https://t.me/qiuqiuai1919 |
+| [低价·群] @computeunion ComputeUnion API/GPU（风险观察） | other/tg-catalog | 已核 | https://t.me/computeunion |
+| [低价·bot] @sheeridvn_bot SheerID VN 验证/福利（风险观察） | other/tg-catalog | 已核 | https://t.me/sheeridvn_bot |
+| [低价·bot] @vocvn_bot Group Help/Anti-spam（风险观察） | other/tg-catalog | 已核 | https://t.me/vocvn_bot |
+| [低价·bot] @mpolaris_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/mpolaris_bot |
+| [低价·bot] @KinhRoBot 群管+免费AI（风险观察） | other/tg-catalog | 已核 | https://t.me/KinhRoBot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
