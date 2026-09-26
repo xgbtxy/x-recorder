@@ -517,6 +517,19 @@
 | [低价·bot] @vocvn_bot Group Help/Anti-spam（风险观察） | other/tg-catalog | 已核 | https://t.me/vocvn_bot |
 | [低价·bot] @mpolaris_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/mpolaris_bot |
 | [低价·bot] @KinhRoBot 群管+免费AI（风险观察） | other/tg-catalog | 已核 | https://t.me/KinhRoBot |
+| [低价·群] @aigo8688 Boss源头批发交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/aigo8688 |
+| [低价·群] @aigptchong AI交流群&海外ip（风险观察） | other/tg-catalog | 已核 | https://t.me/aigptchong |
+| [低价·群] @aixiaomaidian AI小卖店（风险观察） | other/tg-catalog | 已核 | https://t.me/aixiaomaidian |
+| [低价·群] @xingluo2 星络中转（风险观察） | other/tg-catalog | 已核 | https://t.me/xingluo2 |
+| [低价·群] @claudegroup Claude Group（风险观察） | other/tg-catalog | 已核 | https://t.me/claudegroup |
+| [低价·群] @easyapis Easy-APi中转站（风险观察） | other/tg-catalog | 已核 | https://t.me/easyapis |
+| [低价·群] @fenglan1201 风岚の交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/fenglan1201 |
+| [低价·群] @sourcegpt 顶级源头中转（风险观察） | other/tg-catalog | 已核 | https://t.me/sourcegpt |
+| [低价·群] @spacex_api 太空中转站chatgpt交流（风险观察） | other/tg-catalog | 已核 | https://t.me/spacex_api |
+| [低价·bot] @Mihai6668_bot 米海双向（风险观察） | other/tg-catalog | 已核 | https://t.me/Mihai6668_bot |
+| [低价·bot] @plus_exchange_bot Plus兑换公益（风险观察） | other/tg-catalog | 已核 | https://t.me/plus_exchange_bot |
+| [低价·bot] @aibijia_bot Team/Plus公益拉人（风险观察） | other/tg-catalog | 已核 | https://t.me/aibijia_bot |
+| [低价·bot] @ai_checkin_bot AI打卡助手（风险观察） | other/tg-catalog | 已核 | https://t.me/ai_checkin_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 
 
