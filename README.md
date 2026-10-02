@@ -537,6 +537,8 @@
 | [TG·频道] @bothub BotHub Updates（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub |
 | [TG·群] @bothub_chat BotHub community（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_chat |
 | [TG·bot] @bothub_bot BotHub AI 助手（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_bot |
+| [TG·频道] @gptunnel GPTunneL（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptunnel |
+| [TG·bot] @gptunnel_bot GPTunneL 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptunnel_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
