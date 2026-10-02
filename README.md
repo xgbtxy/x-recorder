@@ -541,6 +541,8 @@
 | [TG·bot] @gptunnel_bot GPTunneL 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptunnel_bot |
 | [TG·频道] @chat_ai_bot_news Chat AI Новости（风险观察） | other/tg-ai-sources | 已核 | https://t.me/chat_ai_bot_news |
 | [TG·bot] @RussiaChatGPTBot Chat AI 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RussiaChatGPTBot |
+| [TG·频道] @ultra_ai ChatGPT Midjourney Bot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ultra_ai |
+| [TG·bot] @NeuralNetworksBot 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NeuralNetworksBot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
