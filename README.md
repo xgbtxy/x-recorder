@@ -534,6 +534,9 @@
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
 | [TG·频道] @ChatGPT_General_EN ChatGPT 4.0 Bot English（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChatGPT_General_EN |
 | [TG·bot] @ChatGPT_General_Bot 非官方多模型访问（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChatGPT_General_Bot |
+| [TG·频道] @bothub BotHub Updates（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub |
+| [TG·群] @bothub_chat BotHub community（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_chat |
+| [TG·bot] @bothub_bot BotHub AI 助手（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
