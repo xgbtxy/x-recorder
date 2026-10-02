@@ -26,3 +26,9 @@
 ## 原文摘要（可选）
 
 扫描原文摘要为 “🚀 ChatGPT Plus — Available Now! 💳 Price: …”；公开页核验到 “Avenzo Digital” 与 “Refund policy not available”。未向 bot 发消息、未交易。
+
+## 2026-10-03 补（频道指针，不改原价）
+
+- 频道 `@AvenzoDigital1`（https://t.me/AvenzoDigital1 ，1,279 subscribers）简介原文点名本 bot。
+- 非转发帖 https://t.me/AvenzoDigital1/484 （2026-10-03 02:44 PT）写 ChatGPT Plus `$2.50`（29 天，库存 4）、Grok 4 `$30`（库存 2）、Claude Pro `$6`（库存 1），并写 `Order Now: @Prime_Gadget_Store_bot`。同文亦见 /477。
+- 这是频道限时库存帖，不是本 bot 公开页菜单，不立 em-shop。频道档：`records/other/tg-ai-sources/groups/group-avenzodigital1.md`。

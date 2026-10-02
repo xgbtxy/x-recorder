@@ -22,3 +22,9 @@
 ## 原文摘要（可选）
 
 群内摘要：`🤖 Gemini AI Pro 18m ⭐️ Special Offers`（扫描窗 SNIP，非全文）。
+
+## 2026-10-03 补（频道指针，不改原价）
+
+- 频道 `@WarzoneShopHub`（https://t.me/WarzoneShopHub ，20,381 subscribers）简介本次抓取为空。
+- 非转发帖 https://t.me/WarzoneShopHub/82 （2026-09-29 09:45 PT）与 https://t.me/WarzoneShopHub/81 （2026-09-27 01:15 PT）的按钮指向 `t.me/WarzoneShopbot` 的购买深链。价是 9 月下旬的帖，不是 2026-10-03 现价。
+- 不另建店档，不立 em-shop。频道档：`records/other/tg-ai-sources/groups/group-warzoneshophub.md`。
