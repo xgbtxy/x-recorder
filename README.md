@@ -18,6 +18,7 @@
 - [`records/vpn-proxy/`](./records/vpn-proxy/) — VPN / 代理 / 网络访问相关（优先：网速向「机场/订阅」公开测速与评测；开源客户端仍收；不写绕过教程）
 - [`records/ai-resources/`](./records/ai-resources/) — 模型、Agent、提示、数据集、AI 工具
 - [`records/other/`](./records/other/) — 暂不好归类但有价值的（含低价卡网/优惠渠道线索，标题可标 `[低价]`）
+- [`records/other/tg-ai-sources/`](./records/other/tg-ai-sources/) — Telegram AI 公开频道/群与其中售卖 AI 资源的 bot（观察≠推荐；无可靠价格不进 em-shop）
 - 低价线草稿目录：[`drafts/deals/`](./drafts/deals/)
 
 新条目用 [`templates/record.md`](./templates/record.md)。
@@ -531,6 +532,8 @@
 | [低价·bot] @aibijia_bot Team/Plus公益拉人（风险观察） | other/tg-catalog | 已核 | https://t.me/aibijia_bot |
 | [低价·bot] @ai_checkin_bot AI打卡助手（风险观察） | other/tg-catalog | 已核 | https://t.me/ai_checkin_bot |
 | Sub2API 开源合租中转网关 | ai-resources | 已核 | https://github.com/Wei-Shaw/sub2api |
+| [TG·频道] @ChatGPT_General_EN ChatGPT 4.0 Bot English（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChatGPT_General_EN |
+| [TG·bot] @ChatGPT_General_Bot 非官方多模型访问（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChatGPT_General_Bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
