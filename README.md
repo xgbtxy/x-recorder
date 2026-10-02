@@ -545,6 +545,8 @@
 | [TG·bot] @NeuralNetworksBot 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NeuralNetworksBot |
 | [TG·频道] @turbotext_ai TurboText AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/turbotext_ai |
 | [TG·bot] @turbotext_bot TurboText 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/turbotext_bot |
+| [TG·频道] @gptrfru ГПТ Россия（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptrfru |
+| [TG·bot] @gptrfai_bot ГПТ Россия 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptrfai_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
