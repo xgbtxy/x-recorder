@@ -575,6 +575,8 @@
 | [TG·频道] @belpepel Пепел ➜ Белгород（风险观察） | other/tg-ai-sources | 已核 | https://t.me/belpepel |
 | [TG·频道] @kurpepel Пепел ➜ Курск（风险观察） | other/tg-ai-sources | 已核 | https://t.me/kurpepel |
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
+| [TG·频道] @boloto_miracles Boloto by Miracles（风险观察） | other/tg-ai-sources | 已核 | https://t.me/boloto_miracles |
+| [TG·bot] @BolotoStore_bot Boloto Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/BolotoStore_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
