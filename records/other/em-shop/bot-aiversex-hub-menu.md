@@ -1,7 +1,8 @@
 # [低价·bot·价目] AIVerse X Hub：公开促销帖多品标价
 
 - 状态：已核（风险观察；观察≠推荐购买）
-- 记录日期：2026-09-26
+- 审核：2026-10-03 补价。只打开公开预览，未登录、未加入、未下单。`/368` 不是转发，正文点名 `@AIVerseXBot`，但同一天 `/366` 写新链接 30 分钟失效，9 月 30 日又改成直链且没有新的美元数字，所以 `1.0$` 不当 10 月 3 日货架价。激活链接和下单参数不抄。旧档把 Gemini 批量价写成 `/349`，核对后 `/349` 是 Amazon Prime 的补货帖，Gemini 批量价在 `/344`。
+- 记录日期：2026-09-26；2026-10-03 改了出处和 Gemini 说明
 - **平台**：Telegram
 - **Bot（店铺）**：@AIVerseXBot
 - **客服号**：@GT_VERIFIED（促销帖 bulk/售后）；同线观察 `@AIVerseXSupport`（GT 页 og 指向）
@@ -12,8 +13,10 @@
 - **发现出处（必填）**：
   - https://t.me/gemini12pro_channel/162（CapCut / NordVPN / Gemini 批量价 + `@AIVerseXBot`）
   - https://t.me/AIVerseXHub/337（Spotify 2M $0.23）
-  - https://t.me/AIVerseXHub/344（Amazon Prime Video 6M $1.5）
-  - https://t.me/AIVerseXHub/349（Gemini Pro 18M 批量 $0.8 / $0.75 / $0.7）
+  - https://t.me/AIVerseXHub/340（Amazon Prime Video 6M $1.5）
+  - https://t.me/AIVerseXHub/344（2026-09-23 Gemini Pro 18M 24HW 批量价；旧档误写成 /349）
+  - https://t.me/AIVerseXHub/368（2026-09-29 旧链接补货 `1.0$`，不是 10 月 3 日货架价）
+  - https://t.me/AIVerseXHub/372（2026-09-30 CapCut Pro 7D 批量价）
 - 建议分类：deals / em-shop
 - 提案人：小弟·低价资源
 
@@ -21,15 +24,17 @@
 
 | 商品（公开所见） | 标价 | 来源 |
 |------------------|------|------|
-| CapCut Pro 7 Days | $0.35 | [gemini12pro_channel/162](https://t.me/gemini12pro_channel/162) |
-| CapCut Pro 30 Days | $2.00 | 同上 |
+| CapCut Pro 7 Days | $0.35 | [gemini12pro_channel/162](https://t.me/gemini12pro_channel/162)（更早的第三方频道促销） |
+| CapCut Pro 7D FW（买 1–3 / 4–10 / 11–49 / 50+） | $0.29 / $0.25 / $0.23 / $0.19 | [AIVerseXHub/372](https://t.me/AIVerseXHub/372)（2026-09-30 10:35 上海，`2026-09-30T02:35:19+00:00`，非转发，正文 `Buy Now: @AIVerseXBot`）。这是后来的自家频道价 |
+| CapCut Pro 30 Days | $2.00 | [gemini12pro_channel/162](https://t.me/gemini12pro_channel/162) |
 | Nord VPN 3 Months | $2.80 | 同上 |
-| Gemini Pro 18M（批量 1–10 / 11–49 / 50+） | $0.65 / $0.63 / $0.60 | 同上（促销窗） |
-| Gemini Pro 18M 24HW（批量 1–19 / 20–49 / 50+） | $0.8 / $0.75 / $0.7 | [AIVerseXHub/349](https://t.me/AIVerseXHub/349) |
+| Gemini Pro 18M（批量 1–10 / 11–49 / 50+） | $0.65 / $0.63 / $0.60 | 同上（促销窗，不是 /372） |
+| Gemini Pro 18M 24HW（批量 1–19 / 20–49 / 50+） | $0.8 / $0.75 / $0.7 | [AIVerseXHub/344](https://t.me/AIVerseXHub/344)（2026-09-23 22:31 上海，`2026-09-23T14:31:22+00:00`）。旧档写成 /349，/349 实际是 Amazon Prime 补货。这组批量价停在 9 月 23 日，见下面，不当 10 月 3 日货架价 |
+| Gemini Pro 18M 24HW 旧链接补货 | `1.0$` | [AIVerseXHub/368](https://t.me/AIVerseXHub/368)（2026-09-29 21:55 上海，`2026-09-29T13:55:47+00:00`，非转发，Available 5724，正文 `Buy Now: @AIVerseXBot`，原文 `Old Links Restocked`）。不当 10 月 3 日货架价 |
 | Spotify 2M Redeem Link | $0.23 | [AIVerseXHub/337](https://t.me/AIVerseXHub/337) |
-| Amazon Prime Video 6M | $1.5 | [AIVerseXHub/344](https://t.me/AIVerseXHub/344) |
+| Amazon Prime Video 6M | $1.5 | [AIVerseXHub/340](https://t.me/AIVerseXHub/340)（2026-09-23 07:00 上海，`2026-09-22T23:00:23+00:00`）。/344 不是这行 |
 
-- 价目完整性：部分（公开促销/补货帖；闪购价随时间浮动，上表为出处帖所见）
+- 价目完整性：部分。2026-10-03 核对：Gemini 没有可当作当天货架价的新数字。`/366`（2026-09-29 21:47 上海）写正在生成的新链接 30 分钟失效、别买；`/368` 的 `1.0$` 只标明旧链接补货；9 月 30 日的帖改成直链，没有新的美元价，激活链接不抄。CapCut 7D 以 `/372` 为准。`/383`（2026-10-03）的 Apple TV 没有数字价，不列入
 - 另见公开页（2026-09-26 curl）：`@AIVerseXBot` 可 Start；`@AIVerseXHub` ~2.2 万订阅；`@GT_VERIFIED` og 指向 `@AIVerseXSupport`
 
 ## 要点
