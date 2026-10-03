@@ -394,6 +394,7 @@
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
 | [低价·bot·价目] @ZykoLand_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/ZykoLand_bot |
 | [低价·bot·价目] @Premium_Shop_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Premium_Shop_bot |
+| [低价·bot·价目] @WarzoneShopBot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/WarzoneShopBot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |

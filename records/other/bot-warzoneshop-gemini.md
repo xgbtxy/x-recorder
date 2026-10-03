@@ -28,3 +28,8 @@
 - 频道 `@WarzoneShopHub`（https://t.me/WarzoneShopHub ，20,381 subscribers）简介本次抓取为空。
 - 非转发帖 https://t.me/WarzoneShopHub/82 （2026-09-29 09:45 PT）与 https://t.me/WarzoneShopHub/81 （2026-09-27 01:15 PT）的按钮指向 `t.me/WarzoneShopbot` 的购买深链。价是 9 月下旬的帖，不是 2026-10-03 现价。
 - 不另建店档，不立 em-shop。频道档：`records/other/tg-ai-sources/groups/group-warzoneshophub.md`。
+
+## 2026-10-03 补（gemini 交流群现价）
+
+- https://t.me/gemini3369/548507（`2026-10-03T09:02:43+00:00`，上海 17:02；不是转发）。显示名 Superman。正文：`Gemini AI Pro 18m`，`Buy 1-10 for $0.4 each`，`Buy 11-49 for $0.38 each`，`Buy 49+ for $0.36 each`，下一行 `@WarzoneShopBot`。
+- 这是 10 月 3 日的公开现价。价目档：`records/other/em-shop/bot-warzoneshop-gemini-menu.md`。不另建第二份店档。
