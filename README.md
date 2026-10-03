@@ -560,6 +560,8 @@
 | [TG·bot] @larpshopAI_bot LARP SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/larpshopAI_bot |
 | [TG·频道] @sandromania_shop sandromania shop \| news（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_shop |
 | [TG·bot] @sandromania_bot_bot sandromania shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_bot_bot |
+| [TG·频道] @zveno_ai Zveno AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zveno_ai |
+| [TG·频道] @origapi_net OrigAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/origapi_net |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
