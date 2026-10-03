@@ -553,6 +553,9 @@
 | [TG·bot] @ZinoShopbot Zino Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ZinoShopbot |
 | [TG·频道] @everest_digital_store Everest Digital Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/everest_digital_store |
 | [TG·bot] @everest_digital_store_bot Everest Digital Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/everest_digital_store_bot |
+| [TG·频道] @neuralllab NeuraLab（风险观察） | other/tg-ai-sources | 已核 | https://t.me/neuralllab |
+| [TG·频道] @plusvibeapi PlusVibeAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/plusvibeapi |
+| [TG·频道] @infofenAI Феникс \| Подписки（风险观察） | other/tg-ai-sources | 已核 | https://t.me/infofenAI |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
