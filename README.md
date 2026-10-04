@@ -399,6 +399,7 @@
 | [低价·bot·价目] @ZinoShopbot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/ZinoShopbot |
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |
 | [低价·bot·价目] @storepremium_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/storepremium_bot |
+| [低价·bot·价目] @JickyStore_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/JickyStore_bot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
@@ -586,6 +587,7 @@
 | [TG·频道] @PrimeDigitalAI Prime Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAI |
 | [TG·bot] @PrimeDigitalAIBot PrimeDigital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAIBot |
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
+| [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
