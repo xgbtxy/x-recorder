@@ -26,7 +26,7 @@
 
 ## 价目帖（不是转发；带单位且点名 bot 的句子才当公开价）
 
-2026-10-04 补的较新一行。原文是 USDT，不改写成 `$`。只有这一行，不进 em-shop。
+频道自己的较新一行。原文是 USDT，不改写成 `$`。同日更晚的货架价不在本频道，而在 gemini 交流群 https://t.me/gemini3369/550987（上海 09:20）：`0.57$` / `0.56$` / `0.55$`。那三档见 em-shop，不并进下面的 USDT。
 
 - https://t.me/zinoofficialupdates/200（`2026-10-03T16:38:26+00:00`，即 2026-10-04 00:38 PT；不是转发，没有 Paid Promotion）
   - 商品行：`Gemini AI 5TB - 18M`
@@ -51,13 +51,13 @@
 - /167 `Price: 0.32`（Duolingo）、/179 `Price: 1.59`（CapCut）、/182 `Price: 0.99`（Amazon Prime）同样没有美元符号，正文没有点名 bot。
 - /168（2026-10-02 11:32 PT）是 Gemini 激活说明，没有价格，也没有点名 bot。不收录任何激活链接。
 
-无稳定菜单，不立 em-shop。仓库里没有已有店档，店档：`records/other/tg-ai-sources/bots/bot-zinoshopbot.md`。不另建第二份。
+本频道这一行 USDT 自己不成菜单。10 月 4 日的后缀美元阶梯在群帖 550987，价目是 `records/other/em-shop/bot-zinoshop-gemini-tiers.md`。店档仍是 `records/other/tg-ai-sources/bots/bot-zinoshopbot.md`，不另建第二份。
 
 ## 关联
 
 | 对象 | 出处 | 价目 | 备注 |
 |------|------|------|------|
-| bot `@ZinoShopbot` | 非转发帖 /200 正文；更早 /178、/183 | /200 是 `0.57 USDT`。/183 是更早的 `0.59$` / `0.58$` | 启动页无价；USDT 不改写成 `$`；不立 em-shop |
+| bot `@ZinoShopbot` | 群帖 gemini3369/550987；频道 /200；更早 /178、/183 | 550987 是 `0.57$` / `0.56$` / `0.55$`。/200 是更早的 `0.57 USDT` | 启动页无价；USDT 不改写成 `$`；价目见 em-shop |
 | `@zinoshopgroup` | 该 bot 的另一条加入门槛 | 无 | `t.me/s/zinoshopgroup` 是加入门，没有帖。预览卡 `191 members, 33 online`。简介没有点名 bot，不单独立档 |
 
 ## 和客户端说法不一致
