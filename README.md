@@ -400,6 +400,10 @@
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |
 | [低价·bot·价目] @storepremium_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/storepremium_bot |
 | [低价·bot·价目] @JickyStore_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/JickyStore_bot |
+| [低价·bot·价目] @RDCshopbot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/RDCshopbot |
+| [低价·bot·价目] @PiggyAi799_Bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/PiggyAi799_Bot |
+| [低价·bot·价目] @yakult88_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/yakult88_bot |
+| [低价·bot·价目] @Rainnystorebot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/Rainnystorebot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
@@ -592,6 +596,12 @@
 | [TG·bot] @Paglu_Shopp_Bot Paglu shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Paglu_Shopp_Bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
+| [TG·bot] @RDCshopbot Ryanshop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RDCshopbot |
+| [TG·bot] @PiggyAi799_Bot Piggy AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PiggyAi799_Bot |
+| [TG·频道] @PiggyAIPremium Piggy AI Premium（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PiggyAIPremium |
+| [TG·bot] @yakult88_bot Shop_Yakult88（风险观察） | other/tg-ai-sources | 已核 | https://t.me/yakult88_bot |
+| [TG·bot] @Rainnystorebot Rainystore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Rainnystorebot |
+| [TG·频道] @RainyStore24 RainyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RainyStore24 |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
