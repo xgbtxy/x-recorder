@@ -590,6 +590,8 @@
 | [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
 | [TG·频道] @paglu_shop Paglu shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/paglu_shop |
 | [TG·bot] @Paglu_Shopp_Bot Paglu shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Paglu_Shopp_Bot |
+| [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
+| [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
