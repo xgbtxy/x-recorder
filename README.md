@@ -621,6 +621,8 @@
 | [TG·频道] @HitMeowShop HITMEOW Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/HitMeowShop |
 | [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
 | [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
+| [TG·bot] @Shop_chatgptplus_bot AIX STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Shop_chatgptplus_bot |
+| [TG·频道] @AIX_C A I X CHANAL（风险观察） | other/tg-ai-sources | 已核 | https://t.me/AIX_C |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 
