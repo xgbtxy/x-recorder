@@ -625,6 +625,7 @@
 | [TG·频道] @AIX_C A I X CHANAL（风险观察） | other/tg-ai-sources | 已核 | https://t.me/AIX_C |
 | [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
 | [TG·bot] @DanShopAI_bot DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAI_bot |
+| [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·频道] @DanShopAl DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
