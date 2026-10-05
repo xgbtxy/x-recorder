@@ -405,6 +405,7 @@
 | [低价·bot·价目] @yakult88_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/yakult88_bot |
 | [低价·bot·价目] @Rainnystorebot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/Rainnystorebot |
 | [低价·bot·价目] @pixelprimeshop_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/pixelprimeshop_bot |
+| [低价·bot·价目] @hemtk_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/hemtk_bot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
@@ -607,6 +608,7 @@
 | [TG·bot] @Duckystore2_bot Ducky Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Duckystore2_bot |
 | [TG·频道] @duckystorechannel DUCKY STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/duckystorechannel |
 | [TG·bot] @pixelprimeshop_bot PixelPrime Digital Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/pixelprimeshop_bot |
+| [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
