@@ -1,0 +1,18 @@
+# [TG·bot] Relatablee__Store
+
+- 状态：已核
+- 审核：2026-10-06。公开页 https://t.me/Relataablebot 可开（预览为 Contact/Send Message）。客户端从 `@gemini30pro` 卖家 `@Rhysonx` 主页只读 Start，点 Shop 菜单看价，未充值、未下单、未发帖。无稳定公开价帖 message id，**不进 em-shop**。Gemini 18m 按激活链接口径不当订阅现价。人号 `@Rhysonx` 不立档。
+- 记录日期：2026-10-06
+- **平台**：Telegram
+- **Bot**：`@Relataablebot`（客户端显示 Relatablee__Store）
+- **入口**：https://t.me/Relataablebot
+- **发现于**：群 https://t.me/gemini30pro ；发帖人 `@Rhysonx`（Rhyos L）简介挂本 bot
+- **售卖内容（该页自称）**：premium digital products、自动发货；菜单 Shop / Deposit / My Profile / My Orders / Support / Refer & Earn
+- **公开价格**：无稳定半角 `$` 公开帖链接。客户端 Start 菜单（2026-10-06 约 00:02 上海，只读）所见：ChatGPT Plus 1m `$3.50`；ChatGPT Pro 20x FW `$85`；Claude Max 20x `$65`；Claude Max 5x `$25`；K12 teacher 1yr `$25`（教育号）；Gemini 18m Pro `$0.85`（不当订阅现价）。群内帖另有 Plus `$3.5`、Gemini `$0.40`，与菜单不完全一致，以菜单交叉、帖无固定 id。
+- **来源**：https://t.me/Relataablebot ；交叉群 `@gemini30pro`
+- 建议分类：other/tg-ai-sources（不进 em-shop）
+- 提案人：小弟·TG群bot
+
+## 风险 / 待核实（强制）
+
+- 非官方；价远低于官方，共享/失效/盗用可能。无稳定公开价帖，现价主要来自客户端菜单。观察 ≠ 推荐。未下单。
