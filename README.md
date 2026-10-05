@@ -609,6 +609,7 @@
 | [TG·频道] @duckystorechannel DUCKY STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/duckystorechannel |
 | [TG·bot] @pixelprimeshop_bot PixelPrime Digital Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/pixelprimeshop_bot |
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
+| [TG·bot] @CloudyStoree_bot CloudyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CloudyStoree_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
