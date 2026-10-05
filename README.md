@@ -619,6 +619,8 @@
 | [TG·bot] @napannbot NAPAN PREMIUM SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/napannbot |
 | [TG·bot] @PremikeyBot HitMeow Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PremikeyBot |
 | [TG·频道] @HitMeowShop HITMEOW Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/HitMeowShop |
+| [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
+| [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 
