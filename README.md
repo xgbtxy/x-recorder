@@ -623,6 +623,7 @@
 | [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @Shop_chatgptplus_bot AIX STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Shop_chatgptplus_bot |
 | [TG·频道] @AIX_C A I X CHANAL（风险观察） | other/tg-ai-sources | 已核 | https://t.me/AIX_C |
+| [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 
