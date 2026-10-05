@@ -602,6 +602,7 @@
 | [TG·bot] @yakult88_bot Shop_Yakult88（风险观察） | other/tg-ai-sources | 已核 | https://t.me/yakult88_bot |
 | [TG·bot] @Rainnystorebot Rainystore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Rainnystorebot |
 | [TG·频道] @RainyStore24 RainyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RainyStore24 |
+| [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
