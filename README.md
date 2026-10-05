@@ -603,6 +603,8 @@
 | [TG·bot] @Rainnystorebot Rainystore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Rainnystorebot |
 | [TG·频道] @RainyStore24 RainyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RainyStore24 |
 | [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
+| [TG·bot] @Duckystore2_bot Ducky Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Duckystore2_bot |
+| [TG·频道] @duckystorechannel DUCKY STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/duckystorechannel |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
