@@ -551,6 +551,7 @@
 | [TG·群] @bothub_chat BotHub community（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_chat |
 | [TG·群] @gemini30pro gemini交流群（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gemini30pro |
 | [TG·群] @accounthubai AI Account Hub（风险观察） | other/tg-ai-sources | 已核 | https://t.me/accounthubai |
+| [TG·群] @chatgptjiaoliuqun chatGPT注册教程/账号购买（风险观察） | other/tg-ai-sources | 已核 | https://t.me/chatgptjiaoliuqun |
 | [TG·bot] @bothub_bot BotHub AI 助手（风险观察） | other/tg-ai-sources | 已核 | https://t.me/bothub_bot |
 | [TG·频道] @gptunnel GPTunneL（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptunnel |
 | [TG·bot] @gptunnel_bot GPTunneL 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptunnel_bot |
