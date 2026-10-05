@@ -616,6 +616,7 @@
 | [TG·bot] @CloudyStoree_bot CloudyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CloudyStoree_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
+| [TG·bot] @napannbot NAPAN PREMIUM SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/napannbot |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 
