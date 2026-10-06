@@ -1,6 +1,6 @@
 # [TG·bot] AIX STORE [Auto]（@Shop_chatgptplus_bot）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-06 复审：店方频道发 cc BIN + 卡号生成器）**
 - 审核：2026-10-06。公开页核对 https://t.me/Shop_chatgptplus_bot（AIX STORE [Auto]，Start Bot；简介 Admin `@VNV_I`、Must Join `@CDKK12_CHATGPT`）。频道 https://t.me/AIX_C/79 公开 embed 可见 `RATE ➡️ 5$` 并点名本 bot；`/81` 批量 `$4.5`。配套群 `@CDKK12_CHATGPT` **同店不另档**。本轮**未 Start**。人号 `@VNV_I` / `@VNV_i` 不立档。**不进 em-shop**（可核 `$` 主项目前主要是 ChatGPT Plus 单品线）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -27,3 +27,10 @@
 ## 风险 / 待核实（强制）
 
 - 非官方；价远低于官方约 `$20` 月费。频道近帖偏 Netflix/giveaway；Plus `$` 主帖约 9/15。观察 ≠ 推荐。未 Start、未下单。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方自家频道 https://t.me/AIX_C/153（`2026-09-25T00:17:51+00:00`，上海 09-25 08:17；2026-10-06 embed 复核仍在，原创非转发）公开发 Amazon Prime 30 天试用用的卡 BIN（`434559138590|04|2029`）、智利地址，并推卡号生成器 `@Raven_R7bot /gen`，属 **cc/盗刷 method**。
+- 同频道 `/148` 推免费 Netflix bot、`/130` 推来路不明的送 Plus bot。
+- 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道 `@AIX_C`、配套群 `@CDKK12_CHATGPT`、人号 `@VNV_I` **一并不收**。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
+- 线索：小弟·便宜店 复审提报；老大 curl 复核。
