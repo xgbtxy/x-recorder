@@ -407,6 +407,7 @@
 | [低价·bot·价目] @pixelprimeshop_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/pixelprimeshop_bot |
 | [低价·bot·价目] @hemtk_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/hemtk_bot |
 | [低价·bot·价目] @sellnitystorebot 频道 FLASH 两行（风险观察） | other/em-shop | 已核 | https://t.me/sellnitystorebot |
+| [低价·bot·价目] @crownailuxurybot 自家频道三家现价（风险观察） | other/em-shop | 已核 | https://t.me/crownailuxurybot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
 | [低价·群] @gemini12pro 讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro |
@@ -627,6 +628,7 @@
 | [TG·bot] @DanShopAI_bot DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAI_bot |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |
+| [TG·bot] @crownailuxurybot Crown AI Luxury（风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 | [TG·频道] @DanShopAl DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
