@@ -1,6 +1,6 @@
 # [TG·bot] HitMeow Shop（@PremikeyBot）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-06 复审：频道发免费薅羊毛 method）**
 - 审核：2026-10-06。公开页核对 https://t.me/PremikeyBot（HitMeow Shop🌐，Start Bot；简介指向频道 `@HitMeowShop`、Support `@HitmeowSupport`、Admin `@vahnix`）。同店越南线 https://t.me/Premikey_Bot（HitMeow Shop🇻🇳）**不另档**。频道库存帖 https://t.me/HitMeowShop/184 公开 embed 可见 `Price: $10.75`（ChatGPT Plus VIP 1 month）。本轮按口径**未 Start**（菜单待补）。人号 `@Vahnix` / `@HitmeowSupport` 不立档。**不进 em-shop**（频道可核半角 `$` 个人订阅主项目前主要是 ChatGPT Plus 单品；群表四类未点名本 bot）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -25,3 +25,10 @@
 ## 风险 / 待核实（强制）
 
 - 非官方；价低于官方约 `$20` 月费时共享/回收/失效可能。群表经人号跳转，不是帖内直写 bot。观察 ≠ 推荐。未 Start、未下单。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方频道发免费薅羊毛 method（2026-10-06 老大 embed 复核，原创非转发）：
+  - https://t.me/HitMeowShop/195（`2026-10-06T10:55:53+00:00`）直接贴带 token 的 Adobe 印度区 PSSTUDENT 结账链接，「IP India Free 1 year」，等于分享官方促销漏洞的白嫖 method。
+  - https://t.me/HitMeowShop/193（`2026-10-05T16:39:46+00:00`）预告将分享「tips and tricks」。
+- 按「店方频道卖/发 method、教程整店驳回」：`@HitMeowShop`、`@PremikeyBot` 一并不收。README 行已撤，本档仅留作驳回记录，**切勿使用**。

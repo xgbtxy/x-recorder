@@ -1,6 +1,6 @@
 # [TG·频道] HITMEOW Shop（@HitMeowShop）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-06 复审：频道发免费薅羊毛 method）**
 - 审核：2026-10-06。公开页核对 https://t.me/HitMeowShop（约 `1 916 subscribers`）。简介点名 `@PremikeyBot` / `@Premikey_Bot`。库存帖 `/184` 公开可见半角 `$`。只读，未加入、未发帖、未下单。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -23,3 +23,10 @@
 ## 风险 / 待核实（强制）
 
 - 非官方库存频道。K12 与 VIP 整月混发；售后/来源未核实。人号 admin/support 不立档。观察 ≠ 推荐。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方频道发免费薅羊毛 method（2026-10-06 老大 embed 复核，原创非转发）：
+  - https://t.me/HitMeowShop/195（`2026-10-06T10:55:53+00:00`）直接贴带 token 的 Adobe 印度区 PSSTUDENT 结账链接，「IP India Free 1 year」，等于分享官方促销漏洞的白嫖 method。
+  - https://t.me/HitMeowShop/193（`2026-10-05T16:39:46+00:00`）预告将分享「tips and tricks」。
+- 按「店方频道卖/发 method、教程整店驳回」：`@HitMeowShop`、`@PremikeyBot` 一并不收。README 行已撤，本档仅留作驳回记录，**切勿使用**。
