@@ -482,8 +482,6 @@
 | [低价·群] @xiaoxiaoipkyc 卡比兽Ai资源站（风险观察） | other/tg-catalog | 已核 | https://t.me/xiaoxiaoipkyc |
 | [低价·群] @aiaoteman001 AI奥特曼代充交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiaoteman001 |
 | [低价·群] @dhbdkk 代充源头交流（风险观察） | other/tg-catalog | 已核 | https://t.me/dhbdkk |
-| [低价·群] @kewang9898988 海外Grok GPT会员（⚠️代做 KYC 高风险） | other/tg-catalog | 已核 | https://t.me/kewang9898988 |
-| [低价·bot] @Tsiaohu_Bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/Tsiaohu_Bot |
 | [低价·群] @receiptxin 稳健靠谱AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/receiptxin |
 | [低价·群] @claude1316 Claude openai核销（风险观察） | other/tg-catalog | 已核 | https://t.me/claude1316 |
 | [低价·群] @openai138 Open ai企业交流（风险观察） | other/tg-catalog | 已核 | https://t.me/openai138 |
@@ -613,7 +611,6 @@
 | [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
 | [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
-| [TG·bot] @DanShopAI_bot DanShopAI（⚠️代做 KYC 高风险） | other/tg-ai-sources | 已核 | https://t.me/DanShopAI_bot |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |
 | [TG·bot] @crownailuxurybot Crown AI Luxury（⚠️被指诈骗，风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
@@ -621,7 +618,6 @@
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
 | [TG·bot] @EcosystemAIShop_bot Hsoulz AIShopbot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/EcosystemAIShop_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
-| [TG·频道] @DanShopAl DanShopAI（⚠️代做 KYC 高风险） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 

@@ -1,6 +1,6 @@
 # [TG·bot] DanShopAI（@DanShopAI_bot）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-06：代做 KYC）**
 - 审核：2026-10-06。公开页核对 https://t.me/DanShopAI_bot（DanShopAI，Start Bot；简介 Channel `@DanShopAl` / Support `@SellerGoBuy` / Feedback `@feedbackSellerGoBuy`）。店方频道价目帖 https://t.me/DanShopAl/94 公开 embed 可见同帖多行半角 `$`（本号非转发，`2026-09-10T06:34:09+00:00`）。本轮**未 Start**、未下单。人号 `@SellerGoBuy` 不立档。**不进 em-shop**（主表大量 CDK/成品号；ChatGPT Plus CDK `17.15$` 仅略低于官方约 $20；Claude Pro CDK `20.0$` 贴官方月价；Gemini 18m `$10` 按口径**不当**主计）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -34,3 +34,7 @@
 
 - https://t.me/DanShopAl/126（2026-09-16T21:36Z）俄文自述「现在做印尼 KYC $16」；https://t.me/DanShopAl/226（2026-10-03T07:53Z）上架「KYC Claude — $16」。
 - 代做/代过身份验证意味着用他人或伪造证件过验证，涉 **身份冒用**，账号随时可能被封、牵连法律风险。按边界处理：暂不下架，标高风险，**切勿购买 KYC 类商品**；若再见 cc/method/证件生成器则整店驳回。
+
+## ⛔ 已下架（2026-10-06 17:40 口径更新）
+
+- 口径更新：代做 KYC（代过身份验证）的店，与卡号生成器、生成卡方法同样按复审下架处理。上文「代做 KYC」证据成立，因此由「标高风险」改为下架。README 行已撤，本档仅留作驳回记录，**切勿购买**。
