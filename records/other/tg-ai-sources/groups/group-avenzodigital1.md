@@ -65,3 +65,7 @@
 - 误开过的 Cloud Pro `$8` 结算页不当价格来源，此处不记。
 
 > 观察不等于推荐；只读，不发帖、不下单、不试购。
+
+## ⚠️ 被公开点名诈骗（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/18（2026-09-27）原文：「This dogshit is scammer @AvenzoDigital and his bot @Prime_Gadget_Store_bot」，联系人 `@ihq9n`。未附具体交易证据，该频道有竞争方背景；指控未独立核实，**按高风险处理，切勿付款**。

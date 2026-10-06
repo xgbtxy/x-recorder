@@ -360,9 +360,9 @@
 | [低价·bot] @scammersdeathbot EM Escrow（风险观察） | other | 已核 | https://t.me/scammersdeathbot |
 | [低价·bot] @nomorescammersbot EM 举报入口（风险观察） | other | 已核 | https://t.me/nomorescammersbot |
 | [低价·bot] @VouchersShopBot 闪购（风险观察） | other | 已核 | https://t.me/VouchersShopBot |
-| [低价·bot] @Prime_Gadget_Store_bot（风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
+| [低价·bot] @Prime_Gadget_Store_bot（⚠️被指诈骗，风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
-| [低价·bot] @TrustedShopingbot Claude Gift（风险观察） | other | 已核 | https://t.me/TrustedShopingbot |
+| [低价·bot] @TrustedShopingbot Claude Gift（⚠️被指诈骗，风险观察） | other | 已核 | https://t.me/TrustedShopingbot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
 | [低价·bot] @VaultXStorebot 数字商品店（风险观察） | other | 已核 | https://t.me/VaultXStorebot |
 | [低价·bot] @mangoshopglobal_bot API Codex（风险观察） | other | 已核 | https://t.me/mangoshopglobal_bot |

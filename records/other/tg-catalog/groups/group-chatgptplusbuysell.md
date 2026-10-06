@@ -38,3 +38,7 @@
 ## 风险 / 待核实（强制）
 
 - 买卖群硬广、仿冒客服、盗号/共享席位、跑路；简介虽提 escrow，**不保证**安全。观察 ≠ 推荐。不发帖、不试单、不对 bot 下单。公开预览不可读帖，协采补新 msgid 时仍只读。
+
+## ⚠️ 被公开点名诈骗（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/18（2026-09-27）原文：「This dogshit is scammer @AvenzoDigital and his bot @Prime_Gadget_Store_bot」，联系人 `@ihq9n`。未附具体交易证据，该频道有竞争方背景；指控未独立核实，**按高风险处理，切勿付款**。

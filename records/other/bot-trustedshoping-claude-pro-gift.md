@@ -26,3 +26,7 @@
 ## 原文摘要（可选）
 
 公开 Telegram 消息摘要：`Claude Pro Gift Link Available On Bot`；`25 days warranty`；`1 Month Validity`；`Price: 10$`。公开 bot 页可打开入口并显示支持联系人，但未提供独立资质或退款条款。
+
+## ⚠️ 被公开点名（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/16（2026-09-26）「LIST SCAMMER VERIFIED」名单列出 `@TrustedShopingbot`，未写具体事由；该频道有竞争方背景，指控未核实，**按高风险处理，切勿付款**。

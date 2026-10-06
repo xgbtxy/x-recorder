@@ -32,3 +32,7 @@
 - 频道 `@AvenzoDigital1`（https://t.me/AvenzoDigital1 ，1,279 subscribers）简介原文点名本 bot。
 - 非转发帖 https://t.me/AvenzoDigital1/484 （2026-10-03 02:44 PT）写 ChatGPT Plus `$2.50`（29 天，库存 4）、Grok 4 `$30`（库存 2）、Claude Pro `$6`（库存 1），并写 `Order Now: @Prime_Gadget_Store_bot`。同文亦见 /477。
 - 这是频道限时库存帖，不是本 bot 公开页菜单，不立 em-shop。频道档：`records/other/tg-ai-sources/groups/group-avenzodigital1.md`。
+
+## ⚠️ 被公开点名诈骗（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/18（2026-09-27）原文：「This dogshit is scammer @AvenzoDigital and his bot @Prime_Gadget_Store_bot」，联系人 `@ihq9n`。未附具体交易证据，该频道有竞争方背景；指控未独立核实，**按高风险处理，切勿付款**。
