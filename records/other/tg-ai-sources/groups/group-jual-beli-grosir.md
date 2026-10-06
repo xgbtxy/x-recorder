@@ -14,7 +14,7 @@
   - https://t.me/jual_beli_grosir/4187467（`2026-10-05T23:48:27+00:00`）：`@RESSKECY`，`chatgpt+ 1b fw 8k`、`claude ai 1b 10k`，店 bot `@PREEMCYBOT`（auto order 24/7）
   - https://t.me/jual_beli_grosir/4187235（`2026-10-05T15:20:59+00:00`）：`@fleublossva`，`chtgpt 7k, gemini 7k`
   - https://t.me/jual_beli_grosir/4187473（`2026-10-06T00:07:51+00:00`）：#mith 供货商，`CHATGPT 12K`
-- 频道内见到的 Bot：`@PREEMCYBOT`（AI 相关店 bot，待单独核档）；`@sendgrosirbot`（投稿 bot，非店）
+- 频道内见到的 Bot：`@PREEMCYBOT`（AI 相关店 bot；**已驳回**：店方频道 `@premiumcy/1097` 同卖 `cc live`）；`@sendgrosirbot`（投稿 bot，非店）
 - 关联：讨论群 `@promosigrup`（约 8.5K members，需进群，泛商品论坛，不单独立档）
 - 价格单位：印尼盾简写（`k` = 千 IDR），未换算；**不进 em-shop**
 - 建议分类：other/tg-ai-sources
@@ -23,3 +23,4 @@
 ## 风险 / 待核实（强制）
 
 - 综合买卖频道，AI 只是众多「app prem」之一；同帖常见 Netflix 等破解/共享号与接码号，账号来源可疑、易封、无担保。价格仅官方零头，极可能是共享席位或来路不明。频道只转发投稿，卖家多留邀请链，难追责。人号不立档。观察 ≠ 推荐。
+- 已见卖家同店售卖在线信用卡数据（`cc live`）与「method」教程；从本频道再挖店 bot 时须先查店方频道，有赃物/教程即整店驳回。
