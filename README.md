@@ -621,6 +621,7 @@
 | [TG·bot] @crownailuxurybot Crown AI Luxury（⚠️被指诈骗，风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
 | [TG·bot] @JeroAccountsBot Jero Accounts（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JeroAccountsBot |
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
+| [TG·bot] @EcosystemAIShop_bot Hsoulz AIShopbot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/EcosystemAIShop_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 | [TG·频道] @DanShopAl DanShopAI（⚠️代做 KYC 高风险） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
