@@ -25,3 +25,4 @@
 - 防骗频道 https://t.me/scammerfvck/16（2026-09-26）与 /28（2026-10-05）的「LIST SCAMMER」名单把 `@crownailuxurybot` 标为 `SCAM`，/28 称与 texasai.site、gptluna 等站「SAME OWNER」。
 - https://t.me/scammerfvck/27（2026-10-02，转发帖）买家自述用 Binance 付给「Crown AI Luxury」后未收到货，正在按「Payment without delivery」申诉冻结对方 Binance UID 1279190934。
 - 今天 https://t.me/gemini12pro/385332 有人在群内转贴该名单；转贴人同帖推销自家 Gemini 链接，有竞争动机。指控未独立核实，但有具体受害自述，**按高风险处理，切勿付款**。
+- 2026-10-07 补充（中性备注）：有竞品系频道（scammerfvck / @UpgradeGeminiPro 一系，频道简介写「You can report from @UpgradeGeminiPro group」，其自家广告点名竞品）指控其与 Texas AI（texasai.site / @texxasai）同老板；https://t.me/scammerfvck/35 至 /38（2026-10-07 07:02 CST，转发帖）称在 Texas AI 充值 10 USDT 到账后余额为 0、客服不回。来源有竞品动机、未独立核实，存疑待查；状态不动，继续观察，若日后出现独立来源的受害证据再议下架。
