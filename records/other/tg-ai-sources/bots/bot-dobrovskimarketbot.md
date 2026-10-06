@@ -1,6 +1,6 @@
 # [TG·bot] Dobrovski’s Market
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-06：卖 Claude 会话 Cookies）**
 - 审核：2026-10-03 public preview only（打开 https://t.me/DobrovskiMarketBot 与频道帖 /620、/617，未登录、未加入、未下单、未点 Start）。
 - 记录日期：2026-10-03
 - **平台**：Telegram
@@ -25,3 +25,7 @@
 
 - 非官方。299₽ 是 2026-09-27 的 Plus 补货，250₽ 是 2026-10-03 的 K12 EDU 补货，都不是打开过的收银台
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 已下架（2026-10-06 19:50 复审）
+
+- 店方频道 https://t.me/DobrovskiMarket/87（`2026-07-27T09:27:57+00:00`，原创非转发，老大 embed 复核）卖 **Claude 登录会话 Cookies**：Max20 Cookie $30、Max5 Cookie $20、Pro cookie $6。与 ShopClaude 同口径：卖会话 Cookies 基本等于卖被盗或被劫持的会话，与卖卡、method、代做 KYC 同类，**整店下架**。README 行已撤，本档仅留作驳回记录，**切勿购买**。

@@ -572,8 +572,6 @@
 | [TG·频道] @zveno_ai Zveno AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zveno_ai |
 | [TG·频道] @origapi_net OrigAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/origapi_net |
 | [TG·频道] @hubrispw Hubris（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hubrispw |
-| [TG·频道] @DobrovskiMarket Dobrovski’s MARKET（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DobrovskiMarket |
-| [TG·bot] @DobrovskiMarketBot Dobrovski’s Market（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DobrovskiMarketBot |
 | [TG·频道] @multiai_official MultiAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/multiai_official |
 | [TG·频道] @ChuBeThatTha Da Anh Đen（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeThatTha |
 | [TG·bot] @ChuBeChamChi_bot Chú Bé Chăm Chỉ（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeChamChi_bot |
