@@ -26,3 +26,9 @@
 
 - 非官方。649 ₽ 是 2026-09-29 的频道帖，不是打开过的收银台
 - 观察 ≠ 推荐。未下单
+
+## ⚠️ 风险补充（2026-10-06 复审）
+
+- 店方频道卖 **账号会话 Cookies**：https://t.me/shopclaude_channel/435（2026-06-07）CLAUDE AI COOKIES MAX5 1199₽、PRO 289₽；/879（2026-09-28）「Restocked Cursor Cookies」。卖登录会话 Cookie 常见来源是盗取或劫持的会话，买方随时掉线、牵连原号主，按高风险处理，**切勿购买 Cookies 类商品**。
+- 同店新 bot `@claudeapi_io_bot`（未立档）卖按时长的中转 API：/929（2026-10-06T09:40Z）GLM 5.3 Flash Uncensored 不限量 24h $15 / 3 天 $42 / 7 天 $90；/927 宣布加入「无审查模型」。属 API 中转、来源不明，不收。
+- 暂未见 cc/method/教程/代做 KYC，故不下架；再见即整店驳回。
