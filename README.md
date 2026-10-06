@@ -578,8 +578,6 @@
 | [TG·频道] @ChuBeThatTha Da Anh Đen（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeThatTha |
 | [TG·bot] @ChuBeChamChi_bot Chú Bé Chăm Chỉ（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeChamChi_bot |
 | [TG·bot] @CheekyKidAI_bot CheekyKid Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CheekyKidAI_bot |
-| [TG·频道] @shopclaude_channel ShopClaude（⚠️卖会话 Cookies 高风险） | other/tg-ai-sources | 已核 | https://t.me/shopclaude_channel |
-| [TG·bot] @shopclaude_bot ShopClaude（⚠️卖会话 Cookies 高风险） | other/tg-ai-sources | 已核 | https://t.me/shopclaude_bot |
 | [TG·频道] @belpepel Пепел ➜ Белгород（风险观察） | other/tg-ai-sources | 已核 | https://t.me/belpepel |
 | [TG·频道] @kurpepel Пепел ➜ Курск（风险观察） | other/tg-ai-sources | 已核 | https://t.me/kurpepel |
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
