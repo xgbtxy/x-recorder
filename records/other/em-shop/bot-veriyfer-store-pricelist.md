@@ -1,6 +1,6 @@
 # [低价·bot·价目] Veriyferbot：公开频道多品美元价目（Verify / Store）
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06 复审：盗刷卡 method（BIN 生成卡填 Stripe）与证件生成器）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@Veriyferbot（公开页标题 Verifier Bot；Mini App 店）
@@ -55,3 +55,14 @@
 ## 原文摘要（可选）
 
 veriyfyer 散帖列出 GPT Verification 三档、API Key 三档、Codex $8、X Premium 多档与 Gemini 验机 $2 等，并反复引导 `@Veriyferbot` Mini App 与 `@VeirfyerSupportbot`。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方自家频道公开发 **盗刷卡 method（BIN 生成卡填 Stripe）与证件生成器**（2026-10-06 老大逐帖 embed 复核，均为原创非转发，时间为 UTC）：
+  - https://t.me/veriyfyer/122（2026-04-23T20:05Z）devin.ai 试用：chkr.cc 输 BIN 生成卡、把 LIVE 卡填 Stripe
+  - https://t.me/veriyfyer/129（2026-05-20T14:44Z）ChatGPT Plus method：`.gen` BIN + 假印度地址
+  - https://t.me/veriyfyer/132（2026-06-04）GPT Plus method 上架 bot 出售
+  - https://t.me/veriyfyer/134（2026-06-09）Cursor Pro 1 年 method，附证件生成器
+  - https://t.me/veriyfyer/153（2026-07-24）GPT Plus UPI QR 生成服务 $1
+- 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道一并不收。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
+- 线索：小弟·便宜店 店方频道深审提报。

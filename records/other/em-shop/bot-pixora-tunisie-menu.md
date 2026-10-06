@@ -1,6 +1,6 @@
 # [低价·bot·价目] Pixora：公开成交播报中的 Gemini / ChatGPT 单价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06 复审：批量注册/绕付费 method 与 Firebase 面板扫描工具）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@Pixora_Tunisie_bot（公开成交播报主入口）
@@ -45,3 +45,13 @@
 ## 原文摘要（可选）
 
 PixoraDigital 公开帖反复播报 Gemini 18M $0.50、ChatGPT Plus 1M $4.00，引导 `@Pixora_Tunisie_bot`；gemini12pro 付费推广另挂 `@pixora_digital_bot` 并给 From-$ 摘要。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方自家频道公开发 **批量注册/绕付费 method 与 Firebase 面板扫描工具**（2026-10-06 老大逐帖 embed 复核，均为原创非转发，时间为 UTC）：
+  - https://t.me/pixoradigital/2126（2026-08-10T20:23Z）卖无限 Gmail 注册 method，Gmail $0.5/个
+  - https://t.me/pixoradigital/2136（2026-08-13）卖 Jio Gemini 18 个月 method + 免费接码站
+  - https://t.me/pixoradigital/2124（2026-08-10）HeyGen 无限开号 method $15
+  - 便宜店另报 /2076 Lovable 绕付费、/2121 Firebase 面板扫描 bot（抓页所见）
+- 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道一并不收。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
+- 线索：小弟·便宜店 店方频道深审提报。

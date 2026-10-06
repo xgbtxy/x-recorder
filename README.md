@@ -374,16 +374,12 @@
 | [低价·bot] @kise1223chatbot 86客服（风险观察） | other | 已核 | https://t.me/kise1223chatbot |
 | [低价·bot] @toolswala_bot LIVE PRODUCTS（风险观察） | other | 已核 | https://t.me/toolswala_bot |
 | [低价·bot·价目] @crassus_market_bot 订阅价目（风险观察） | other/em-shop | 已核 | https://t.me/crassus_market_bot |
-| [低价·bot·价目] @AIVerseXBot 多品促销价（风险观察） | other/em-shop | 已核 | https://t.me/AIVerseXBot |
-| [低价·bot·价目] @Pixora_Tunisie_bot 成交播报价（风险观察） | other/em-shop | 已核 | https://t.me/Pixora_Tunisie_bot |
 | [低价·bot·价目] @RichAIStoreBot 批发样例价（风险观察） | other/em-shop | 已核 | https://t.me/RichAIStoreBot |
 | [低价·bot·价目] @canvora24bot 公开价目表（风险观察） | other/em-shop | 已核 | https://t.me/canvora24bot |
 | [低价·bot·价目] @geminiprosub_bot 库存长表（风险观察） | other/em-shop | 已核 | https://t.me/geminiprosub_bot |
 | [低价·bot·价目] @Shop_Ayham_bot Gemini 标价偏弱（风险观察） | other/em-shop | 已核 | https://t.me/Shop_Ayham_bot |
-| [低价·bot·价目] @ver_pixel_bot STOCK 价目（风险观察） | other/em-shop | 已核 | https://t.me/ver_pixel_bot |
 | [低价·bot·价目] @u_pebot 卢布网页价目（风险观察） | other/em-shop | 已核 | https://t.me/u_pebot |
 | [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
-| [低价·bot·价目] @Veriyferbot 多品美元价目（风险观察） | other/em-shop | 已核 | https://t.me/Veriyferbot |
 | [低价·bot·价目] @Cp669912_bot 人民币代充价目（风险观察） | other/em-shop | 已核 | https://t.me/Cp669912_bot |
 | [低价·bot·价目] @nevakeystore_bot CORE 价目（风险观察） | other/em-shop | 已核 | https://t.me/nevakeystore_bot |
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
@@ -573,8 +569,6 @@
 | [TG·频道] @neuralllab NeuraLab（风险观察） | other/tg-ai-sources | 已核 | https://t.me/neuralllab |
 | [TG·频道] @plusvibeapi PlusVibeAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/plusvibeapi |
 | [TG·频道] @infofenAI Феникс \| Подписки（风险观察） | other/tg-ai-sources | 已核 | https://t.me/infofenAI |
-| [TG·频道] @larpshopc LARP SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/larpshopc |
-| [TG·bot] @larpshopAI_bot LARP SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/larpshopAI_bot |
 | [TG·频道] @sandromania_shop sandromania shop \| news（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_shop |
 | [TG·bot] @sandromania_bot_bot sandromania shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_bot_bot |
 | [TG·频道] @zveno_ai Zveno AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zveno_ai |
@@ -599,8 +593,6 @@
 | [TG·bot] @PrimeDigitalAIBot PrimeDigital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAIBot |
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
 | [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
-| [TG·频道] @paglu_shop Paglu shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/paglu_shop |
-| [TG·bot] @Paglu_Shopp_Bot Paglu shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Paglu_Shopp_Bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
 | [TG·bot] @RDCshopbot Ryanshop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RDCshopbot |
@@ -623,14 +615,14 @@
 | [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
 | [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
-| [TG·bot] @DanShopAI_bot DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAI_bot |
+| [TG·bot] @DanShopAI_bot DanShopAI（⚠️代做 KYC 高风险） | other/tg-ai-sources | 已核 | https://t.me/DanShopAI_bot |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |
 | [TG·bot] @crownailuxurybot Crown AI Luxury（⚠️被指诈骗，风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
 | [TG·bot] @JeroAccountsBot Jero Accounts（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JeroAccountsBot |
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
-| [TG·频道] @DanShopAl DanShopAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
+| [TG·频道] @DanShopAl DanShopAI（⚠️代做 KYC 高风险） | other/tg-ai-sources | 已核 | https://t.me/DanShopAl |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 

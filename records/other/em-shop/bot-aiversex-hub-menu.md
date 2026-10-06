@@ -1,6 +1,6 @@
 # [低价·bot·价目] AIVerse X Hub：公开促销帖多品标价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06 复审：ChatGPT Plus UPI QR 生成器（绕支付））**
 - 审核：2026-10-03 补价。只打开公开预览，未登录、未加入、未下单。`/368` 不是转发，正文点名 `@AIVerseXBot`，但同一天 `/366` 写新链接 30 分钟失效，9 月 30 日又改成直链且没有新的美元数字，所以 `1.0$` 不当 10 月 3 日货架价。激活链接和下单参数不抄。旧档把 Gemini 批量价写成 `/349`，核对后 `/349` 是 Amazon Prime 的补货帖，Gemini 批量价在 `/344`。
 - 记录日期：2026-09-26；2026-10-03 改了出处和 Gemini 说明
 - **平台**：Telegram
@@ -54,3 +54,10 @@
 ## 原文摘要（可选）
 
 gemini12pro_channel/162 列出 CapCut 7D $0.35 / 30D $2、NordVPN 3M $2.80 及 Gemini 批量价，引导 `@AIVerseXBot`；自营 Hub 续发 Spotify / Prime / Gemini 补货价。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方自家频道公开发 **ChatGPT Plus UPI QR 生成器（绕支付）**（2026-10-06 老大逐帖 embed 复核，均为原创非转发，时间为 UTC）：
+  - https://t.me/AIVerseXHub/80（2026-07-25T19:47Z）ChatGPT Plus 1M UPI QR Generator，$1/CDK = 10 个 QR，附 API；与已驳回 veriyfyer/153 同类
+- 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道一并不收。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
+- 线索：小弟·便宜店 店方频道深审提报。

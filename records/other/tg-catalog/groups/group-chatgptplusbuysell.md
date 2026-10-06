@@ -42,3 +42,5 @@
 ## ⚠️ 被公开点名诈骗（2026-10-06 补，未核实）
 
 - 防骗频道 https://t.me/scammerfvck/18（2026-09-27）原文：「This dogshit is scammer @AvenzoDigital and his bot @Prime_Gadget_Store_bot」，联系人 `@ihq9n`。未附具体交易证据，该频道有竞争方背景；指控未独立核实，**按高风险处理，切勿付款**。
+
+- 2026-10-06：表中 `@Paglu_Shop_Bot` 所属 Paglu shop 已整店驳回（店方频道 paglu_shop/368 随机 IBAN Claude method、/540 优惠券生成 method）。

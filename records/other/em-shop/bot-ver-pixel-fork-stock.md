@@ -1,6 +1,6 @@
 # [低价·bot·价目] ver_pixel：Discount Channel 挂出的 STOCK UPDATE 价目
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06 复审：随机 IBAN 开 Claude 的 method 与号源/扫描工具）**
 - 审核：2026-10-03 补价。2026-10-04 再核公开预览 /1236 与 /1237，未登录、未加入、未下单。这几帖都不是转发，没有 Paid Promotion。购买按钮指向 `@ver_pixel_bot`，下单参数不记。/1231 当时写明缺货；/1236 是后来的 UPI 有货帖，以 /1236 为准。
 - 记录日期：2026-09-26；Gemini 与 ChatGPT 价 2026-10-03 改过，2026-10-04 补了 UPI
 - **平台**：Telegram
@@ -55,3 +55,11 @@
 ## 原文摘要（可选）
 
 2026-10-04 的 /1237：Gemini 18M Links 仍是零售 `26,000đ | $1`，批发到 `15,500đ | $0.60`，库存 66。同日 /1236：ChatGPT Plus 1 Month UPI 零售 `120,000đ | $4.5`，买 5+ `110,000đ | $4.25`，保修 12 小时，库存 6。更早 /1226：ChatGPT Plus 1 Month GGPay `180,000đ | $7`，保修 1 天。购买按钮都指向 `@ver_pixel_bot`。下单参数不记。
+
+## ⛔ 已下架（2026-10-06 复审驳回）
+
+- 店方自家频道公开发 **随机 IBAN 开 Claude 的 method 与号源/扫描工具**（2026-10-06 老大逐帖 embed 复核，均为原创非转发，时间为 UTC）：
+  - https://t.me/fork_bot_channel/564（2026-07-26T08:16Z）Claude Pro method：randomiban.com 生成德国银行账号走 SEPA
+  - https://t.me/fork_bot_channel/883（2026-08-26）@leo_dfx 卖 Gemini 18 个月链接提取器、Firebase 面板扫描器、号源
+- 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道一并不收。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
+- 线索：小弟·便宜店 店方频道深审提报。

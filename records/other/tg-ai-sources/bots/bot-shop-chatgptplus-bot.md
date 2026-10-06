@@ -34,3 +34,4 @@
 - 同频道 `/148` 推免费 Netflix bot、`/130` 推来路不明的送 Plus bot。
 - 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道 `@AIX_C`、配套群 `@CDKK12_CHATGPT`、人号 `@VNV_I` **一并不收**。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
 - 线索：小弟·便宜店 复审提报；老大 curl 复核。
+- 补证（便宜店抓页所见，2026-10-06 老大 embed 复核属实）：https://t.me/AIX_C/88（2026-09-18）Canva Pro `/gen` BIN + CC Generator `@Raven_Booster_bot`；https://t.me/AIX_C/47（2026-08-27）`BIN … USE LIVE CARD`。

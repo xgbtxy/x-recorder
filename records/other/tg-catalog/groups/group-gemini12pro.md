@@ -15,9 +15,9 @@
 | Bot | 客服 | 价目可见？ | 备注 / 交叉引用 |
 |-----|------|------------|-----------------|
 | `@gemini12pro_bot` | — | 否（公益升级 Helper） | og「Gemini Pixel Helper」；非价目店 |
-| `@AiVerseXBot` | `@GT_VERIFIED` / `@AIVerseXSupport` | 是（频道推广 $） | 已入库 `em-shop` 线；公开 `gemini12pro_channel/158` Gemini 18m **$0.45** |
+| `@AiVerseXBot` | `@GT_VERIFIED` / `@AIVerseXSupport` | 是（频道推广 $） | **2026-10-06 已下架**（店方 AIVerseXHub/80 卖 UPI QR 生成器）；原 `gemini12pro_channel/158` Gemini 18m **$0.45** |
 | `@Gemini_shop_robot` | `@Gemini_support_1` | 频道推广 | `records/other/bot-gemini-shop-robot.md`；频道历史推广 |
-| `@fork_bot_channel` / `@ver_pixel_bot` | | 频道价目（₫/$） | **频道** Discount Channel 公开帖；下单 bot `@ver_pixel_bot`（非本群菜单核验） |
+| `@fork_bot_channel` / `@ver_pixel_bot`（**2026-10-06 已下架**：频道 /564 随机 IBAN method、/883 卖扫描工具） | | 频道价目（₫/$） | **频道** Discount Channel 公开帖；下单 bot `@ver_pixel_bot`（非本群菜单核验） |
 | `@pixora_digital_bot` 等 | | 频道挂名 | 见既有 em-shop / 跳过表；本批不重复深挖 |
 
 ## 要点
@@ -29,3 +29,5 @@
 ## 风险 / 待核实（强制）
 
 - 频道「Paid Promotion」硬广、DM 私聊成交、共享/激活链路失效（频道自身亦发过 Gemini link 故障公告）。观察 ≠ 推荐。不发帖不试单。群内实帖需登录协采，勿把频道帖写成群帖。
+
+- 2026-10-06 复审：本群出现过的 `@AiVerseXBot`、`@ver_pixel_bot`/`@fork_bot_channel`、`@Pixora_Tunisie_bot` 已因店方频道发 method/绕支付工具下架，勿据本档购买。
