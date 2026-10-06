@@ -482,7 +482,7 @@
 | [低价·群] @xiaoxiaoipkyc 卡比兽Ai资源站（风险观察） | other/tg-catalog | 已核 | https://t.me/xiaoxiaoipkyc |
 | [低价·群] @aiaoteman001 AI奥特曼代充交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiaoteman001 |
 | [低价·群] @dhbdkk 代充源头交流（风险观察） | other/tg-catalog | 已核 | https://t.me/dhbdkk |
-| [低价·群] @kewang9898988 海外Grok GPT会员（风险观察） | other/tg-catalog | 已核 | https://t.me/kewang9898988 |
+| [低价·群] @kewang9898988 海外Grok GPT会员（⚠️代做 KYC 高风险） | other/tg-catalog | 已核 | https://t.me/kewang9898988 |
 | [低价·bot] @Tsiaohu_Bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/Tsiaohu_Bot |
 | [低价·群] @receiptxin 稳健靠谱AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/receiptxin |
 | [低价·群] @claude1316 Claude openai核销（风险观察） | other/tg-catalog | 已核 | https://t.me/claude1316 |
@@ -585,8 +585,6 @@
 | [TG·频道] @belpepel Пепел ➜ Белгород（风险观察） | other/tg-ai-sources | 已核 | https://t.me/belpepel |
 | [TG·频道] @kurpepel Пепел ➜ Курск（风险观察） | other/tg-ai-sources | 已核 | https://t.me/kurpepel |
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
-| [TG·频道] @boloto_miracles Boloto by Miracles（风险观察） | other/tg-ai-sources | 已核 | https://t.me/boloto_miracles |
-| [TG·bot] @BolotoStore_bot Boloto Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/BolotoStore_bot |
 | [TG·bot] @NyStoreOfficialBot NY Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NyStoreOfficialBot |
 | [TG·bot] @BlazeOttshopbot BLAZE OTT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/BlazeOttshopbot |
 | [TG·频道] @PrimeDigitalAI Prime Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAI |
