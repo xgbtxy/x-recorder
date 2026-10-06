@@ -1,6 +1,6 @@
 # [低价·bot] 鲸鲨/Nerver 双向联系 · nerverbot_bot
 
-- 状态：已核（风险观察；观察≠推荐）
+- 状态：**已下架（REJECTED，2026-10-06：要买家交出自己的登录会话令牌）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：`@nerverbot_bot`
@@ -34,3 +34,9 @@ og 标题「nerverbot」；`@WhaleFallsy` 描述「双向机器人@nerverbot_bot
 - 结合 UPI/Kakao/巴西充值通道帖，判为 **支付通道/卡段开通类高风险**，观察 ≠ 推荐，切勿对接收款、代付或按卡段开通。
 
 - 2026-10-06：https://t.me/hackerstrin/196（`2026-07-07T18:37Z`）Cursor 退款代办，要求买家从自己浏览器复制 `WorkosCursorSessionToken` 交上；交出自己的会话 token 会被盗用账号，高风险。
+
+## ⛔ 已下架（2026-10-06）
+
+- 原因：通知频道 `@hackerstrin` /196（`2026-07-07T18:37Z`）做 Cursor 退款代办，要求买家从自己浏览器复制 `WorkosCursorSessionToken` 交给他们。让买家交出自己的登录会话令牌，等同把账号控制权交给第三方（与卖被盗/被劫持会话同类）。按阿言 2026-10-06 口径「要买家交登录令牌的店整店驳回/下架」，整条 Nerver/鲸鲨线（`@tokenfreed`、`@nerverbot_bot`、`@nerverai`）整店下架。
+- 叠加风险：同线早已挂 UPI/Kakao/巴西银行支付收款通道、按卡号段开卡（/291），本属支付通道/卡段开通类高风险。
+- 处置：从 README 撤行。观察 ≠ 推荐，切勿付款、对接收款/代付或交出任何账号令牌。

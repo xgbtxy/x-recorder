@@ -371,7 +371,6 @@
 | [低价·bot] @BuyCardOffical_bot 礼品卡/eSIM（风险观察） | other | 已核 | https://t.me/BuyCardOffical_bot |
 | [低价·bot] @WantToPayBot 虚拟卡（风险观察） | other | 已核 | https://t.me/WantToPayBot |
 | [低价·bot] @redotpay_bot 加密支付（风险观察） | other | 已核 | https://t.me/redotpay_bot |
-| [低价·bot] @kise1223chatbot 86客服（风险观察） | other | 已核 | https://t.me/kise1223chatbot |
 | [低价·bot] @toolswala_bot LIVE PRODUCTS（风险观察） | other | 已核 | https://t.me/toolswala_bot |
 | [低价·bot·价目] @crassus_market_bot 订阅价目（风险观察） | other/em-shop | 已核 | https://t.me/crassus_market_bot |
 | [低价·bot·价目] @RichAIStoreBot 批发样例价（风险观察） | other/em-shop | 已核 | https://t.me/RichAIStoreBot |
@@ -421,12 +420,10 @@
 | [低价·bot] @hiroboticvn_bot ROBOTICVN SHOP（风险观察） | other/tg-catalog | 已核 | https://t.me/hiroboticvn_bot |
 | [低价·群] @TGAI_Group ChatGPT中文交流（风险观察） | other/tg-catalog | 已核 | https://t.me/TGAI_Group |
 | [低价·群] @redman3721 红孩儿交流（风险观察） | other/tg-catalog | 已核 | https://t.me/redman3721 |
-| [低价·群] @tokenfreed 鲸鲨源头交流（风险观察） | other/tg-catalog | 已核 | https://t.me/tokenfreed |
 | [低价·群] @claudecode_cn Claude Code社区（风险观察） | other/tg-catalog | 已核 | https://t.me/claudecode_cn |
 | [低价·群] @aijlqun 代充交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aijlqun |
 | [低价·群] @claudegpt520 Ai供需交流（风险观察） | other/tg-catalog | 已核 | https://t.me/claudegpt520 |
 | [低价·群] @gpt_nocard 公益升级交流（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_nocard |
-| [低价·bot] @nerverbot_bot 双向联系（风险观察） | other/tg-catalog | 已核 | https://t.me/nerverbot_bot |
 | [低价·bot] @gptnocard_bot 目录指针（风险观察） | other/tg-catalog | 已核 | https://t.me/gptnocard_bot |
 | [低价·群] @laogou_org 老狗Ai加油站（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_org |
 | [低价·群] @oasisaigc Oasis公益交流（风险观察） | other/tg-catalog | 已核 | https://t.me/oasisaigc |
@@ -434,7 +431,6 @@
 | [低价·bot] @laogou_support_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_support_bot |
 | [低价·bot] @oascfbot 发卡网客服（风险观察） | other/tg-catalog | 已核 | https://t.me/oascfbot |
 | [低价·群] @Aiquanzi 美区iOS质保小群（风险观察） | other/tg-catalog | 已核 | https://t.me/Aiquanzi |
-| [低价·群] @nerverai Nerver公益交流（风险观察） | other/tg-catalog | 已核 | https://t.me/nerverai |
 | [低价·群] @chatgptplusdeal Buy&Sell Worldwide（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusdeal |
 | [低价·群] @chineseChatGpt 中文体验群（风险观察） | other/tg-catalog | 已核 | https://t.me/chineseChatGpt |
 | [低价·bot] @Super_ChatGptBot 群内体验（风险观察） | other/tg-catalog | 已核 | https://t.me/Super_ChatGptBot |
