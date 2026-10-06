@@ -26,3 +26,5 @@
 ## 原文摘要（可选）
 
 公开频道摘要（msgid 102）：CDK 补货上架指向 `faka.redeemgpt.com`，并写「有其他软件或者中转站供货需求也可以联系客服机器人：https://t.me/kise1223chatbot」。bot 公开页：`86Gamstore客服bot` / `86通知频道: https://t.me/gamestore86channel`。未向 bot 发消息、未试单、未购买。
+
+- 2026-10-06：gamestore86channel/81（2026-04-22）、/106（2026-06-20）售后重绑时要买家提供自己账号的 Session；交出会话 Session 有被盗用风险。

@@ -23,3 +23,8 @@
 ## 原文摘要（可选）
 
 og 标题「API资源联盟助手」；描述回链 `t.me/apizongzhuan` 与 `t.me/apidiyidazhan`。
+
+## ⚠️ 风险补充（2026-10-06 复审：货源涪c cookie/云账号渠道）
+
+- 同运营频道 https://t.me/apizongzhuan/81（`2026-05-23T06:33:23+00:00`，原创，老大 embed 复核）：「招募资源方 max pro / max 5x / max 20x 的 cookie 货源渠道、aws 的 256v/348v/512v 账号渠道」。其 API 中转货源涪取自别人的 Claude 会话 cookie 和云账号，疑赃/滥用云额度，属 **cookie 生意上游**。
+- 本身不对外零售 cookie，按「卖 cookie」口径不整店下架；但其 API 货源高度可疑，标高风险，**切勿购买其 API 服务**。
