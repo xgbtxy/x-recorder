@@ -608,6 +608,7 @@
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
 | [TG·bot] @EcosystemAIShop_bot Hsoulz AIShopbot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/EcosystemAIShop_bot |
 | [TG·bot] @gpt_subs_robot MindKey Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gpt_subs_robot |
+| [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
