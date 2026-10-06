@@ -26,3 +26,7 @@
 - 频道价是限时 FLASH，数小时后会变；原价也是店方自标。观察 ≠ 推荐。
 - Gemini LINK、Claude API 额度、K12、Grok Super 9–10 天不当月订阅现价。
 - 人号 `@sellnity` 不立档。未 Start、未下单。
+
+## ⚠️ 被公开点名（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/16（2026-09-26）名单末尾列出 `@sellnity`（未写具体事由，也未确认就是 `@sellnitystorebot` 同一家）；该频道属竞争方 UpgradeGeminiPro 系，有抢生意动机。指控未核实，按高风险处理。

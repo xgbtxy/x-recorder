@@ -19,3 +19,9 @@
 - **老大审核**：2026-10-06 打开公开 embed 复核 /9、/15（均非转发）与 gemini12pro/385324；频道 `@crownailuxurych` 4.62K 订阅；公开页未见 cc/method/教程。三个不同品半角 `$`，进 em-shop。群广告另有「VIP reseller」API 批发说法，未核，不计。
 
 > 只读公开页：未登录、未 Start、未加群、未发帖、未下单。
+
+## ⚠️ 被公开指认诈骗（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/16（2026-09-26）与 /28（2026-10-05）的「LIST SCAMMER」名单把 `@crownailuxurybot` 标为 `SCAM`，/28 称与 texasai.site、gptluna 等站「SAME OWNER」。
+- https://t.me/scammerfvck/27（2026-10-02，转发帖）买家自述用 Binance 付给「Crown AI Luxury」后未收到货，正在按「Payment without delivery」申诉冻结对方 Binance UID 1279190934。
+- 今天 https://t.me/gemini12pro/385332 有人在群内转贴该名单；转贴人同帖推销自家 Gemini 链接，有竞争动机。指控未独立核实，但有具体受害自述，**按高风险处理，切勿付款**。

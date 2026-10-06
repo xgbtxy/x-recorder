@@ -30,3 +30,9 @@
 - 价只有官方两到三成，却自称「100% Official」「Zero-Ban Risk」，很可能是卡充、盗刷或批量注册号，随时可能封号；1:1 保修无法核实。
 - 只收加密货币与印尼 QRIS，不可退款；频道 9 月 21 日才建，店龄短；群广告带「差评都是竞争对手」话术；频道订单播报可能自动生成。
 - bot 内价格与发货方式未核（未 Start）。观察 ≠ 推荐。
+
+## ⚠️ 被公开指认诈骗（2026-10-06 补，未核实）
+
+- 防骗频道 https://t.me/scammerfvck/16（2026-09-26）与 /28（2026-10-05）的「LIST SCAMMER」名单把 `@crownailuxurybot` 标为 `SCAM`，/28 称与 texasai.site、gptluna 等站「SAME OWNER」。
+- https://t.me/scammerfvck/27（2026-10-02，转发帖）买家自述用 Binance 付给「Crown AI Luxury」后未收到货，正在按「Payment without delivery」申诉冻结对方 Binance UID 1279190934。
+- 今天 https://t.me/gemini12pro/385332 有人在群内转贴该名单；转贴人同帖推销自家 Gemini 链接，有竞争动机。指控未独立核实，但有具体受害自述，**按高风险处理，切勿付款**。
