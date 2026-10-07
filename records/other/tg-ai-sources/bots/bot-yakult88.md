@@ -1,6 +1,6 @@
 # [TG·bot] Shop_Yakult88
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单按 token 低价卖 Claude、Codex API 额度）**
 - 审核：2026-10-05，公开页核对 https://t.me/gemini3369/552738 、https://t.me/enricvan 、https://t.me/yakult88_bot 和 https://t.me/yakult88bot。未登录、未下单、未点 Start。所引帖不是转发，未见 Paid Promotion / #реклама。两个用户名只建这一份。
 - 记录日期：2026-10-05
 - **平台**：Telegram
@@ -17,3 +17,7 @@
 
 - 非官方。Gemini `0.7$`、Super Grok `0.54$` 远低于官方。这条没有 ChatGPT Plus 和 Claude。共享、失效或交不了货都有可能。
 - 人号不立档。观察 ≠ 推荐。未下单。先不要点 Start。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:35 CST Start 菜单截图（yakult88_bot_1–4.webp）：「Credit API Claude 1B 30 Days - full warranty | $38.05」「500M 30 Days | $22.82」「100M 1 Day | $5.91」；「1B Credit API Codex 2 Days | $18.18」「500M Credit API Codex 1 Day | $10.39」。按官方 token 单价折算约面值 1–5%，bot 与 em-shop 价目整店下架。

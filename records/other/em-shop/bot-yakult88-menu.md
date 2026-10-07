@@ -1,6 +1,6 @@
 # [低价·bot·价目] @yakult88_bot：gemini 交流群一条多行现价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单按 token 低价卖 Claude、Codex API 额度）**
 - 记录日期：2026-10-05
 - **平台**：Telegram
 - **Bot（店铺）**：@yakult88_bot（BOT USDT）、@yakult88bot（Bot VN）
@@ -38,3 +38,7 @@
 
 - 非官方。Gemini `0.7$`、Super Grok `0.54$` 远低于官方。发帖人是 `@enricvan`，不立档。两个 bot 都没有频道。
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:35 CST Start 菜单截图（yakult88_bot_1–4.webp）：「Credit API Claude 1B 30 Days - full warranty | $38.05」「500M 30 Days | $22.82」「100M 1 Day | $5.91」；「1B Credit API Codex 2 Days | $18.18」「500M Credit API Codex 1 Day | $10.39」。按官方 token 单价折算约面值 1–5%，bot 与 em-shop 价目整店下架。

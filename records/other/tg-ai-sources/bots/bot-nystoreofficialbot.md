@@ -28,3 +28,5 @@
 - 帖里的 `@benimmy` 是联系人，不是下单对象，不单建档
 - 以前在 `records/other/tg-catalog/groups/group-chatgptplusbuysell.md` 里被控量跳过，没有单独店档。这次按这条群帖单独立档，不另建第二份
 - 观察 ≠ 推荐。未下单
+
+- 2026-10-08 复核（老大）：小弟·TG群bot /start（nystoreofficialbot_1.webp）回复要求先给账号设公开用户名才能使用（10-03 同样），未改资料，菜单未核。只记风险。

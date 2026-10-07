@@ -1,6 +1,6 @@
 # [低价·bot·价目] @pixelprimeshop_bot：EM 群一条多行现价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 已删除（Deleted Account），旧目录含 API-GPT/Claude API 分类）**
 - 记录日期：2026-10-05
 - **平台**：Telegram
 - **Bot（店铺）**：@pixelprimeshop_bot
@@ -31,3 +31,7 @@
 
 - 非官方。Plus 共享一个月 `2$`、十二个月槽位 `5$` 远低于官方。共享、槽位、邀请位都可能失效。发帖人 `@pixelprimebd` 是人号，不立档。
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:34 CST 截图（pixelprimeshop_bot_1–2.webp）：搜索结果显示「Deleted Account」，只剩旧聊天记录；旧目录有 API-GPT、Claude 分类但已打不开。bot 失效，旧档价目仅作历史参考，整店下架。旧管理员 @pixelprimebd（人号，不立档）。
