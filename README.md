@@ -407,7 +407,6 @@
 | [低价·bot] @gemini12pro_bot Pixel Helper（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini12pro_bot |
 | [低价·群] @Claudejiaoliu Claude资源/技术（风险观察） | other/tg-catalog | 已核 | https://t.me/Claudejiaoliu |
 | [低价·群] @gemini3369 gemini交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/gemini3369 |
-| [低价·bot] @hiroboticvn_bot ROBOTICVN SHOP（风险观察） | other/tg-catalog | 已核 | https://t.me/hiroboticvn_bot |
 | [低价·群] @TGAI_Group ChatGPT中文交流（风险观察） | other/tg-catalog | 已核 | https://t.me/TGAI_Group |
 | [低价·群] @redman3721 红孩儿交流（风险观察） | other/tg-catalog | 已核 | https://t.me/redman3721 |
 | [低价·群] @claudecode_cn Claude Code社区（风险观察） | other/tg-catalog | 已核 | https://t.me/claudecode_cn |
@@ -559,8 +558,6 @@
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
-| [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
-| [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |

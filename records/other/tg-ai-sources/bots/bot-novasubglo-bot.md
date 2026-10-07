@@ -1,6 +1,6 @@
 # [TG·bot] NovasubGlobal（@novasubglo_bot）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Codex API 额度）**
 - 审核：2026-10-06。公开页核对 https://t.me/novasubglo_bot（NovasubGlobal，Start Bot；简介 Admin `@chupiuoi1610`、Channel `@novasubpre`）。同店越南线 https://t.me/novasub_service_bot（NovasubVIE）**不另档**。频道库存帖 https://t.me/NovasubPre/52 公开 embed 可见 `Price: $10.48`。本轮**未 Start**。人号 `@chupiuoi1610` 不立档。**不进 em-shop**（公开半角 `$` 个人订阅主项目前主要是 ChatGPT Plus；Claude/Gemini 缺可核 `$`；Grok 多为短周期）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -29,3 +29,7 @@
 ## ⚠️ 风险补充（2026-10-08 API 额度排查）
 
 - 擦边：店方频道 https://t.me/NovasubPre/41（2026-09-16 10:37）「Now Change API => ZAPI (OFFICIAL API in CHATGPT PRO x20) .」，无价。暂不下架；若后续见低于面值卖 API 额度，按 API 额度口径整店下架。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:57–05:58 CST Start「API-GPT」分类截图（novasubglo_bot_1–3.webp）：「API Codex Astra $1000 1 month full warranty | $55.22」「$500 | $29.52」「$100 | $7.43」「$10 | $2.1」；「100M Credit API Codex 1 Day | $3.24」；另有「[CDK] RENT OTP NUMBER CODEX 24H | $0.39」接码。低于面值卖 API 额度，同店 bot 与频道整店下架。

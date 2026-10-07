@@ -1,6 +1,6 @@
 # [低价·bot] ROBOTICVN SHOP（侧栏店铺 bot）
 
-- 状态：已核（风险观察；观察≠推荐）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单按 token 低价卖 Claude、Codex API 额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：`@hiroboticvn_bot`
@@ -23,3 +23,7 @@
 ## 原文摘要（可选）
 
 登录窗侧栏「ROBOTICVN SHOP」→ `@hiroboticvn_bot`；公开 t.me 页标题同名。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:53–05:54 CST Start 菜单截图（hiroboticvn_bot_1–6.webp）：「API 100M TOKEN CLAUDE 1D | $4.58」「API CLAUDE 500M 1D | $28.08」「API 10M TOKEN CLAUDE 1D | $1.89」；「API 100M Token codex 1D | $3.81」「API 500M Token codex 6D | $24.24」。按官方 token 单价折算，远低于面值三成，与 Ducky/Mango 同类，同店 bot 与店群整店下架。
