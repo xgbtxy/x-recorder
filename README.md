@@ -384,7 +384,6 @@
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
 | [低价·bot·价目] @Premium_Shop_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Premium_Shop_bot |
 | [低价·bot·价目] @WarzoneShopBot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/WarzoneShopBot |
-| [低价·bot·价目] @BlazeOttshopbot 多品价目（风险观察） | other/em-shop | 已核 | https://t.me/BlazeOttshopbot |
 | [低价·bot·价目] @ZinoShopbot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/ZinoShopbot |
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |
 | [低价·bot·价目] @storepremium_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/storepremium_bot |
@@ -549,7 +548,6 @@
 | [TG·频道] @kurpepel Пепел ➜ Курск（风险观察） | other/tg-ai-sources | 已核 | https://t.me/kurpepel |
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
 | [TG·bot] @NyStoreOfficialBot NY Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NyStoreOfficialBot |
-| [TG·bot] @BlazeOttshopbot BLAZE OTT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/BlazeOttshopbot |
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
 | [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |

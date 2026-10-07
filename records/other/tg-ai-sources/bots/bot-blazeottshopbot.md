@@ -1,6 +1,6 @@
 # [TG·bot] BLAZE OTT SHOP
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：自家频道低于面值卖 Claude、Codex API 额度）**
 - 审核：2026-10-04，仅公开 embed 与 bot 预览（https://t.me/gemini3369/542375?embed=1 与 https://t.me/BlazeOttshopbot，未登录、未加入、未下单、未点 Start）。不是转发，未见 Paid Promotion / #реклама。同帖多行 `$`，价目另见 em-shop，不建第二份 bot 档。
 - 记录日期：2026-10-04
 - **平台**：Telegram
@@ -27,3 +27,10 @@
 
 - 非官方。`$0.59` 的 18 个月 Gemini 是 2026-10-02 的群帖，不是打开过的收银台。可能是共享、链接或虚假额度
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 店方频道 https://t.me/blazeott/320（2026-09-18 00:47 CST，原创）：「Claude API 30 Days / 30 Días FW — $2.72 … DM - @BlazeOTTShopBot」。
+- https://t.me/blazeott/329（2026-09-19 08:47 CST，bot 上货播报）：「Claude 100$ Api 30Day (FW) … Price: $2.72」，约面值 2.7%。
+- https://t.me/blazeott/375（2026-09-26 03:09 CST）：「Codex Api 10M Token 1D … Price: $1.51」。
+- 线索：小弟·EM延伸 10-08。低于面值卖 API 额度，bot 与 em-shop 价目整店下架。
