@@ -1,4 +1,5 @@
 # @contaspremiumtotty_bot（Central de Contas Premium，巴西）
+- 状态：**已下架（REJECTED，2026-10-08：bot 商品列表卖终身 method 频道）**
 - 来源：Telegram 全局搜索关键词「contas premium」找到。店方频道 @contaspremiumtotty（bot 要求先入，已只读加入），频道主要发流媒体账号的售卖信息。
 - 价证：Start 后读菜单 CONTAS PREMIUM 第 1 页，币种 BRL，截图 start_shots/contaspremiumtotty_bot_chatgpt.png，2026-10-07 17:05:37 CST。
   - CHAT GPT PLUS R$ 20.00
