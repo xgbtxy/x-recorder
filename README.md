@@ -372,10 +372,8 @@
 | [低价·bot] @WantToPayBot 虚拟卡（风险观察） | other | 已核 | https://t.me/WantToPayBot |
 | [低价·bot] @redotpay_bot 加密支付（风险观察） | other | 已核 | https://t.me/redotpay_bot |
 | [低价·bot] @toolswala_bot LIVE PRODUCTS（风险观察） | other | 已核 | https://t.me/toolswala_bot |
-| [低价·bot·价目] @crassus_market_bot 订阅价目（风险观察） | other/em-shop | 已核 | https://t.me/crassus_market_bot |
 | [低价·bot·价目] @RichAIStoreBot 批发样例价（风险观察） | other/em-shop | 已核 | https://t.me/RichAIStoreBot |
 | [低价·bot·价目] @canvora24bot 公开价目表（风险观察） | other/em-shop | 已核 | https://t.me/canvora24bot |
-| [低价·bot·价目] @geminiprosub_bot 库存长表（风险观察） | other/em-shop | 已核 | https://t.me/geminiprosub_bot |
 | [低价·bot·价目] @Shop_Ayham_bot Gemini 标价偏弱（风险观察） | other/em-shop | 已核 | https://t.me/Shop_Ayham_bot |
 | [低价·bot·价目] @u_pebot 卢布网页价目（风险观察） | other/em-shop | 已核 | https://t.me/u_pebot |
 | [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
@@ -607,6 +605,8 @@
 | [TG·bot] @gpt_subs_robot MindKey Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gpt_subs_robot |
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
 | [TG·bot] @lakshmistorebot Lakshmi Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lakshmistorebot |
+| [TG·bot] @nevakeystore_bot Neva AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/nevakeystore_bot |
+| [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
 | [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |

@@ -1,6 +1,6 @@
 # [低价·bot·价目] geminiprosub_bot：新闻频道完整库存美元价目
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06：店方频道发绕付费 abuse method）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@geminiprosub_bot
@@ -61,3 +61,9 @@
 ## 原文摘要（可选）
 
 `geminipro18` 以「Gemini Pro Store stock」长表标出 Gemini 18M ~$0.95（批量更低）、ChatGPT / CapCut / Canva / VPN 等数十档美元价，并引导 `@geminiprosub_bot` + `@gemini18support_bot`。
+
+## ⛔ 已下架（2026-10-06）
+
+- 原因：店方频道 https://t.me/geminipro18/547（`2026-08-20T21:01:59Z`，原发非转发）自发「I decided to occasionally share some abuse methods with you」，教用 iOS Grok + 德/美 VPN + 付款卡开 SuperGrok 7 天试用并关自动续费，属绕付费 method。与 HitMeow Shop 同口径，整店下架（@geminiprosub_bot / 频道 @geminipro18）。
+- 另：近期价帖多为 bot 转发，不作价证。
+- 处置：从 README 撤行。观察 ≠ 推荐，切勿付款。

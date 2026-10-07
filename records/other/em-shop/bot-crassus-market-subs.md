@@ -1,6 +1,6 @@
 # [低价·bot·价目] Crassus Market：公开新闻频道挂出的订阅价目
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-06：要买家交出自己 Google 账号登录数据代开）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@crassus_market_bot
@@ -47,3 +47,9 @@
 ## 原文摘要（可选）
 
 公开频道以补货帖形式标出 Gemini ~$7–8/年、SuperGrok / Copilot 月价，以及自营 VPN 卢布套餐，并反复引导 `@crassus_market_bot` + `@crassus_support`。
+
+## ⛔ 已下架（2026-10-06）
+
+- 原因：店方文档 https://docs.crassus.store/products/google-ai-pro/your-account 「На ваш аккаунт」写明付款后向客服 @crassus_support「Передайте данные от вашего Google-аккаунта」（交出你的 Google 账号数据），由店方登录代开，过程中需买家手动确认 Google 的登录提醒。让买家交出自己的账号登录凭据，比交会话令牌更进一步，按阿言 2026-10-06「要买家交登录令牌的店整店驳回/下架」口径整店下架（@crassus_market_bot / 频道 @crassus_market / @crassus_support）。
+- 另：价证 /59（2026-03-25 Google AI Pro $7/年）、/60（2026-03-29 SuperGrok $12/月）偏旧，频道末帖 07-28。
+- 处置：从 README 撤行。观察 ≠ 推荐，切勿付款或交出任何账号密码/令牌。
