@@ -30,3 +30,7 @@
 ## 原文摘要（可选）
 
 摘要：频道简介写「公益自助机器人: @gptnocard_bot」；bot 页自称全自动 ChatGPT Plus 升级。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 频道 `@gptnocard` 登过第三方付费广告（非店方自帖，帖尾注明广告未经审核）：https://t.me/gptnocard/49（2026-05-16 13:33）「诚招经销商和零售商 | claudestore.store … 45 美元 → 相当于 500 美元 Anthropic 积分 / 90 美元 → 相当于 1000 美元 Anthropic 积分」，自称 AWS Bedrock 多账户池；/50（2026-07-02 22:30）重发。不下架；勿购该类 API 额度。

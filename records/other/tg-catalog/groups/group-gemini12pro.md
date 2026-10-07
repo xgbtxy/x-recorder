@@ -31,3 +31,8 @@
 - 频道「Paid Promotion」硬广、DM 私聊成交、共享/激活链路失效（频道自身亦发过 Gemini link 故障公告）。观察 ≠ 推荐。不发帖不试单。群内实帖需登录协采，勿把频道帖写成群帖。
 
 - 2026-10-06 复审：本群出现过的 `@AiVerseXBot`、`@ver_pixel_bot`/`@fork_bot_channel`、`@Pixora_Tunisie_bot` 已因店方频道发 method/绕支付工具下架，勿据本档购买。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- `@fork_bot_channel`（`@ver_pixel_bot` 店方频道，10-06 已下架）公开发 Claude sk- key：https://t.me/fork_bot_channel/692（2026-08-03 18:03）「API Claude ✔️ / Test 10M token / sk-…」、/701（2026-08-04 18:58）「Boss of API Give Agay 5 key claude」、/895（2026-08-28 14:41）「Share 5 Claude API keys」，/942（2026-09-01 10:31）说给「API Claude Codex keys」过期会员补时长。key 不抄。
+- 同运营频道 https://t.me/gemini12pro_channel/41（2026-05-21 17:30，非转发）「需要codex api的老板可以来刷：https://api.zectai.com 跑量请私聊我（按照0.05元每刀充值）」：频道主私下卖 codex API 中转额度（0.05 元/刀）。本档是公共讨论群，不下架；勿据本档购买任何 API。

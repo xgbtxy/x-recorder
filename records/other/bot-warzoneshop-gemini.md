@@ -33,3 +33,7 @@
 
 - https://t.me/gemini3369/548507（`2026-10-03T09:02:43+00:00`，上海 17:02；不是转发）。显示名 Superman。正文：`Gemini AI Pro 18m`，`Buy 1-10 for $0.4 each`，`Buy 11-49 for $0.38 each`，`Buy 49+ for $0.36 each`，下一行 `@WarzoneShopBot`。
 - 这是 10 月 3 日的公开现价。价目档：`records/other/em-shop/bot-warzoneshop-gemini-menu.md`。不另建第二份店档。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：店方频道 https://t.me/WarzoneShopHub/81（2026-09-27 01:15）「Cursor Pro 1m … Price: $25.00 / code … ⚡ Duration: 1 Month $60 Credits ⚡ Official Coupon Code」。是订阅优惠码，不是 API 额度，不下架。

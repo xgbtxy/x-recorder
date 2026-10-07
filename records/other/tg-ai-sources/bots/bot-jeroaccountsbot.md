@@ -19,3 +19,7 @@
 - **老大审核**：2026-10-06 复核频道 `@JeroAccounts`（1.76K 订阅）/35、/26 均为原帖非转发，公开页未见 cc/method/教程。单品 ChatGPT Plus，不新增 em-shop 价目；em-shop 旧档保留。
 
 > 只读公开页：未登录、未 Start、未加群、未发帖、未下单。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：店方频道 https://t.me/JeroAccounts/41（2026-10-08 03:32）「Muse Ai … ✔️1 Billion Token … 💰Now: $1.25」。是 Muse AI 账号自带 token，不是 OpenAI/Claude/Gemini/Grok 的 API 额度，不下架。

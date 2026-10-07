@@ -19,3 +19,7 @@
 
 - 目录用途：让群档 `groups/group-gpt-nocard.md` 可点到 bot，并回链已审 records。
 - **风险 / 待核实（强制）**：主档已列 AccessToken 凭据面、额度随时失效、仿冒、捐赠诱导。观察 ≠ 推荐。未对 bot 下单、未试升级。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 频道 `@gptnocard` 登过第三方付费广告（非店方自帖，帖尾注明广告未经审核）：https://t.me/gptnocard/49（2026-05-16 13:33）「诚招经销商和零售商 | claudestore.store … 45 美元 → 相当于 500 美元 Anthropic 积分 / 90 美元 → 相当于 1000 美元 Anthropic 积分」，自称 AWS Bedrock 多账户池；/50（2026-07-02 22:30）重发。不下架；勿购该类 API 额度。

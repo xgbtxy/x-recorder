@@ -29,3 +29,7 @@
 - 非官方，价远低于官方。可能是共享、链接或虚假额度。这条帖没有给出激活链接，这里也不记链接
 - 频道 `@WarzoneShopHub` 更早的帖说过新生成的 Gemini 链接大约 30 分钟过期，以及市面上便宜链接可能已用过。那是频道自己的警告，不是这条群帖的原文
 - 观察 ≠ 推荐。未下单
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：店方频道 https://t.me/WarzoneShopHub/81（2026-09-27 01:15）「Cursor Pro 1m … Price: $25.00 / code … ⚡ Duration: 1 Month $60 Credits ⚡ Official Coupon Code」。是订阅优惠码，不是 API 额度，不下架。

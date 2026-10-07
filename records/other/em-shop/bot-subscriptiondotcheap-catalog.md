@@ -58,3 +58,7 @@
 ## 原文摘要（可选）
 
 subscription.cheap 公开目录标出 CapCut / ChatGPT Plus / Gemini Pro / Cursor 等 From $ 价，首页互链 `@SubscriptionDotCheap_bot` 与 `@Cheap_UltraGptCursor`；商品页多引导 `@Kevillionaire`。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 店方频道 https://t.me/Cheap_UltraGptCursor/39（2026-09-05 21:50）「5k credits OpenAI also available」，无价、无面值说明。暂不下架；若后续见低于面值的 OpenAI 额度价，按 API 额度口径整店下架。

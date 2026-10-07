@@ -51,3 +51,7 @@
 ## 原文摘要（可选）
 
 gptru.pro/tg-shop 以 Product/Offer 标出 ChatGPT Plus / CapCut Pro / Gemini Pro / Super Grok / Claude 等卢布价，并写经理 `@upe4d`；`@u_pebot` 公开页指向同一支持与频道生态。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：频道 https://t.me/u_pre/6883（2026-09-30 17:10）「Perplexity AI ключи активации подписки: Pro - 15$ … Max 10 000 credit - 38$ или 3800 рублей」。是订阅激活钥，不是 API 额度，不下架。

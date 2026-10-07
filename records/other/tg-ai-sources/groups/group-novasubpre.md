@@ -23,3 +23,7 @@
 ## 风险 / 待核实（强制）
 
 - 非官方。K12/Edu、LINK Gemini、短周期 Grok 与 Plus 整月混发。人号 admin 不立档。观察 ≠ 推荐。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：店方频道 https://t.me/NovasubPre/41（2026-09-16 10:37）「Now Change API => ZAPI (OFFICIAL API in CHATGPT PRO x20) .」，无价。暂不下架；若后续见低于面值卖 API 额度，按 API 额度口径整店下架。

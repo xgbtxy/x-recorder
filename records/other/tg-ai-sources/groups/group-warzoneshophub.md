@@ -72,3 +72,7 @@
 
 - 本频道帖流仍没有把 9 月的库存价升级成 10 月 3 日现价。
 - 同日交流群 https://t.me/gemini3369/548507（`2026-10-03T09:02:43+00:00`）正文点名 `@WarzoneShopBot`，Gemini AI Pro 18m 为 `$0.4` / `$0.38` / `$0.36`。记在 `records/other/em-shop/bot-warzoneshop-gemini-menu.md`，不在本频道档改价。
+
+## ⚠️ 风险补充（2026-10-08 API 额度排查）
+
+- 擦边：店方频道 https://t.me/WarzoneShopHub/81（2026-09-27 01:15）「Cursor Pro 1m … Price: $25.00 / code … ⚡ Duration: 1 Month $60 Credits ⚡ Official Coupon Code」。是订阅优惠码，不是 API 额度，不下架。
