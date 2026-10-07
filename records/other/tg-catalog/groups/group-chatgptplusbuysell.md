@@ -20,7 +20,7 @@
 | `@AithSubscriptions_bot` | | 登录窗广告摘要 | `records/other/bot-aithsubscriptions-adobe-duolingo.md` |
 | `@VouchersShopBot` | | 登录窗广告摘要 | `records/other/bot-vouchersshop-flash-sale.md` |
 | `@ExcaliburTechBot` | | 登录窗广告摘要 | `records/other/bot-excaliburtech-digital-activation.md` |
-| `@TrustedShopingbot` | | 登录窗广告摘要 | `records/other/bot-trustedshoping-claude-pro-gift.md` |
+| `@TrustedShopingbot` | | 已下架 2026-10-08（卖 method） | `records/other/bot-trustedshoping-claude-pro-gift.md` |
 | `@Prime_Gadget_Store_bot` | | 登录窗广告摘要 | `records/other/bot-prime-gadget-store.md` |
 | `@storeBatmanBot` | | 登录窗广告摘要 | `records/other/bot-storebatman-applepay-subs.md` |
 | `@lhiestore_bot` | | 登录窗广告摘要 | `records/other/bot-lhiestore-chatgpt-plus.md` |

@@ -1,6 +1,6 @@
 # [低价·bot] Trusted Shoping：Claude Pro Gift Link
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：店方频道卖 Claude 礼品链接 method）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：@TrustedShopingbot
@@ -30,3 +30,8 @@
 ## ⚠️ 被公开点名（2026-10-06 补，未核实）
 
 - 防骗频道 https://t.me/scammerfvck/16（2026-09-26）「LIST SCAMMER VERIFIED」名单列出 `@TrustedShopingbot`，未写具体事由；该频道有竞争方背景，指控未核实，**按高风险处理，切勿付款**。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 店方频道原发帖 [TrustedShopiing/261](https://t.me/TrustedShopiing/261)（2026-10-06 02:23 CST）：「Claude pro Method Available… Daily 15 to 20 Claude Gift link Using Method. Price 65$… Buying Bot: @TrustedShopingbot」。卖薅礼品链接的 method，按口径整店下架。
+- 线索：gemini12pro 10-08 01:09 起 @L_eonz 多次转发，小弟·TG群bot 报。
