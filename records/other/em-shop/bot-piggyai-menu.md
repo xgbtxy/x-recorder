@@ -1,6 +1,6 @@
 # [低价·bot·价目] @PiggyAi799_Bot：gemini 交流群一条多行现价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：低于面值卖 Claude、Codex API 额度，另卖 ChatGPT Codex JSON 凭证与接码）**
 - 记录日期：2026-10-05
 - **平台**：Telegram
 - **Bot（店铺）**：@PiggyAi799_Bot（Global USDT）、@piggyai99_bot（Bot Việt Nam）
@@ -56,3 +56,9 @@
 
 - 非官方。Plus 一个月 `💵$3.43`、Gemini 12 个月 `💵$2.7` 远低于官方。K12 两年在同一条里写了两个数。发帖人是 `@khaidayne`，不立档。
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 03:54 CST Start @PiggyAi799_Bot 购买列表截图（piggy799_bot_list_5/6.webp、_p2_7/8.webp）：「API CLAUDE 500$ 代币 1 个月 $34.96」「API Claude 50$ $5.44」「API CODEX ASTRA6 50$/100$/200$/500$ $5.43/$8.93/$15.52/$34.92」「10M–500M 信用 API Codex 1 天 $1.74–$7.24」「API Cursor Pro 6500 积分 $12.04」；另有「JSON ChatGPT 免费版本 Phone Codex」与「[CDK] 租用接收 OTP CODEX」。
+- 店方频道 @PiggyAIPremium 9/4 帖「Claude API $100 Token 1 day full warranty $2.53」「Claude API keys are heavily discounted right now」，9/7 帖 Codex API 额度（截图 03:56）。
+- 低于面值卖 API 额度 + JSON 登录凭证，整店下架（bot + 频道 + em-shop）。

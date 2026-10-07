@@ -1,6 +1,6 @@
 # [TG·bot] Ducky Store
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex API token 额度）**
 - 审核：2026-10-05，公开页核对 https://t.me/elitemethodchat/306582 、https://t.me/lk_ducky 、https://t.me/Duckystore2_bot 、https://t.me/Duckystore_bot 和 https://t.me/duckystorechannel。未登录、未下单、未点 Start、未加入频道。所引帖不是转发，未见 Paid Promotion / #реклама。bot 不在帖正文，在发帖人主页简介里。两个地区 bot 只建这一份。不进 em-shop。
 - 记录日期：2026-10-05
 - **平台**：Telegram
@@ -26,3 +26,7 @@
 - 非官方。同一条里只有 GPT Plus `$10.81` 能对上 ChatGPT / Gemini / Claude / Grok，并且低于公开月费约 20 美元。API、CapCut、YouTube、Gmail 不能凑成第二行，所以不进 em-shop。共享、保修很短、失效或交不了货都有可能。
 - 人号 `@lk_ducky` 不立档。
 - 观察 ≠ 推荐。未下单。先不要点 Start，不要加入频道。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 03:52–03:53 CST Start @Duckystore2_bot /products 截图（ducky_bot_apiclaude_1.webp、ducky_bot_apigpt_2.webp）：「API 10M Token Claude 1 Day $1.15」「50M $2.63」「100M 1 Day $3.81」「100M 3 Days $5.3」；Codex 10M/50M/100M Token 1 Day $1.15/$2.1/$3.05。低于面值卖 API token 额度，按疑赃 key/余额口径整店下架（bot + 频道）。线索：EM/310649、/310685（小弟·EM延伸）。
