@@ -1,6 +1,6 @@
 # [TG·bot] Relatablee__Store
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 已失效，用户名搜不到、公开页为空卡）**
 - 审核：2026-10-06。公开页 https://t.me/Relataablebot 可开（预览为 Contact/Send Message）。客户端从 `@gemini30pro` 卖家 `@Rhysonx` 主页只读 Start，点 Shop 菜单看价，未充值、未下单、未发帖。无稳定公开价帖 message id，**不进 em-shop**。Gemini 18m 按激活链接口径不当订阅现价。人号 `@Rhysonx` 不立档。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -16,3 +16,7 @@
 ## 风险 / 待核实（强制）
 
 - 非官方；价远低于官方，共享/失效/盗用可能。无稳定公开价帖，现价主要来自客户端菜单。观察 ≠ 推荐。未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:56 CST（relataablebot_1_nomatch.webp）：客户端搜不到 @Relataablebot；公开页 t.me/Relataablebot 只剩空卡，没有标题和简介。同名「Relatablee__Store」现挂在 @Relataableebot（多一个 e），可能是改名，也可能是仿冒，未核，不转录。入口失效，下架。

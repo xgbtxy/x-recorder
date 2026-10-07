@@ -1,6 +1,6 @@
 # [低价·bot] Lhie Store：ChatGPT Plus 现货硬广
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 目录低于面值卖 Claude API key 额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：@lhiestore_bot
@@ -29,3 +29,7 @@
 ## 原文摘要（可选）
 
 扫描摘要：`🛍 READY STOCK 💬 CHATGPT PLUS PRIVATE 1M …`（msgid 1218605）。公开页可开：Lhie Store / @lhiestore_bot。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 07:01 CST 截图（lhiestore_bot_3_claudeapikey.webp）：分类「Pilih Plan CLAUDE API KEY」（Terjual: 148）：「01. CLAUDE API KEY 100$ — Harga Rp25.000 / 1.5 USDT — Terjual 118」「02. CLAUDE API KEY 500$ — Harga Rp115.000 / 6 USDT — Terjual 30」。约面值 1.2–1.5%，整店下架。

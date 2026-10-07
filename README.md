@@ -362,7 +362,6 @@
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
 | [低价·bot] @VaultXStorebot 数字商品店（风险观察） | other | 已核 | https://t.me/VaultXStorebot |
-| [低价·bot] @lhiestore_bot ChatGPT Plus（风险观察） | other | 已核 | https://t.me/lhiestore_bot |
 | [低价·bot] @BuyCardOffical_bot 礼品卡/eSIM（风险观察） | other | 已核 | https://t.me/BuyCardOffical_bot |
 | [低价·bot] @WantToPayBot 虚拟卡（风险观察） | other | 已核 | https://t.me/WantToPayBot |
 | [低价·bot] @redotpay_bot 加密支付（风险观察） | other | 已核 | https://t.me/redotpay_bot |
@@ -544,7 +543,6 @@
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
 | [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
-| [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |
