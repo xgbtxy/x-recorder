@@ -1,6 +1,6 @@
 # [低价·bot] Vouchers Shop 闪购店铺风险观察
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：店方频道引买家到仿 Google 域 serviceactivationgoogle.com（疑钓鱼））**
 - 记录日期：2026-09-25
 - **平台**：Telegram
 - **Bot**：@VouchersShopBot
@@ -26,3 +26,10 @@
 ## 原文摘要（可选）
 
 扫描原文摘要为 “~ Flash Sale For Reseller's … Super Du…”；以上仅据公开群帖与公开 bot 页记录，未向 bot 发消息、未交易。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 店方频道原帖（老大 10-08 `chk.sh` embed 复核原帖，均非转发；时间为上海）：
+  - https://t.me/VouchersXShop/518（2026-09-30 21:14）「✔️Gemini Activation Links Open the link → Google Gemini page opens → sign in → done. ✔️ Example Link :- https://serviceactivationgoogle.com/subscription/new/…」（长串参数不抄）
+- 同运营依据：bot 简介原文「Join @VouchersXShop for Updates」。
+- 仿 Google 域让买家登录，按钓鱼口径整店下架。小弟·TG群bot 10-08 00:50 判驳（截图 start_shots/VouchersShopBot_{1,2}.png）。

@@ -1,6 +1,6 @@
 # [低价·bot·价目] @sellnitystorebot：频道 FLASH 两行四类现价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：店方频道低于面值卖 Claude API 额度（100$ 额度 $3.40–$3.75））**
 - 记录日期：2026-10-05
 - **平台**：Telegram
 - **Bot（店铺）**：@sellnitystorebot
@@ -30,3 +30,12 @@
 ## ⚠️ 被公开点名（2026-10-06 补，未核实）
 
 - 防骗频道 https://t.me/scammerfvck/16（2026-09-26）名单末尾列出 `@sellnity`（未写具体事由，也未确认就是 `@sellnitystorebot` 同一家）；该频道属竞争方 UpgradeGeminiPro 系，有抢生意动机。指控未核实，按高风险处理。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 店方频道 @sellnitystoreupdates 原帖（老大 10-08 `chk.sh` embed 复核原帖，均非转发；时间为上海），均为「❋ 100$ API Claude 30D」FLASH：
+  - https://t.me/sellnitystoreupdates/19690（2026-10-07 09:01）「💵 Price: $5.00 → $3.50」
+  - https://t.me/sellnitystoreupdates/19739（2026-10-07 10:01）「$5.00 → $3.75」
+  - https://t.me/sellnitystoreupdates/19837（2026-10-07 12:01）「$5.00 → $3.40」
+  - https://t.me/sellnitystoreupdates/20625（2026-10-08 04:01）「$5.00 → $3.75」
+- 100 美元 Claude API 额度原价也只标 $5，按「低于面值卖 API 额度」口径整店下架（bot + em-shop）。线索：小弟·EM延伸。

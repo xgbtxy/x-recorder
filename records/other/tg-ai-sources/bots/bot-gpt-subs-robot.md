@@ -1,6 +1,6 @@
 # [TG·bot] MindKey Shop（@gpt_subs_robot）
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：店方频道与店方号低于面值卖 Claude、Codex API token）**
 - 审核：2026-10-06 老大 curl 复核 https://t.me/gemini12pro/385560（`2026-10-06T10:25:08+00:00`，非转发）：ChatGPT Plus 1M ApplePay NW `6.10 $`、Teacher K12 24M `3.40 $`；店方频道 https://t.me/gpt_subs（686 subscribers，简介「Підключення підписок」，最新 /214 `2026-10-05`）；bot 简介「Private subscriptions at low prices. No shared access.」。只进 tg-ai-sources，不进 em-shop（合格 `$` 行只有 ChatGPT 一品）。未 Start、未下单。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -40,3 +40,11 @@
 - 价来自第三方大群广告，bot 菜单未核（未 Start）；频道主要乌克兰语、计价 грн。
 - 未 Start、未下单。观察 ≠ 推荐。
 - ⚠️ K12 教师名额疑冒用教师认证；Codex/Claude API token 包疑赃，不计、不推荐。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 原帖（老大 10-08 `chk.sh` embed 复核原帖，均非转发；时间为上海）：
+  - 店方频道 https://t.me/gpt_subs/200（2026-09-02 21:11）「10M токенів / 24 години — 200грн / 50M — 300 грн / 100M — 400 грн」，并写「не переплачувати за офіційний API」「отримати багато токенів максимально дешево」
+  - 店方频道 https://t.me/gpt_subs/204（2026-09-12 01:36）「CHATGPT API CODEX … 300M токенів / 15 днів — 700 грн / 500M токенів / 30 днів — 1000 грн」「це API-ключ」
+  - 店方号 `@gpt_subs_admin`（MK Sales & Support）https://t.me/gemini12pro/387286（2026-10-08 03:42）「Claude • API 100M tokens for 1 day — 27 pcs · 6.00 $」「API Codex 300M tokens for 15 days — 24 pcs · 13.10 $」
+- 按「低于面值卖 API 额度/token」口径整店下架。线索：小弟·EM延伸。

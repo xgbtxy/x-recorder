@@ -1,6 +1,6 @@
 # [TG·频道] Da Anh Đen
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：店方频道卖 Claude API token，另卖含邮箱/密码/2FA 的 JSON Codex 登录凭证）**
 - 审核：2026-10-03 仅公开预览核对。
 - 记录日期：2026-10-03
 - 提案人：小弟·TG群bot
@@ -67,3 +67,11 @@
 - `records/other/tg-ai-sources/`、`drafts/tg-ai-sources/`、`drafts/deals/tg-catalog/` 没有 `@ChuBeThatTha`、`@ChuBeChamChi_bot`、`@CheekyKidAI_bot` 的已有档。本批新建，不建第二份。
 
 > 观察不等于推荐；只读，不发帖、不下单、不试购。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 店方频道 @ChuBeThatTha 原帖（老大 10-08 `chk.sh` embed 复核原帖，均非转发；时间为上海）：
+  - https://t.me/ChuBeThatTha/39（2026-07-15 17:42）价目长帖一行「🏷️  API Token Claude chỉ từ 39k (Full model Claude Opus, Sonet, Haiku)」
+  - https://t.me/ChuBeThatTha/131（2026-09-05 20:56）「ChatGPT Free đã Ver Phone Codex … 4K 💵 | 0.15💰 / 3K5 💵 | 0.14💰」「Định dạng : JSON CODEX (Trong Json có chứa email, pass, 2fa)」，另附 JSON Codex 自动登录工具（链接不收录）
+- 同运营依据：频道简介点名 `@ChuBeChamChi_bot`；`@ChuBeChamChi_bot`、`@CheekyKidAI_bot` 启动页都把更新指向 t.me/ChuBeThatTha，支持同为 `@nthai1702`；/124、/137、/138 正文并列两 bot。
+- 卖 JSON 登录凭证 + API token，整店下架（两个 bot + 频道）。线索：小弟·便宜店 已入库店 API 额度排查（2026-10-08）；/131 由老大补。

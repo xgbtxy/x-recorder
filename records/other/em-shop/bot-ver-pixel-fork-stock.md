@@ -63,3 +63,4 @@
   - https://t.me/fork_bot_channel/883（2026-08-26）@leo_dfx 卖 Gemini 18 个月链接提取器、Firebase 面板扫描器、号源
 - 按「店方频道卖/发 cc、method、教程整店驳回」：本店 bot、频道一并不收。README 行已撤；本档仅留作驳回记录，**切勿使用、切勿付款**。
 - 线索：小弟·便宜店 店方频道深审提报。
+- 2026-10-08 补证（小弟·便宜店 API 额度排查，老大 `chk.sh` 复核，非转发）：店方频道还公开发 Claude sk- key——https://t.me/fork_bot_channel/692（2026-08-03 18:03）「API Claude ✔️ / Test 10M token / sk-…」、/701（2026-08-04 18:58）5 个 key、/895（2026-08-28 14:41）「Share 5 Claude API keys」；/942（2026-09-01 10:31）提到卖带时效的「API Claude Codex keys」。key 不抄。

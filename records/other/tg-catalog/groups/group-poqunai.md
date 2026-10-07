@@ -1,6 +1,6 @@
 # [低价·群] 破圈AI交流群【禁广】
 
-- 状态：已核（风险观察；观察≠推荐）
+- 状态：**已下架（REJECTED，2026-10-08：同运营频道 @poquanai 发 BIN + ChatGPT Plus 零元购 method（教提取 Access Token））**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **群用户名（必填）**：`@poqunai`
@@ -25,3 +25,10 @@
 ## 风险 / 待核实（强制）
 
 - 「禁广」≠无硬广；卡网+双向 bot 常见仿冒客服、盗号共享席位、跑路。观察 ≠ 推荐。不发帖、不试单、不对 bot `/start`、不购卡。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 同运营通知频道原帖（老大 10-08 `chk.sh` embed 复核原帖，均非转发；时间为上海）：
+  - https://t.me/poquanai/7（2026-07-28 15:03）「菲律宾 ChatGPT Plus 零元购 (0 PHP) 强开漏洞！附跨区教程与 BIN」「支付卡段：有效的卡头 BIN: 523686 (Mastercard) 或 BIN: 4513 (Visa)」「Step 2: 🇺🇸 切换美国环境提取 Token (AT)」
+- 同运营依据：频道简介原文「群组 https://t.me/poqunai 卡网 https://154784687.xyz/」；群简介挂「双向联系 @poquanAIbot」与频道 `@poquanai`。
+- 按「店方频道发 cc/BIN、method、教程」口径整店下架（bot + 群）。线索：小弟·TG群bot。

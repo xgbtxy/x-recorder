@@ -359,7 +359,6 @@
 | [低价·bot] @EliteMethodsStoreBot EM Store（风险观察） | other | 已核 | https://t.me/EliteMethodsStoreBot |
 | [低价·bot] @scammersdeathbot EM Escrow（风险观察） | other | 已核 | https://t.me/scammersdeathbot |
 | [低价·bot] @nomorescammersbot EM 举报入口（风险观察） | other | 已核 | https://t.me/nomorescammersbot |
-| [低价·bot] @VouchersShopBot 闪购（风险观察） | other | 已核 | https://t.me/VouchersShopBot |
 | [低价·bot] @Prime_Gadget_Store_bot（⚠️被指诈骗，风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
@@ -396,7 +395,6 @@
 | [低价·bot·价目] @Rainnystorebot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/Rainnystorebot |
 | [低价·bot·价目] @pixelprimeshop_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/pixelprimeshop_bot |
 | [低价·bot·价目] @hemtk_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/hemtk_bot |
-| [低价·bot·价目] @sellnitystorebot 频道 FLASH 两行（风险观察） | other/em-shop | 已核 | https://t.me/sellnitystorebot |
 | [低价·bot·价目] @crownailuxurybot 自家频道三家现价（⚠️被指诈骗，风险观察） | other/em-shop | 已核 | https://t.me/crownailuxurybot |
 
 | [低价·群] @chatgptplusbuysell 买卖群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusbuysell |
@@ -420,10 +418,8 @@
 | [低价·群] @claudegpt520 Ai供需交流（风险观察） | other/tg-catalog | 已核 | https://t.me/claudegpt520 |
 | [低价·群] @gpt_nocard 公益升级交流（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_nocard |
 | [低价·bot] @gptnocard_bot 目录指针（风险观察） | other/tg-catalog | 已核 | https://t.me/gptnocard_bot |
-| [低价·群] @laogou_org 老狗Ai加油站（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_org |
 | [低价·群] @oasisaigc Oasis公益交流（风险观察） | other/tg-catalog | 已核 | https://t.me/oasisaigc |
 | [低价·群] @aiagent8080 代充同行交流（风险观察） | other/tg-catalog | 已核 | https://t.me/aiagent8080 |
-| [低价·bot] @laogou_support_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/laogou_support_bot |
 | [低价·bot] @oascfbot 发卡网客服（风险观察） | other/tg-catalog | 已核 | https://t.me/oascfbot |
 | [低价·群] @Aiquanzi 美区iOS质保小群（风险观察） | other/tg-catalog | 已核 | https://t.me/Aiquanzi |
 | [低价·群] @chatgptplusdeal Buy&Sell Worldwide（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgptplusdeal |
@@ -436,7 +432,6 @@
 | [低价·bot] @achuanshuangxiangbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/achuanshuangxiangbot |
 | [低价·群] @lyxazycn XiXi订阅交流（风险观察） | other/tg-catalog | 已核 | https://t.me/lyxazycn |
 | [低价·群] @openhuge_ai OpenHuge中转（风险观察） | other/tg-catalog | 已核 | https://t.me/openhuge_ai |
-| [低价·群] @wishtoapp 码愿Sub2API（风险观察） | other/tg-catalog | 已核 | https://t.me/wishtoapp |
 | [低价·群] @yylcard YYL卡网交流（风险观察） | other/tg-catalog | 已核 | https://t.me/yylcard |
 | [低价·bot] @XiXiAiAutobot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/XiXiAiAutobot |
 | [低价·bot] @PixelAuto_Xixi_Bot 自助提交（风险观察） | other/tg-catalog | 已核 | https://t.me/PixelAuto_Xixi_Bot |
@@ -453,10 +448,6 @@
 | [低价·群] @gptsplus 源头渠道群（风险观察） | other/tg-catalog | 已核 | https://t.me/gptsplus |
 | [低价·群] @chatgpt003 AI星球中文资源群（风险观察） | other/tg-catalog | 已核 | https://t.me/chatgpt003 |
 | [低价·群] @awscdn888 AWS-AI大模型交流（风险观察） | other/tg-catalog | 已核 | https://t.me/awscdn888 |
-| [低价·群] @apidiyidazhan 章鱼哥流量联盟（风险观察） | other/tg-catalog | 已核 | https://t.me/apidiyidazhan |
-| [低价·bot] @apizhushou_bot API联盟助手（风险观察） | other/tg-catalog | 已核 | https://t.me/apizhushou_bot |
-| [低价·群] @poqunai 破圈AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/poqunai |
-| [低价·bot] @poquanAIbot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/poquanAIbot |
 | [低价·群] @xenterai 峰哥ai交流（风险观察） | other/tg-catalog | 已核 | https://t.me/xenterai |
 | [低价·bot] @Xentreai_bot 双向中继（风险观察） | other/tg-catalog | 已核 | https://t.me/Xentreai_bot |
 | [低价·群] @ainh666 AI交流群低价GPTGemini（风险观察） | other/tg-catalog | 已核 | https://t.me/ainh666 |
@@ -512,7 +503,6 @@
 | [低价·群] @lpolarischat Polaris小站（风险观察） | other/tg-catalog | 已核 | https://t.me/lpolarischat |
 | [低价·群] @KinhRoBotGroup KinhRoBot讨论群（风险观察） | other/tg-catalog | 已核 | https://t.me/KinhRoBotGroup |
 | [低价·群] @qiuqiuai1919 Ai交流群·球球（风险观察） | other/tg-catalog | 已核 | https://t.me/qiuqiuai1919 |
-| [低价·群] @computeunion ComputeUnion API/GPU（风险观察） | other/tg-catalog | 已核 | https://t.me/computeunion |
 | [低价·bot] @sheeridvn_bot SheerID VN 验证/福利（风险观察） | other/tg-catalog | 已核 | https://t.me/sheeridvn_bot |
 | [低价·bot] @vocvn_bot Group Help/Anti-spam（风险观察） | other/tg-catalog | 已核 | https://t.me/vocvn_bot |
 | [低价·bot] @mpolaris_bot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/mpolaris_bot |
@@ -554,17 +544,9 @@
 | [TG·频道] @zinoofficialupdates Zino Shop Updates（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zinoofficialupdates |
 | [TG·bot] @ZinoShopbot Zino Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ZinoShopbot |
 | [TG·频道] @neuralllab NeuraLab（风险观察） | other/tg-ai-sources | 已核 | https://t.me/neuralllab |
-| [TG·频道] @plusvibeapi PlusVibeAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/plusvibeapi |
 | [TG·频道] @infofenAI Феникс \| Подписки（风险观察） | other/tg-ai-sources | 已核 | https://t.me/infofenAI |
-| [TG·频道] @sandromania_shop sandromania shop \| news（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_shop |
-| [TG·bot] @sandromania_bot_bot sandromania shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sandromania_bot_bot |
 | [TG·频道] @zveno_ai Zveno AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zveno_ai |
-| [TG·频道] @origapi_net OrigAPI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/origapi_net |
 | [TG·频道] @hubrispw Hubris（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hubrispw |
-| [TG·频道] @multiai_official MultiAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/multiai_official |
-| [TG·频道] @ChuBeThatTha Da Anh Đen（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeThatTha |
-| [TG·bot] @ChuBeChamChi_bot Chú Bé Chăm Chỉ（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ChuBeChamChi_bot |
-| [TG·bot] @CheekyKidAI_bot CheekyKid Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CheekyKidAI_bot |
 | [TG·频道] @belpepel Пепел ➜ Белгород（风险观察） | other/tg-ai-sources | 已核 | https://t.me/belpepel |
 | [TG·频道] @kurpepel Пепел ➜ Курск（风险观察） | other/tg-ai-sources | 已核 | https://t.me/kurpepel |
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
@@ -594,16 +576,13 @@
 | [TG·bot] @JeroAccountsBot Jero Accounts（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JeroAccountsBot |
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
 | [TG·bot] @EcosystemAIShop_bot Hsoulz AIShopbot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/EcosystemAIShop_bot |
-| [TG·bot] @gpt_subs_robot MindKey Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gpt_subs_robot |
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
-| [TG·bot] @lakshmistorebot Lakshmi Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lakshmistorebot |
 | [TG·bot] @nevakeystore_bot Neva AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/nevakeystore_bot |
 | [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
 | [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |
 | [TG·bot] @produkdigitaltbot Produk Digital（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/produkdigitaltbot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
-| [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
 
 > 注：硬规则优先 X 链接；已批 TG 频道来源可用 Telegram 消息链接入库，并在条目中标明平台。
