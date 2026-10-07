@@ -14,7 +14,7 @@
 
 | Bot | 客服 | 价目可见？ | 备注 / 交叉引用 |
 |-----|------|------------|-----------------|
-| `@hiroboticvn_bot` | — | 待核 | 本目录 `../bots/bot-hiroboticvn-shop.md` |
+| `@hiroboticvn_bot` | — | 已下架 2026-10-08（低于面值卖 API 额度） | 本目录 `../bots/bot-hiroboticvn-shop.md` |
 
 ## 要点
 
