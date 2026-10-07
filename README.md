@@ -359,7 +359,6 @@
 | [低价·bot] @EliteMethodsStoreBot EM Store（风险观察） | other | 已核 | https://t.me/EliteMethodsStoreBot |
 | [低价·bot] @scammersdeathbot EM Escrow（风险观察） | other | 已核 | https://t.me/scammersdeathbot |
 | [低价·bot] @nomorescammersbot EM 举报入口（风险观察） | other | 已核 | https://t.me/nomorescammersbot |
-| [低价·bot] @Prime_Gadget_Store_bot（⚠️被指诈骗，风险观察） | other | 已核 | https://t.me/Prime_Gadget_Store_bot |
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
 | [低价·bot] @VaultXStorebot 数字商品店（风险观察） | other | 已核 | https://t.me/VaultXStorebot |
@@ -529,7 +528,6 @@
 | [TG·bot] @turbotext_bot TurboText 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/turbotext_bot |
 | [TG·频道] @gptrfru ГПТ Россия（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptrfru |
 | [TG·bot] @gptrfai_bot ГПТ Россия 多模型（风险观察） | other/tg-ai-sources | 已核 | https://t.me/gptrfai_bot |
-| [TG·频道] @AvenzoDigital1 Avenzo Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/AvenzoDigital1 |
 | [TG·频道] @WarzoneShopHub Warzone Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/WarzoneShopHub |
 | [TG·频道] @zinoofficialupdates Zino Shop Updates（风险观察） | other/tg-ai-sources | 已核 | https://t.me/zinoofficialupdates |
 | [TG·bot] @ZinoShopbot Zino Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/ZinoShopbot |

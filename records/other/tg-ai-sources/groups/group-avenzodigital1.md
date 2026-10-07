@@ -1,6 +1,6 @@
 # [TG·频道] Avenzo Digital
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 目录直接卖 ChatGPT / Grok method）**
 - 记录日期：2026-10-03
 - **类型**：频道（公开页为 Preview channel；计数为 subscribers，不是 members）
 - **平台**：Telegram
@@ -69,3 +69,7 @@
 ## ⚠️ 被公开点名诈骗（2026-10-06 补，未核实）
 
 - 防骗频道 https://t.me/scammerfvck/18（2026-09-27）原文：「This dogshit is scammer @AvenzoDigital and his bot @Prime_Gadget_Store_bot」，联系人 `@ihq9n`。未附具体交易证据，该频道有竞争方背景；指控未独立核实，**按高风险处理，切勿付款**。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:47 CST Start「Products」目录截图（prime_gadget_store_bot_1–4.webp，标题 Avenzo Digital）：「ChatGPT method | USD 20.00」「Grok 7 days Method | USD 15.00」。店 bot 直接卖 method，bot 与店频道整店下架。
