@@ -374,7 +374,6 @@
 | [低价·bot·价目] @u_pebot 卢布网页价目（风险观察） | other/em-shop | 已核 | https://t.me/u_pebot |
 | [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
 | [低价·bot·价目] @Cp669912_bot 人民币代充价目（风险观察） | other/em-shop | 已核 | https://t.me/Cp669912_bot |
-| [低价·bot·价目] @nevakeystore_bot CORE 价目（风险观察） | other/em-shop | 已核 | https://t.me/nevakeystore_bot |
 | [低价·bot·价目] @produkdigitaltbot 菜单价目（高风险观察） | other/em-shop | 已核 | https://t.me/produkdigitaltbot |
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
 | [低价·bot·价目] @Substor_bot 卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Substor_bot |
@@ -564,7 +563,6 @@
 | [TG·bot] @JeroAccountsBot Jero Accounts（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JeroAccountsBot |
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
-| [TG·bot] @nevakeystore_bot Neva AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/nevakeystore_bot |
 | [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
 | [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |

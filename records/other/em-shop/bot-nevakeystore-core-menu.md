@@ -1,6 +1,6 @@
 # [低价·bot·价目] NevaKeyStore：公开频道 CORE SERVICES 多品美元价目
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex API 额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@nevakeystore_bot（公开页标题「Neva AI」）
@@ -58,3 +58,7 @@
 ## 原文摘要（可选）
 
 nevakeystore/2「CORE SERVICES」列出 Gemini 18M、CapCut、ChatGPT Plus、Nord/Express VPN、Spotify、Prime Video、Canva Edu 等 $ 价，并写 Orders & Support；/28 指引 Start bot → Shop。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:20–06:22 CST Start Shop 菜单截图（nevakeystore_bot_1–9.webp）：「Claude 100$ Api 30Day (FW) - 3.5 USDT」「Claude 500$ Api 30Day (FW) - 13 USDT」；「Codex Api 10M Token 1D - 1.98 USDT」「Codex Api 50M Token 2D - 3.9 USDT」。远低于面值，bot 与 em-shop 价目整店下架。

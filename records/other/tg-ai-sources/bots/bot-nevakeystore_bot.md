@@ -1,6 +1,6 @@
 # [TG·bot] Neva AI / Nevakey Store · @nevakeystore_bot
 
-- 状态：已核（公开频道核价；bot 未 Start、菜单未复核；风险观察，观察≠推荐）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex API 额度）**
 - 记录日期：2026-10-06
 - 收录目录：records/other/tg-ai-sources（em-shop 已有旧档，本稿只补 tg-ai-sources，不改 em-shop 档）
 - **平台**：Telegram
@@ -44,3 +44,7 @@
 - **观察 ≠ 推荐，不要据此付款或提交任何账号/令牌。**
 
 > 只读公开页：未登录、未 Start、未加群、未发帖、未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:20–06:22 CST Start Shop 菜单截图（nevakeystore_bot_1–9.webp）：「Claude 100$ Api 30Day (FW) - 3.5 USDT」「Claude 500$ Api 30Day (FW) - 13 USDT」；「Codex Api 10M Token 1D - 1.98 USDT」「Codex Api 50M Token 2D - 3.9 USDT」。远低于面值，bot 与 em-shop 价目整店下架。
