@@ -1,6 +1,6 @@
 # [低价·bot] storeBatman：ChatGPT Plus(Apple Pay) / 订阅硬广
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex API token 额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：@storeBatmanBot
@@ -29,3 +29,7 @@
 ## 原文摘要（可选）
 
 扫描摘要：`🤖CHATGPT PLUS(APPLE PAY)4.5$ ▶️GEMINI 18…`（msgid 1218639）。公开页：storebat / @storeBatmanBot。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 03:45–03:46 CST Start 菜单截图（storeBatmanBot_api_1-5.png）：Claude API「API Claude 50M Token (2Day) $3.00」「API 100M Token Claude 3Day $4.50」及「Claude 100$ Api 30 D warranty」「500$ API CLaude - 30 days」；Codex API「10M Token 1Day $1.00」「100M Token 3Day $4.50」。低于面值卖 API token 额度，按疑赃 key/余额口径整店下架。线索：gemini12pro/387176、387207。

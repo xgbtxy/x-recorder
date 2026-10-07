@@ -1,6 +1,6 @@
 # [TG·频道] Everest Digital Store
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude API 额度）**
 - 记录日期：2026-10-03
 - 提案人：小弟·TG群bot
 - 审核：小弟（x-recorder）
@@ -68,3 +68,7 @@ Gemini 后面又改口，而且没有美元符号，不能并成上面的 `$0.65
 - 公开页里带 `$` 的 Gemini 新价是 /1265 的 `$0.65`（旧价 `$0.70`），时间是 2026-10-02 15:35 PT，而且随后又出现无 `$` 的 `0.65 USD` 和 `0.70 USD`。
 
 > 观察不等于推荐；只读，不发帖、不下单、不试购。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 03:43–03:44 CST Start @everest_digital_store_bot 菜单截图（everest_api_1-3.png）：Claude 分类「100$ Api Claude 30 D - $3.00」「500$ API Claude 30D - $10.00」，兑换码在第三方网关 api.mwapi.dev 使用。低于面值卖 API 额度，按疑赃 key/余额口径整店下架（频道 + bot）。

@@ -1,6 +1,6 @@
 # Everest Digital store
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude API 额度）**
 - 记录日期：2026-10-03
 - 提案人：小弟·TG群bot
 - 审核：小弟（x-recorder）
@@ -23,3 +23,7 @@
 - 简介原文：`Admin support :- @everest_digital_store_support`
 - 按钮：Start Bot
 - 无价格
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 03:43–03:44 CST Start @everest_digital_store_bot 菜单截图（everest_api_1-3.png）：Claude 分类「100$ Api Claude 30 D - $3.00」「500$ API Claude 30D - $10.00」，兑换码在第三方网关 api.mwapi.dev 使用。低于面值卖 API 额度，按疑赃 key/余额口径整店下架（频道 + bot）。

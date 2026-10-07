@@ -22,7 +22,7 @@
 | `@ExcaliburTechBot` | | 登录窗广告摘要 | `records/other/bot-excaliburtech-digital-activation.md` |
 | `@TrustedShopingbot` | | 已下架 2026-10-08（卖 method） | `records/other/bot-trustedshoping-claude-pro-gift.md` |
 | `@Prime_Gadget_Store_bot` | | 登录窗广告摘要 | `records/other/bot-prime-gadget-store.md` |
-| `@storeBatmanBot` | | 登录窗广告摘要 | `records/other/bot-storebatman-applepay-subs.md` |
+| `@storeBatmanBot` | | 已下架 2026-10-08（低于面值卖 API 额度） | `records/other/bot-storebatman-applepay-subs.md` |
 | `@lhiestore_bot` | | 登录窗广告摘要 | `records/other/bot-lhiestore-chatgpt-plus.md` |
 | `@MangoShopGlobal_bot` | | 登录窗广告摘要 | `records/other/bot-mangoshopglobal-api-codex.md` |
 | `@ToolsWala_bot` | | 登录窗广告摘要 | `records/other/bot-toolswala-live-products.md` |
