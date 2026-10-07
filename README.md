@@ -566,7 +566,6 @@
 | [TG·bot] @CloudyStoree_bot CloudyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CloudyStoree_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
-| [TG·bot] @napannbot NAPAN PREMIUM SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/napannbot |
 | [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
 | [TG·频道] @NovasubPre NovasubShop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NovasubPre |
 | [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
@@ -575,7 +574,6 @@
 | [TG·bot] @crownailuxurybot Crown AI Luxury（⚠️被指诈骗，风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
 | [TG·bot] @JeroAccountsBot Jero Accounts（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JeroAccountsBot |
 | [TG·bot] @Claude_gpt_CDK_bot ClaudeGptCDK（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Claude_gpt_CDK_bot |
-| [TG·bot] @EcosystemAIShop_bot Hsoulz AIShopbot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/EcosystemAIShop_bot |
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
 | [TG·bot] @nevakeystore_bot Neva AI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/nevakeystore_bot |
 | [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |

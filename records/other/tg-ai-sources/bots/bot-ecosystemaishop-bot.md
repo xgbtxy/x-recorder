@@ -1,6 +1,6 @@
 # [TG·bot] Hsoulz AIShopbot（@EcosystemAIShop_bot）
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex API 额度，另卖 ChatGPT Codex JSON 凭证）**
 - 审核：2026-10-06 老大 curl 复核 https://t.me/gemini12pro/382015（`2026-10-02T10:41:48+00:00`，非转发，人号 `@hoangbuihsoulz` 发价）与 /333014（`2026-08-11T07:57:37+00:00`，点名本 bot）；bot 公开卡简介自称 low-cost bot shop 并回指同一人号。无店方频道，按 DigitatAI / Claude_gpt_CDK 先例只进 tg-ai-sources，不进 em-shop。未 Start、未下单。API Token 包疑来源不明，不计入、不推荐。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -47,3 +47,7 @@
 
 > 观察不等于推荐；只读，不发消息、不下单、不试购，未点 Start。
 - ⚠️ 帖中 Claude/Codex/Cursor「API Token」包来源不明，疑似赃或转售 key，切勿购买；无店方频道，无法整店核 cc/method。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:00–05:01 CST Start 菜单截图（eco_2–5.webp）：「API CLAUDE KIRO 200$ - 20 USDT / 100$ - 14 USDT / 20$ - 5 USDT」；「Api Codex 100$ 16 USDT / 200$ 24 USDT / 500$ 56 USDT」；「API Curso Key」1k3–6k5 Credit 8–16 USDT；另有「CHATGPT PLUS CODEX JSON – 6 USDT」（售罄）。低于面值卖 API 额度 + JSON 登录凭证，整店下架。线索：gemini12pro/382015（小弟·EM延伸）。

@@ -1,6 +1,6 @@
 # [TG·bot] NAPAN PREMIUM SHOP
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex、Cursor、xAI API 额度）**
 - 审核：2026-10-06。公开页核对 https://t.me/napannbot（标题 NAPAN PREMIUM SHOP🌍，有 Start Bot；简介 Admin `@napanshop`）。发现帖 https://t.me/gemini3369/557443 可开（og 可见品名 Gemini/ChatGPT Plus/Claude/Super Grok，**公开 embed 无半角 `$` 数字**）。TG群bot 只读 Start 看菜单，未充值、未下单、未发帖。人号 `@napanshop` 不立档；同系 `@napan_key_bot` 不另档。**不进 em-shop**（缺可独立核对的公开半角 `$` 价帖；价主要靠客户端转录与菜单）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -25,3 +25,7 @@
 ## 风险 / 待核实（强制）
 
 - 非官方；价远低于官方参考时共享/代充/无法履约风险高。公开帖 `$` 无法在 embed 独立核对。观察 ≠ 推荐。未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:02–05:04 CST Start /products 截图（napan_1–6.webp）：「Claude API $500 1 month full warranty | $25.48」「$300 $15.96」「$200 $9.49」「$100 $5.68」「$50 $3.24」「$10 $2.1」及 10M–100M Token 包 $1.74–6.67；Codex「ASTRA6 $100/$200 TOKEN 1 个月 $9.87/$17.14」；Cursor API Pro Credit $8.38/$14.06；「xAI API key $100」$51.41。低于面值卖 API 额度，整店下架。线索：gemini3369/557443（小弟·EM延伸）。
