@@ -1,6 +1,6 @@
 # [低价·bot·价目] Subscription.Cheap：公开站多品美元目录 + TG bot
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 按 token 远低于面值卖 Claude Opus API 额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram（价目主出处为公开网页）
 - **Bot（店铺）**：@SubscriptionDotCheap_bot（首页 trial / View offer）
@@ -62,3 +62,7 @@ subscription.cheap 公开目录标出 CapCut / ChatGPT Plus / Gemini Pro / Curso
 ## ⚠️ 风险补充（2026-10-08 API 额度排查）
 
 - 店方频道 https://t.me/Cheap_UltraGptCursor/39（2026-09-05 21:50）「5k credits OpenAI also available」，无价、无面值说明。暂不下架；若后续见低于面值的 OpenAI 额度价，按 API 额度口径整店下架。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:41 CST Start 截图（subscriptiondotcheap_bot_1–2.webp）：模型「claude-opus-5.5 → opus-5」「All packages in stock」；「200.000.000 tokens | $5.00 | 2d」「80.000.000 tokens | $3.00 | 2d」「40.000.000 tokens | $1.50 | 2d」「20.000.000 tokens | $0.80 | 2d」。按 Opus 官方 token 单价折算不到面值 1%，整店下架。

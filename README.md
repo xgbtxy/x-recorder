@@ -377,7 +377,6 @@
 | [低价·bot·价目] @produkdigitaltbot 菜单价目（高风险观察） | other/em-shop | 已核 | https://t.me/produkdigitaltbot |
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
 | [低价·bot·价目] @Substor_bot 卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Substor_bot |
-| [低价·bot·价目] @SubscriptionDotCheap_bot 站内目录（风险观察） | other/em-shop | 已核 | https://t.me/SubscriptionDotCheap_bot |
 | [低价·bot·价目] @parsgptbot تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/parsgptbot |
 | [低价·bot·价目] @taynikstore_bot 站内 API 多品价目（风险观察） | other/em-shop | 已核 | https://t.me/taynikstore_bot |
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
@@ -386,7 +385,6 @@
 | [低价·bot·价目] @ZinoShopbot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/ZinoShopbot |
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |
 | [低价·bot·价目] @storepremium_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/storepremium_bot |
-| [低价·bot·价目] @RDCshopbot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/RDCshopbot |
 | [低价·bot·价目] @hemtk_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/hemtk_bot |
 | [低价·bot·价目] @crownailuxurybot 自家频道三家现价（⚠️被指诈骗，风险观察） | other/em-shop | 已核 | https://t.me/crownailuxurybot |
 
@@ -546,7 +544,6 @@
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
-| [TG·bot] @RDCshopbot Ryanshop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RDCshopbot |
 | [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |

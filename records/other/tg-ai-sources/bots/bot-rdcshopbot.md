@@ -1,6 +1,6 @@
 # [TG·bot] Ryanshop
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 上新推送低于面值卖 Codex API 额度）**
 - 审核：2026-10-05，公开页核对 https://t.me/gemini3369/552264 、https://t.me/redamacy8 、https://t.me/RDCshopbot 和 https://t.me/RDC8shopbot。未登录、未下单、未点 Start。所引帖不是转发，未见 Paid Promotion / #реклама。正文没点名 bot，bot 在发帖人主页简介里。两个用户名只建这一份。
 - 记录日期：2026-10-05
 - **平台**：Telegram
@@ -17,3 +17,7 @@
 
 - 非官方。Plus `2$`、Gemini `1 $`、Claude Pro `2.89$`、Super Grok `5$` 远低于官方。共享、失效或交不了货都有可能。
 - 人号不立档。观察 ≠ 推荐。未下单。先不要点 Start。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:39 CST 截图（rdcshopbot_1–2.webp）：@RDCshopbot 自家 bot 2026-10-06 上新推送「API CODEX $50 TOKEN 1 MONTH full warranty｜Price: $5.53｜Current stock: 1」（约面值 11%），同日另有「API Cusor Pro 400 credits/ day 1 month full warranty｜Price: $13.33｜Current stock: 7」。店方 bot 自发推送，低于面值三成，bot 与 em-shop 价目整店下架。
