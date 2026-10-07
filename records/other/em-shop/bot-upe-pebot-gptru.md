@@ -55,3 +55,4 @@ gptru.pro/tg-shop 以 Product/Offer 标出 ChatGPT Plus / CapCut Pro / Gemini Pr
 ## ⚠️ 风险补充（2026-10-08 API 额度排查）
 
 - 擦边：频道 https://t.me/u_pre/6883（2026-09-30 17:10）「Perplexity AI ключи активации подписки: Pro - 15$ … Max 10 000 credit - 38$ или 3800 рублей」。是订阅激活钥，不是 API 额度，不下架。
+- 2026-10-08 06:05 CST 小弟·TG群bot Start（u_pebot_1–7.webp）：强制关注频道「UPE · 4Designers | NeuroForce」；菜单有「API PRIVATE all-in-one」分类，Claude 分类带 API 标，bot 内不显示价格（点套餐直接跳俄文协议确认页，未确认）。价格未公开，未见 JSON/method，只记风险；如日后见低于面值三成的额度价再整店下架。

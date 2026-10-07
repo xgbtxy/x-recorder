@@ -1,6 +1,6 @@
 # [TG·bot] HPPYKEYS STORE（@Hppykeys_BOT）
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude API 额度）**
 - 审核：2026-10-06。公开页核对 https://t.me/Hppykeys_BOT（HPPYKEYS STORE | Digital Keys, GPT, Software Gemini，有 Start Bot；简介偏 Windows/Office/游戏激活码）。价帖 https://t.me/bestaitoolsai/768 公开 embed 可见两行半角 `$`（本号非转发）。店方**无**自家公开频道可交叉核价。本轮**未 Start**、未下单。**不进 em-shop**（可核个人订阅主项目前主要是 ChatGPT Plus 一行；Gemini 18 个月 `$2.50` 按口径**不当**整月/年订对照，疑激活/LINK 类低价）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -24,3 +24,7 @@
 ## 风险 / 待核实（强制）
 
 - 非官方。价在第三方 AI 新闻频道广告位，非店方频道；无交叉核价源。Gemini 18 月 `$2.50` 远低于官方参考，来源/履约存疑。观察 ≠ 推荐。未 Start、未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:03–06:04 CST Start「Claude」分类截图（hppykeys_bot_3_claude.webp、_4_claude_full.webp）：「100$ API 30D · 5.00 USD」「500$ API 30D · 15.00 USD」；「API 100M Tokens 1 Day · 10.50」「API 500M Tokens 1 Day · 45.00」等。远低于面值，整店下架。

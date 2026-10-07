@@ -558,7 +558,6 @@
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
-| [TG·bot] @Hppykeys_BOT HPPYKEYS STORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Hppykeys_BOT |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
 | [TG·bot] @tudongbanhang1109_bot Emotional Profit · Tyler（风险观察） | other/tg-ai-sources | 已核 | https://t.me/tudongbanhang1109_bot |
 | [TG·bot] @crownailuxurybot Crown AI Luxury（⚠️被指诈骗，风险观察） | other/tg-ai-sources | 已核 | https://t.me/crownailuxurybot |
