@@ -10,3 +10,7 @@
 - 建议：非美元价，只进 tg-ai-sources。
 
 - 审核（老大 2026-10-07）：入库 tg-ai-sources，不进 em-shop（BRL 价，只有 ChatGPT 一个品类）。频道 @contaspremiumtotty + bot 菜单价截图。高风险：R$20 档疑共享号；频道以流媒体为主，长期发帖未核。状态：已核（高风险观察）。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 07:07 CST 商品列表截图（contaspremiumtotty_bot_2_list_metodos.webp）：「CANAL DE METODOS VITALÍCIO - R$ 50.00」（终身 method 频道）。卖 method，整店下架。

@@ -541,7 +541,6 @@
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
-| [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
 | [TG·bot] @DigitatAI_servicebot DigitatAI（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DigitatAI_servicebot |
@@ -552,7 +551,6 @@
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
 | [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
-| [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |
 | [TG·bot] @produkdigitaltbot Produk Digital（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/produkdigitaltbot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 
