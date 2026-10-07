@@ -1,6 +1,6 @@
 # [低价·bot·价目] ZykoLand / ZykoStore：论坛公开卢布多品表 + WebApp 店铺 bot
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-07：店方频道教用 BIN 生成卡 + live 卡薅试用额度）**
 - 记录日期：2026-09-26
 - **平台**：Telegram（价目主出处为公开论坛帖；频道多为补货/询盘，部分带 $ 数字）
 - **Bot（店铺）**：@ZykoLand_bot（公开页「ZykoStore」；og「@ZykoLand Новости/Поддержка」）
@@ -64,3 +64,7 @@
 ## 原文摘要（可选）
 
 Mipped「ZYKOLAND」帖列出 GPT PLUS 1M+codex 350 ₽ / Claude PRO 1900 ₽ / Gemini AI Account 100 ₽ / CapCut Pro Team 7д 150 ₽ 等，并指向 `@ZykoLand_bot`；频道 /403、/407 等为补货通知，/392、/395、/411 等为公开 $ 询盘数字。
+
+## ⛔ 已下架（2026-10-07）
+
+店方频道 https://t.me/Zykoland/415（2026-09-27 02:05 CST，原发非转发）教人注册某 AI 平台免费试用时用「生成的卡」，给出 BIN `415464440`，要求「прогоняйте live карты」（先验 live 卡），并配美国 VPN。属生成卡薅额度 method + BIN，按整店驳回口径下架。
