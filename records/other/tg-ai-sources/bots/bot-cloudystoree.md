@@ -39,4 +39,4 @@
 
 ## ⛔ 下架（老大 2026-10-08）
 
-- 小弟·TG群bot 10-08 05:11–05:13 CST Start 菜单截图（cloudystoree_bot_3–9.webp）：「Claude API $1000 Token 1 month | $57.09」「$100 | $5.68」「$10 | $1.72」；「API Codex \$100 7 days | $3.43」；「Grok API $100 1 month | $7.27」；「API Cursor Pro 6500 Credits 1 month | $13.41」；另有「JSON ChatGPT Free has Ver Phone Codex 1 month - no warranty | $0.43」。低于面值卖 API 额度 + JSON 登录凭证，整店下架。
+- 小弟·TG群bot 10-08 05:11–05:13 CST Start 菜单截图（cloudystoree_bot_3–9.webp）：「Claude API $1000 Token 1 month | $57.09」「$100 | $5.68」「$10 | $1.72」；「API Codex $100 7 days | $3.43」；「Grok API $100 1 month | $7.27」；「API Cursor Pro 6500 Credits 1 month | $13.41」；另有「JSON ChatGPT Free has Ver Phone Codex 1 month - no warranty | $0.43」。低于面值卖 API 额度 + JSON 登录凭证，整店下架。
