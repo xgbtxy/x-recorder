@@ -379,6 +379,7 @@
 | [低价·bot·价目] @novastore_ai_bot 波斯语价目（风险观察） | other/em-shop | 已核 | https://t.me/novastore_ai_bot |
 | [低价·bot·价目] @Cp669912_bot 人民币代充价目（风险观察） | other/em-shop | 已核 | https://t.me/Cp669912_bot |
 | [低价·bot·价目] @nevakeystore_bot CORE 价目（风险观察） | other/em-shop | 已核 | https://t.me/nevakeystore_bot |
+| [低价·bot·价目] @produkdigitaltbot 菜单价目（高风险观察） | other/em-shop | 已核 | https://t.me/produkdigitaltbot |
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
 | [低价·bot·价目] @Substor_bot 卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Substor_bot |
 | [低价·bot·价目] @SubscriptionDotCheap_bot 站内目录（风险观察） | other/em-shop | 已核 | https://t.me/SubscriptionDotCheap_bot |
@@ -609,6 +610,7 @@
 | [TG·bot] @jstoredigitalbot Jstore Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/jstoredigitalbot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
 | [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |
+| [TG·bot] @produkdigitaltbot Produk Digital（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/produkdigitaltbot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
