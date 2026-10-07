@@ -363,7 +363,6 @@
 | [低价·bot] @ExcaliburTechBot（风险观察） | other | 已核 | https://t.me/ExcaliburTechBot |
 | [低价·bot] @AithSubscriptions_bot Adobe/Duolingo（风险观察） | other | 已核 | https://t.me/AithSubscriptions_bot |
 | [低价·bot] @VaultXStorebot 数字商品店（风险观察） | other | 已核 | https://t.me/VaultXStorebot |
-| [低价·bot] @mangoshopglobal_bot API Codex（风险观察） | other | 已核 | https://t.me/mangoshopglobal_bot |
 | [低价·bot] @lhiestore_bot ChatGPT Plus（风险观察） | other | 已核 | https://t.me/lhiestore_bot |
 | [低价·bot] @BuyCardOffical_bot 礼品卡/eSIM（风险观察） | other | 已核 | https://t.me/BuyCardOffical_bot |
 | [低价·bot] @WantToPayBot 虚拟卡（风险观察） | other | 已核 | https://t.me/WantToPayBot |

@@ -1,6 +1,6 @@
 # [低价·bot] Mango Digital Store：API Codex / 数字店
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex、Kimi/DeepSeek API 额度与 Token）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：@mangoshopglobal_bot
@@ -29,3 +29,7 @@
 ## 原文摘要（可选）
 
 扫描摘要：`❤️API CODEX 10M Token: 0.4$ …`（msgid 1218566）。公开页：Mango Digital Store，Auto 24/7，Support inbox @mangodigitalshop。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:06 CST Start「Buy accounts」菜单截图（mangoshopglobal_bot_1–3.webp）：「100$ API Claude - 30 days - $0.98」「500$ API Claude - 30 days - $4.5」（均售罄）；「API CLAUDE 10M/50M/100M/500M Token」$0.4/$1.8/$3.1/$13.5；「API ChatGPT CODEX - 10M Token - 1 day」$0.46、50M $1.78、100M $2.99、500M $12.98（有货）；「API KIMI & DEEPSEEK 50M/100M」$0.95/$1.90。低于面值卖 API 额度，整店下架。

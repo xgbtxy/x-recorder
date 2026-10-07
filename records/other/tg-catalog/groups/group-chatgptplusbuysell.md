@@ -24,7 +24,7 @@
 | `@Prime_Gadget_Store_bot` | | 登录窗广告摘要 | `records/other/bot-prime-gadget-store.md` |
 | `@storeBatmanBot` | | 已下架 2026-10-08（低于面值卖 API 额度） | `records/other/bot-storebatman-applepay-subs.md` |
 | `@lhiestore_bot` | | 登录窗广告摘要 | `records/other/bot-lhiestore-chatgpt-plus.md` |
-| `@MangoShopGlobal_bot` | | 登录窗广告摘要 | `records/other/bot-mangoshopglobal-api-codex.md` |
+| `@MangoShopGlobal_bot` | | 已下架 2026-10-08（低于面值卖 API 额度） | `records/other/bot-mangoshopglobal-api-codex.md` |
 | `@ToolsWala_bot` | | 登录窗广告摘要 | `records/other/bot-toolswala-live-products.md` |
 | `@VaultXStoreBot` | | 登录窗广告摘要 | `records/other/bot-vaultxstore-digital-goods.md` |
 | `@Qamify_bot` `@ZinoShopbot` `@NyStoreOfficialBot` `@Paglu_Shop_Bot` 等 | | Gemini 同质闪购 | 控量跳过立新档（既有批次口径） |
