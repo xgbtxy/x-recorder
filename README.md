@@ -376,9 +376,7 @@
 | [低价·bot·价目] @Chatgpt_aboutshopBot  تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/Chatgpt_aboutshopBot |
 | [低价·bot·价目] @Substor_bot 卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Substor_bot |
 | [低价·bot·价目] @parsgptbot تومان价目（风险观察） | other/em-shop | 已核 | https://t.me/parsgptbot |
-| [低价·bot·价目] @taynikstore_bot 站内 API 多品价目（风险观察） | other/em-shop | 已核 | https://t.me/taynikstore_bot |
 | [低价·bot·价目] @storeluma_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/storeluma_bot |
-| [低价·bot·价目] @Premium_Shop_bot 论坛卢布价目（风险观察） | other/em-shop | 已核 | https://t.me/Premium_Shop_bot |
 | [低价·bot·价目] @WarzoneShopBot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/WarzoneShopBot |
 | [低价·bot·价目] @ZinoShopbot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/ZinoShopbot |
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |

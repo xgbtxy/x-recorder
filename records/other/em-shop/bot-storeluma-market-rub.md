@@ -1,6 +1,6 @@
 # [低价·bot·价目] Luma Store：论坛公开卢布多品表 + Mini App 店铺 bot
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：已核（风险观察；观察≠推荐购买；2026-10-08 Start：目录只在小程序，未核）
 - 记录日期：2026-09-26
 - **平台**：Telegram（价目主出处为公开论坛帖；频道多为库存通知）
 - **Bot（店铺）**：@storeluma_bot（公开页「Luma Store ✦」）
@@ -52,3 +52,7 @@
 ## 原文摘要（可选）
 
 Mipped「Luma Store」帖列出 ChatGPT Go 99 ₽ / Plus 280 ₽ / Gemini Pro 18M 100 ₽ / Grok Super 150 ₽ / CapCut Pro 379 ₽ 等；购买指引指向 `@storeluma_bot`；频道 /45 另标 VPN 首月 70 ₽。
+
+## 复核（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 约 07:17 CST 只读 Start（storeluma_bot_start_1.webp）：欢迎语只列概览（ChatGPT Plus、Grok Super、Perplexity Pro、Cursor Pro 等），完整目录在 WebApp「Open store」，未开，**未核**；欢迎语未见 API 额度、JSON 或 method。保留风险观察。

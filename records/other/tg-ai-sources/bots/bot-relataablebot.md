@@ -20,3 +20,8 @@
 ## ⛔ 下架（老大 2026-10-08）
 
 - 小弟·TG群bot 10-08 06:56 CST（relataablebot_1_nomatch.webp）：客户端搜不到 @Relataablebot；公开页 t.me/Relataablebot 只剩空卡，没有标题和简介。同名「Relatablee__Store」现挂在 @Relataableebot（多一个 e），可能是改名，也可能是仿冒，未核，不转录。入口失效，下架。
+
+## 复核（老大 2026-10-08 07:25）
+
+- 同店已改名为 @Relataableebot（发帖人 @Rhysonx 简介现为「@Relataableebot auto ai shop」，菜单模板和客服 @Arcc1x 一致，Start 截图 relataableebot_1–3）。菜单仍是订阅/成品号（Plus 1m $3.50、Claude Max 20x $65 等），未见 API/JSON/method。
+- **不恢复**：这家没有自家公开频道，也没有固定 id 的公开价帖，现价只来自客户端菜单，不够 tg-ai-sources 门槛（自家频道 + 店 bot + 清楚价）；与 yellowcheap、MarceloMiracles 同口径。本档维持下架。

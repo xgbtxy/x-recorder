@@ -1,6 +1,6 @@
 # [低价·bot·价目] Premium Shop：论坛公开卢布多品订阅表 + 店铺 bot
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 已失效，Start 只回 Manybot 自动发帖助手，没有商品目录和价）**
 - 记录日期：2026-09-26
 - **平台**：Telegram（价目主出处为公开论坛帖）
 - **Bot（店铺）**：@Premium_Shop_bot（公开页标题「Premium shop」；og 仅默认联系文案，**无站内价表**）
@@ -48,3 +48,7 @@
 ## 原文摘要（可选）
 
 Mipped「Premium Shop」帖标 ChatGPT Plus 2499 ₽/月、Claude Pro 2499 ₽/月、Microsoft 365 从 415 ₽、Copilot Pro 从 999 ₽，购买指引写「Переходите в бота Premium_Shop」；公开 `@Premium_Shop_bot` 可 Start，客服 `@MegaSEmka`。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 约 07:18 CST 只读 Start（premium_shop_bot_1.webp）：@Premium_Shop_bot 回复是 Manybot 自动发帖/订阅助手文案（「…Используйте /off … @Manybot」），没有商店菜单、商品和价；论坛帖的卢布价目在 bot 里对不上。入口已不是店，按失效下架。

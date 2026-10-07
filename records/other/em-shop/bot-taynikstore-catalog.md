@@ -1,6 +1,6 @@
 # [低价·bot·价目] Тайник：公开站 API 多品美元/卢布目录 + TG bot
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：按 token 卖 API 中转，自称「便宜 5–10 倍」，Claude Haiku 4.5 每百万 token 0.24$，约官方输入价 $1 的 24%，低于三成）**
 - 记录日期：2026-09-26
 - **平台**：Telegram（价目主出处为公开网页 / 公开 API）
 - **Bot（店铺）**：@taynikstore_bot（公开页标题「Тайник」；约 27 069 monthly users）
@@ -56,3 +56,9 @@
 ## 原文摘要（可选）
 
 taynik.store 首页横幅标「Gemini Pro на 18 месяцев за 4.99$」；公开 `/api/products` 列出 CapCut / ChatGPT / Claude / Cursor / Grok / Spotify 等 `price_usd`/`price_rub`；bot `@taynikstore_bot` og 互链站点与 `@taynik_sup`。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 本店公开频道 https://t.me/taynikstoree/50（Тайник 自家频道，约 2.4 万订阅；bot 强制频道按钮指向它；帖时 2026-10-07 CST）原文：「API-токены стали в Тайнике в 5-10 раз дешевле!」，一个 key 连 GPT/Claude/Gemini/GLM/Deepseek/Grok，每百万 token：Claude Haiku 4.5 0.24$、Claude Fable 5.1 5.65$、Gemini 3.8 Flash 0.18$、Grok 4.7 0.118$ 等。Haiku 4.5 官方输入价 $1/M、输出 $5/M，按输入价比约 24%，按输出价比约 5%，都低于三成；店家自称便宜 5–10 倍，也就是一到两成。
+- 小弟·TG群bot 10-08 约 07:16 CST 只读 Start 截图 taynikstore_bot_3_api_tokens.webp；商店本体为 WebApp，未开；频道未加入。
+- 按 API 额度尺度（低于面值三成）整店下架。
