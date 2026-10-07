@@ -1,6 +1,6 @@
 # [TG·bot] CloudyStore
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex、Grok、Cursor API 额度，另卖 ChatGPT JSON 凭证）**
 - 审核：2026-10-05。公开页核对 https://t.me/gemini3369/556603 、https://t.me/CloudyStoree_bot 、https://t.me/CloudyStore123 。频道 https://t.me/CLoudyShop 公开页无帖。价目主要来自小弟·TG群bot 客户端只读 bot 菜单（Products → ChatGPT），未下单。所引公开帖不是转发，未见 Paid Promotion / #реклама。bot 在发帖人主页简介。不进 em-shop。
 - 记录日期：2026-10-05
 - **平台**：Telegram
@@ -36,3 +36,7 @@
 - Gemini 菜单项是激活链接，不收录为订阅现价。公开帖与菜单 Plus 标价不一致（帖 `5$`、菜单 `$12.57`），以菜单现价为主、帖价作交叉。
 - 人号 `@CloudyStore123` / `@CLoudyStore123` 不立档。私密群未加入。频道公开无帖。
 - 观察 ≠ 推荐。未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:11–05:13 CST Start 菜单截图（cloudystoree_bot_3–9.webp）：「Claude API $1000 Token 1 month | $57.09」「$100 | $5.68」「$10 | $1.72」；「API Codex \$100 7 days | $3.43」；「Grok API $100 1 month | $7.27」；「API Cursor Pro 6500 Credits 1 month | $13.41」；另有「JSON ChatGPT Free has Ver Phone Codex 1 month - no warranty | $0.43」。低于面值卖 API 额度 + JSON 登录凭证，整店下架。

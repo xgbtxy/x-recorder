@@ -10,3 +10,4 @@
 - 建议：只进 tg-ai-sources。没有独立频道，只有店群 @lukuaichat，长期发帖靠多群反复出现佐证。
 
 - 审核（老大 2026-10-07）：入库 tg-ai-sources，不进 em-shop（USDT 价，Plus 不明显低于官方）。无独立频道，店群 @lukuaichat 加 bot 菜单价截图视同店方自家渠道。状态：已核（风险观察）。
+- 复核（老大 2026-10-08）：小弟·TG群bot 05:13–05:14 CST 菜单截图（lukuai_bot_1–5.webp）见「AI APIs – Gemini, ChatGPT, Claude – $1 credit | 0.7 USDT」，即面值约七折的中转额度，属常见中转折扣，不是 Mango/Cloudy 那种 1–5% 面值的狠价；未见 JSON/method。只记风险，不下架；如后续出现大幅低于面值的额度或凭证再整店下架。

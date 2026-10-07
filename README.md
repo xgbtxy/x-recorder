@@ -562,7 +562,6 @@
 | [TG·bot] @GPTCheapChat_bot GPTCheap（风险观察） | other/tg-ai-sources | 已核 | https://t.me/GPTCheapChat_bot |
 | [TG·bot] @pixelprimeshop_bot PixelPrime Digital Shop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/pixelprimeshop_bot |
 | [TG·bot] @hemtk_bot Hẻm Tài khoản（风险观察） | other/tg-ai-sources | 已核 | https://t.me/hemtk_bot |
-| [TG·bot] @CloudyStoree_bot CloudyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/CloudyStoree_bot |
 | [TG·bot] @Relataablebot Relatablee__Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Relataablebot |
 | [TG·bot] @lucky_cat_store_bot Lucky Cat Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lucky_cat_store_bot |
 | [TG·bot] @novasubglo_bot NovasubGlobal（风险观察） | other/tg-ai-sources | 已核 | https://t.me/novasubglo_bot |
