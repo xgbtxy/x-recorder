@@ -577,8 +577,6 @@
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
 | [TG·bot] @NyStoreOfficialBot NY Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NyStoreOfficialBot |
 | [TG·bot] @BlazeOttshopbot BLAZE OTT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/BlazeOttshopbot |
-| [TG·频道] @PrimeDigitalAI Prime Digital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAI |
-| [TG·bot] @PrimeDigitalAIBot PrimeDigital（风险观察） | other/tg-ai-sources | 已核 | https://t.me/PrimeDigitalAIBot |
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
 | [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |

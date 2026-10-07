@@ -1,6 +1,6 @@
 # [TG·bot] PrimeDigital
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-07：把买家引到仿冒 Google 的域名兑换）**
 - 审核：2026-10-04，公开页核对 https://t.me/PrimeDigitalAI/551 与 https://t.me/PrimeDigitalAIBot。未登录、未下单、未点购买。所引帖不是转发，未见 Paid Promotion / #реклама。每条库存帖只有一行 `$`，不并价，不进 em-shop。不另建第二份店档。
 - 记录日期：2026-10-04
 - **平台**：Telegram
@@ -32,3 +32,6 @@
 - **仿冒 Google 域名，高风险**：店方频道 https://t.me/primedigitalai/631 、/635 、/640（2026-10-07 10:53 CST）发的激活链接都指向 `serviceactivationgoogIe.com`（用大写 I 冒充小写 l），根页面照抄 Google 404 页。属仿冒 Google 的钓鱼特征域。**切勿在该域名登录 Google 账号或输入任何凭证。** 未打开带 token 的链接，尚未确认是否收集登录数据；若后续证实要买家在该域登录，按「要买家交账号登录数据」整店下架。
 - 频道 /645、/646（2026-10-07）卖 Claude API 额度（10M token 1 天 $0.98、500$ API 30 天 $7.20），API 余额类货源不明，不作价证。
 
+## ⛔ 已下架（2026-10-07）
+
+店方把 Gemini 兑换链接放在仿冒 Google 的域名 `serviceactivationgoogIe.com` 上（用大写 I 冒充小写 l，首页照抄 Google 404 页），见频道 https://t.me/PrimeDigitalAI/631 、/635 、/640（2026-10-07 10:53 CST）。bot 菜单（10-07 14:54 CST 只读查看）让买家「把兑换链接粘进浏览器点 Activate Offer」，买家会被引到这个仿冒 Google 的页面。新口径：店方把买家引到仿冒官方的域名去操作，按钓鱼风险整店下架，不必等到证实它在收登录信息。另外菜单里大多是 Claude/Codex API 余额。**切勿打开该域名或在那里登录。**
