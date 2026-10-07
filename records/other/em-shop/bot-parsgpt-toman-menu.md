@@ -53,3 +53,7 @@
 ## 原文摘要（可选）
 
 Pars_Gpt/10575 同帖给出 Gemini Pro 18M ۸۵۰,۰۰۰ تومان 与 ChatGPT Plus 1M 约 2.39M تومان，并导流 @parsgptsup / parsgpt.shop；频道 og 仍挂 `@parsgptbot` Mini App 自动下单；历史帖 @ParsGptRbot 承接「快速购买」。
+
+## 复核（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 约 07:25 CST 只读 Start（parsgptbot_1.webp）：bot 只有小程序入口（进入小程序/打开商店），未开，店内目录**未核**；保留频道价目的风险观察。

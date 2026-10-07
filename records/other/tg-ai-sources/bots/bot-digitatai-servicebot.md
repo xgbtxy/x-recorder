@@ -1,6 +1,6 @@
 # [TG·bot] DigitatAI（@DigitatAI_servicebot）
 
-- 状态：已核（**待 Start**；公开页无菜单/无简介价）
+- 状态：已核（风险观察：10-08 07:10、07:40 两次 Start 均无回应；公开页无菜单/无简介价）
 - 审核：2026-10-06。公开页核对 https://t.me/DigitatAI_servicebot（DigitatAI，可 Start；无简介价目）。运营人号 `@DIGITLEAI`（DigitalAi_service）简介仅 `My bot - @DigitatAI_servicebot`，**人号不立档**。价证来自 EM 人号帖 https://t.me/elitemethodchat/307765（`2026-10-05T18:21:17+00:00`，上海 02:21；og 可见多行半角 `$`，非转发；同秒 `/307766` 超 200 字 Warn）。**无**店方公开频道闭环。本轮**未 Start**、未下单。**不进 em-shop**（价非店方频道/ bot 菜单；人号群广）。
 - 记录日期：2026-10-06
 - **平台**：Telegram
@@ -27,3 +27,7 @@
 ## 风险 / 待核实（强制）
 
 - 非官方。价只来自人号在第三方大群的超长帖（已被 Warn），非 bot 菜单、非店方频道；FW/Business/CDK 履约与来源存疑；人号可换号跑路。观察 ≠ 推荐。未 Start、未下单。
+
+## 复核（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 07:10 首次 Start、07:40 命令菜单 /start 重试，约 30 秒均无回应（digitatai_servicebot_2.webp）。bot 可能停用或只在线时段回复；暂不下架，只记风险。

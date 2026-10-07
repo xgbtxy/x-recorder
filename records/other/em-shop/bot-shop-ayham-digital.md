@@ -1,6 +1,6 @@
 # [低价·bot·价目] Shop_Ayham_bot：小型数字店公开 Gemini 标价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单按 token 低价卖 Claude API，50M token 卖 $4.80、100M token 卖 $7，约 Sonnet 官方输入价的 2–3%）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot（店铺）**：@Shop_Ayham_bot
@@ -41,3 +41,8 @@
 ## 原文摘要（可选）
 
 `ayhamdigital/472`：「Gemini 18 months NEW STOCK … Price: 3.00 USDT … Buy now: @Shop_Ayham_bot」；/474 仅列多品类名与支付方式，无单价。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 约 07:43 CST 只读加入 bot 强制的公开群 @DigitalXCommunity（标题 Digital Shop），再 Start 看 Shop 菜单（shop_ayham_bot_2–3.webp、digitalxcommunity_1.webp）：「API Claude 50M Token (2Day) | $4.80 | 5」「API 100M Token Claude 3Day | $7.00 | 1」「API 10M Token Claude 1Day Warranty | $2.30 | 缺货」。群内管理员广告同写「API 10M Token Claude 1Day 2.30 USDT」「API 100M Token Claude 3Day 7.00 USDT」，尾部「Buy now: @Shop_Ayham_bot」。
+- 按 Sonnet 输入价 $3/M 折算，50M 面值 $150 卖 $4.80（约 3.2%），100M 面值 $300 卖 $7（约 2.3%），远低于三成，整店下架。未充值、未下单、未发言。
