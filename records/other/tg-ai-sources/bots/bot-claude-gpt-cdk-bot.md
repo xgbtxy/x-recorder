@@ -36,6 +36,7 @@
 - 非官方。价只来自人号在第三方大群的刷屏帖（同文 4 次），非 bot 菜单、非店方频道；人号可换号跑路。
 - 「CDK」为兑换码，来源不明；「FW/NW/20D/25D」保修口径自称；ChatGPT「Business」疑 Team 席位加人、「Fam GG Ultra」为家庭共享 → 这两类不计入合格品，买家账号可能被封。
 - 价目与 DigitatAI 高度重合，疑同一上游分销，上游风险共担。
+- 2026-10-08 复核（老大）：小弟·TG群bot 05:59、06:30 CST 两次 START 均无回应，菜单未核；@ClaudeGPT_Grok 是客服人号不是频道；来源帖 hdc5nme9/892479、/892517 embed 已取不到正文，疑已删。只记风险。
 - 未 Start、未下单。观察 ≠ 推荐。
 
 - **老大审核**：2026-10-06 复核 hdc5nme9/892479（群「低价靠谱ai交流群」9 449 人；原帖非转发，support 人号自发）。按 DigitatAI 先例：人号群帖价、无店方频道，只进 tg-ai-sources，不进 em-shop。价表与已入库 `@DigitatAI_servicebot` 几乎同款，疑同上游或同一卖家，供后续对比。scammerfvck 未见点名。

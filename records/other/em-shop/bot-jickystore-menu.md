@@ -1,6 +1,6 @@
 # [低价·bot·价目] @JickyStore_bot：gemini 交流群一条多行现价
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Grok、Codex API 额度）**
 - 记录日期：2026-10-04
 - **平台**：Telegram
 - **Bot（店铺）**：@JickyStore_bot（BOT GLOBAL USDT）、@JickyStorebot（Bot VN）
@@ -50,3 +50,7 @@
 
 - 非官方。Plus `2$`、Gemini `1 $`、Claude `2.89$` 远低于官方。发帖人是 `@xyhaLInh21`，不立档。两个 bot 公开页都没有频道。
 - 观察 ≠ 推荐。未下单
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:28–06:30 CST Start 菜单截图（jickystore_bot_2–8.webp）：「Claude API $500 Token 1 month full warranty | $9.33」「Claude API $500 1 month full warranty | $24.72」「Claude API $100 Token 1 month full warranty | $5.68」；「Grok API $100 1 month full warranty | $6.06」；「API CODEX ASTRA6 $100 TOKEN 1 MONTH full warranty | $8.34」；「Google Cloud Active Code $100 1 month | $13.14」。远低于面值，bot 与 em-shop 价目整店下架。

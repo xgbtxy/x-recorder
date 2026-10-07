@@ -386,7 +386,6 @@
 | [低价·bot·价目] @ZinoShopbot Gemini 18 个月阶梯价（风险观察） | other/em-shop | 已核 | https://t.me/ZinoShopbot |
 | [低价·bot·价目] @NyStoreOfficialBot Grok 与 Gemini 现价（风险观察） | other/em-shop | 已核 | https://t.me/NyStoreOfficialBot |
 | [低价·bot·价目] @storepremium_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/storepremium_bot |
-| [低价·bot·价目] @JickyStore_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/JickyStore_bot |
 | [低价·bot·价目] @RDCshopbot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/RDCshopbot |
 | [低价·bot·价目] @yakult88_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/yakult88_bot |
 | [低价·bot·价目] @pixelprimeshop_bot 一条多行现价（风险观察） | other/em-shop | 已核 | https://t.me/pixelprimeshop_bot |
@@ -547,7 +546,6 @@
 | [TG·bot] @subscribestorebot Магазин «Подписка»（风险观察） | other/tg-ai-sources | 已核 | https://t.me/subscribestorebot |
 | [TG·bot] @NyStoreOfficialBot NY Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/NyStoreOfficialBot |
 | [TG·bot] @storepremium_bot taikhoan24h（风险观察） | other/tg-ai-sources | 已核 | https://t.me/storepremium_bot |
-| [TG·bot] @JickyStore_bot JickyStore（风险观察） | other/tg-ai-sources | 已核 | https://t.me/JickyStore_bot |
 | [TG·频道] @DT2804 DT SHOP（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2804 |
 | [TG·bot] @DT2811BOT DTSTORE（风险观察） | other/tg-ai-sources | 已核 | https://t.me/DT2811BOT |
 | [TG·bot] @RDCshopbot Ryanshop（风险观察） | other/tg-ai-sources | 已核 | https://t.me/RDCshopbot |

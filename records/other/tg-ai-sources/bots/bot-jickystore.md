@@ -1,6 +1,6 @@
 # [TG·bot] JickyStore
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Grok、Codex API 额度）**
 - 审核：2026-10-04，公开 embed 核对 https://t.me/gemini3369/551501 、https://t.me/JickyStore_bot 与 https://t.me/JickyStorebot。未登录、未下单、未点购买。不是转发，未见 Paid Promotion / #реклама。同一条帖里多行后缀 `$` 的现价，价目在 `records/other/em-shop/bot-jickystore-menu.md`。两个用户名同一条帖，只建这一份店档。
 - 记录日期：2026-10-04
 - **平台**：Telegram
@@ -24,3 +24,7 @@
 - 非官方。ChatGPT Plus `2$`、Gemini Pro `1 $`、Claude Pro `2.89$`、Super Grok `5$` 都远低于官方月费。共享席位、教育号、失效或来路不明都有可能。
 - 帖是人号发在群里，成交句指向这两个 bot，不是指向人号。两个公开页都没有频道，分不清全球号和越南号是不是同一家。
 - 观察 ≠ 推荐。未下单。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 06:28–06:30 CST Start 菜单截图（jickystore_bot_2–8.webp）：「Claude API $500 Token 1 month full warranty | $9.33」「Claude API $500 1 month full warranty | $24.72」「Claude API $100 Token 1 month full warranty | $5.68」；「Grok API $100 1 month full warranty | $6.06」；「API CODEX ASTRA6 $100 TOKEN 1 MONTH full warranty | $8.34」；「Google Cloud Active Code $100 1 month | $13.14」。远低于面值，bot 与 em-shop 价目整店下架。

@@ -46,3 +46,5 @@
 ## 原文摘要（可选）
 
 canvora/1208：PRICELIST | 25.09.2026，列出 CapCut / ChatGPT Plus / Gemini / Grok / Canva / TG Premium 等乌兹别克索姆价，并引导 `@canvora24bot` 与 `@canvora_admin`。
+
+- 2026-10-08 06:26 CST 复核（小弟·TG群bot，canvora24bot_1.webp）：START 后回复（乌兹别克语）称旧 bot 已废、迁往新 bot @Canvorabot，只给跳转/小程序按钮，未点，无价目。旧档价目仅作历史参考；新 bot 未核。
