@@ -1,6 +1,6 @@
 # [TG·bot] Rainystore
 
-- 状态：已核
+- 状态：**已下架（REJECTED，2026-10-08：bot 菜单低于面值卖 Claude、Codex、Grok API 额度，另卖 ChatGPT JSON 凭证）**
 - 审核：2026-10-05，公开页核对 https://t.me/gemini3369/553511 、https://t.me/ngocbichlove 、https://t.me/Rainnystorebot 、https://t.me/Rainnystore_bot 和 https://t.me/RainyStore24。未登录、未下单、未点 Start、未加入。所引帖不是转发，未见 Paid Promotion / #реклама。两个用户名只建这一份。
 - 记录日期：2026-10-05
 - **平台**：Telegram
@@ -17,3 +17,7 @@
 
 - 非官方。Plus `2.69$`、Gemini `0.5 $` 远低于官方。这条没有 Claude 和 Grok。共享、失效或交不了货都有可能。
 - 人号不立档。观察 ≠ 推荐。未下单。先不要点 Start，不要加入频道。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 05:33–05:39 CST Start 菜单截图（rainnystorebot_5/7/8/9.webp）：「Claude API $1000 1 month full warranty | $64.7」「Claude API $500 | $30.43」「Claude API $300 | $19.01」；「API Codex / Claude / Deepseek $100 Token 1 month | $6.11」；「CLAUDE KIRO API $200 1 MONTH | $16.72」；「Grok API $100 1 month | $7.58」；另有「JSON ChatGPT Free has Phone Codex version for 1 month | $6.06」。低于面值卖 API 额度 + JSON 登录凭证，同店 bot、店群、价目档整店下架。
