@@ -608,6 +608,7 @@
 | [TG·bot] @Evolution_Era_bot Evolution Era（风险观察） | other/tg-ai-sources | 已核 | https://t.me/Evolution_Era_bot |
 | [TG·bot] @lakshmistorebot Lakshmi Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lakshmistorebot |
 | [TG·bot] @lukuai_bot LuKuaiBot（风险观察） | other/tg-ai-sources | 已核 | https://t.me/lukuai_bot |
+| [TG·bot] @contaspremiumtotty_bot Contas Premium Totty（高风险观察） | other/tg-ai-sources | 已核 | https://t.me/contaspremiumtotty_bot |
 | [TG·频道] @jual_beli_grosir Jual Beli Grosir（风险观察·综合买卖枢纽） | other/tg-ai-sources | 已核 | https://t.me/jual_beli_grosir |
 | [TG·bot] @sellnitystorebot Sellnity Store（风险观察） | other/tg-ai-sources | 已核 | https://t.me/sellnitystorebot |
 
