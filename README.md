@@ -419,7 +419,6 @@
 | [低价·群] @yylcard YYL卡网交流（风险观察） | other/tg-catalog | 已核 | https://t.me/yylcard |
 | [低价·bot] @XiXiAiAutobot 双向客服（风险观察） | other/tg-catalog | 已核 | https://t.me/XiXiAiAutobot |
 | [低价·bot] @PixelAuto_Xixi_Bot 自助提交（风险观察） | other/tg-catalog | 已核 | https://t.me/PixelAuto_Xixi_Bot |
-| [低价·群] @jianai996 JIAN AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/jianai996 |
 | [低价·群] @claudepromax666 Claude Pro源头（风险观察） | other/tg-catalog | 已核 | https://t.me/claudepromax666 |
 | [低价·群] @GeminiJL Gemini交流·游戏向消歧（风险观察） | other/tg-catalog | 已核 | https://t.me/GeminiJL |
 | [低价·群] @gpt_user ChatGPT机器人讨论（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_user |
@@ -438,7 +437,6 @@
 | [低价·群] @mguishu FEI AI Plus卡网（风险观察） | other/tg-catalog | 已核 | https://t.me/mguishu |
 | [低价·群] @CHATGPTaigongshi OpenAI中文社区（风险观察） | other/tg-catalog | 已核 | https://t.me/CHATGPTaigongshi |
 | [低价·群] @duoqudaochengpin 靠谱AI交流（风险观察） | other/tg-catalog | 已核 | https://t.me/duoqudaochengpin |
-| [低价·群] @gpt_kedaya 小菲猪后援会（风险观察） | other/tg-catalog | 已核 | https://t.me/gpt_kedaya |
 | [低价·群] @a6apicom A6api Token交易所（风险观察） | other/tg-catalog | 已核 | https://t.me/a6apicom |
 | [低价·群] @DaFeiverls ChatGPT plus账号群（风险观察） | other/tg-catalog | 已核 | https://t.me/DaFeiverls |
 | [低价·群] @AisouPro Aisou交流（风险观察） | other/tg-catalog | 已核 | https://t.me/AisouPro |
@@ -497,7 +495,6 @@
 | [低价·群] @xingluo2 星络中转（风险观察） | other/tg-catalog | 已核 | https://t.me/xingluo2 |
 | [低价·群] @claudegroup Claude Group（风险观察） | other/tg-catalog | 已核 | https://t.me/claudegroup |
 | [低价·群] @easyapis Easy-APi中转站（风险观察） | other/tg-catalog | 已核 | https://t.me/easyapis |
-| [低价·群] @fenglan1201 风岚の交流群（风险观察） | other/tg-catalog | 已核 | https://t.me/fenglan1201 |
 | [低价·群] @sourcegpt 顶级源头中转（风险观察） | other/tg-catalog | 已核 | https://t.me/sourcegpt |
 | [低价·群] @spacex_api 太空中转站chatgpt交流（风险观察） | other/tg-catalog | 已核 | https://t.me/spacex_api |
 | [低价·bot] @Mihai6668_bot 米海双向（风险观察） | other/tg-catalog | 已核 | https://t.me/Mihai6668_bot |
