@@ -17,7 +17,7 @@
 | `@WarzoneShopBot` | （见店档） | 登录窗广告摘要 | `records/other/bot-warzoneshop-gemini.md`；例 `t.me/chatgptplusbuysell/1218659` |
 | `@Gemini_shop_robot` | | 登录窗广告摘要 | `records/other/bot-gemini-shop-robot.md`；`…/1218652` |
 | `@AiSubShop_bot` | | 登录窗广告摘要 | `records/other/bot-aisubshop-ai-subs.md`；`…/1218638` |
-| `@AithSubscriptions_bot` | | 登录窗广告摘要 | `records/other/bot-aithsubscriptions-adobe-duolingo.md` |
+| `@AithSubscriptions_bot` | | 已下架 2026-10-08（卖 method 群入口和 charged cc 群） | `records/other/bot-aithsubscriptions-adobe-duolingo.md` |
 | `@VouchersShopBot` | | 已下架 2026-10-08（频道引至仿 Google 域） | `records/other/bot-vouchersshop-flash-sale.md` |
 | `@ExcaliburTechBot` | | 登录窗广告摘要 | `records/other/bot-excaliburtech-digital-activation.md` |
 | `@TrustedShopingbot` | | 已下架 2026-10-08（卖 method） | `records/other/bot-trustedshoping-claude-pro-gift.md` |

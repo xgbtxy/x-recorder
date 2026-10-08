@@ -1,6 +1,6 @@
 # [低价·bot] Aith Subscriptions：Adobe Express / Duolingo 低价订阅
 
-- 状态：已核（风险观察；观察≠推荐购买）
+- 状态：**已下架（REJECTED，2026-10-08：bot 商店卖 method 群入口和 charged cc 群）**
 - 记录日期：2026-09-26
 - **平台**：Telegram
 - **Bot**：@AithSubscriptions_bot
@@ -26,3 +26,7 @@
 ## 原文摘要（可选）
 
 公开 Telegram 消息摘要：`Product: Adobe Express 12 Months → $1`；`Duolingo → 2$`；并列出 ChatGPT Plus 无保修 $5 及其他 plans。公开 bot 页可打开入口并显示 “Aith_Subscriptions ✓”。
+
+## ⛔ 下架（老大 2026-10-08）
+
+- 小弟·TG群bot 10-08 08:52–08:53 CST 只读 Start 看 Shop 列表（aithsubscriptions_bot_1–4.webp）：「ONLY METHODS — Group Entry ✅ — $0 (Stock: 10098)」（method 群入口），以及「Vip char.ged c.c group $5（库存 9999）」（故意拆字写的 charged cc 群）。卖 method 和 cc 都在整店不收清单里，整店下架。未开小程序和 Developer API，未充值、未下单。
