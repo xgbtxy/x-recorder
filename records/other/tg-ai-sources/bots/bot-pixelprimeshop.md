@@ -29,3 +29,8 @@
 ## ⛔ 下架（老大 2026-10-08）
 
 - 小弟·TG群bot 10-08 06:34 CST 截图（pixelprimeshop_bot_1–2.webp）：搜索结果显示「Deleted Account」，只剩旧聊天记录；旧目录有 API-GPT、Claude 分类但已打不开。bot 失效，旧档价目仅作历史参考，整店下架。旧管理员 @pixelprimebd（人号，不立档）。
+
+## 复核（老大 2026-10-08 13:52）
+
+- 便宜店抽简介时发现同名新 bot @pixelprime_shop_bot（公开页标题 PixelPrime Digital Shop，curl 2026-10-08 13:52 CST 可开），疑似同店换号。
+- **不恢复**：这家没有自家公开频道，旧目录还有 API-GPT / Claude API 分类，不够 tg-ai-sources 门槛；与 Relataableebot 同口径。本档维持下架。
